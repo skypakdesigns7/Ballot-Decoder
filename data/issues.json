@@ -1,0 +1,12 @@
+{
+  "issues": [
+    { "id": "housing", "label": "Housing & Rent", "icon": "", "image_url": "/housing-2.png", "image_size": "65%", "description": "NYC and NY State face a housing affordability crisis. Candidates differ on rent regulation, new development, and tenant protections." },
+    { "id": "climate", "label": "Climate & Energy", "icon": "", "image_url": "/climate-2.png", "description": "NY's 2019 Climate Act sets ambitious targets. Debates center on implementation pace, costs, and the future of fossil fuels." },
+    { "id": "economy", "label": "Economy & Jobs", "icon": "", "image_url": "/economy-jobs.png", "description": "From Wall Street bonuses to working-class wages, candidates debate taxes, business policy, and economic opportunity statewide." },
+    { "id": "public-safety", "label": "Public Safety & Crime", "icon": "", "image_url": "/justice.png", "description": "Bail reform and policing remain contested. Candidates split on criminal justice reform vs. law enforcement investment." },
+    { "id": "education", "label": "Education", "icon": "", "image_url": "/education-3.png", "image_size": "65%", "description": "School funding, charter schools, and curriculum debates shape NY's education politics from NYC to rural districts." },
+    { "id": "healthcare", "label": "Healthcare", "icon": "", "image_url": "/healthcare.png", "image_size": "40%", "description": "Medicaid, single-payer proposals, and mental health access are central debates in Albany and Washington." },
+    { "id": "immigration", "label": "Immigration", "icon": "", "image_url": "/immigration-2.png", "image_size": "60%", "description": "NY's sanctuary policies and migrant shelter system have become flashpoints, especially in New York City." },
+    { "id": "infrastructure", "label": "Infrastructure & Transit", "icon": "", "image_url": "/transit.png", "image_size": "35%", "description": "Congestion pricing, MTA funding, and upstate infrastructure investment are defining issues for NY's next leaders." }
+  ]
+}

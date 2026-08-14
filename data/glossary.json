@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "president",
+    "title": "President of the United States",
+    "short_title": "President",
+    "level": "federal",
+    "branch": "executive",
+    "scope": "All 330 million Americans, including all New Yorkers",
+    "term_years": 4,
+    "term_limit": "Maximum 2 terms (8 years total)",
+    "how_elected": "Elected nationally every 4 years by the Electoral College. New York casts 28 electoral votes.",
+    "who_they_answer_to": "American voters. Can be removed by impeachment and conviction by Congress.",
+    "summary": "The President is the head of the federal government and commander-in-chief of the military. They sign or veto federal laws, set national policy, and represent the United States abroad. For New Yorkers, the President's decisions on federal spending, immigration, healthcare, and disaster relief have direct everyday consequences.",
+    "responsibilities": [
+      "Signs or vetoes legislation passed by Congress, including federal budgets, tax laws, and social programs.",
+      "Appoints federal judges — including Supreme Court justices — subject to Senate confirmation.",
+      "Commands the U.S. military and makes decisions about war, peace, and national security.",
+      "Negotiates and signs treaties and trade agreements with foreign countries.",
+      "Directs federal agencies like the IRS, EPA, and Department of Homeland Security.",
+      "Declares national emergencies and deploys federal resources during disasters."
+    ],
+    "real_world_examples": [
+      "The President decides whether to expand or cut Medicaid and the Affordable Care Act, directly affecting health coverage for millions of low-income New Yorkers.",
+      "The President sets national climate and environmental policy through executive orders and agency rules, affecting air quality, energy costs, and flood risk.",
+      "Federal housing vouchers, public housing funding, and mortgage interest deductions are all shaped by presidential budget proposals.",
+      "The President can direct immigration enforcement priorities, determining how aggressively ICE operates in New York communities."
+    ],
+    "daily_life_impact": "The President affects your daily life through the federal programs you rely on — Social Security, Medicare, Medicaid, student loans, and food assistance — and through the economy, since presidential policies on taxes, trade, and interest rates shape job availability and prices. For New Yorkers specifically, federal infrastructure dollars, disaster relief after storms, and immigration enforcement are all directly driven by presidential priorities.",
+    "related_role_ids": [
+      "vice-president",
+      "us-senator",
+      "us-representative"
+    ],
+    "officials_page_filter": {
+      "level": "federal",
+      "title_keyword": "President"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "President"
+    }
+  },
+  {
+    "id": "vice-president",
+    "title": "Vice President of the United States",
+    "short_title": "Vice President",
+    "level": "federal",
+    "branch": "executive",
+    "scope": "All Americans; becomes President if the President is unable to serve",
+    "term_years": 4,
+    "term_limit": "Maximum 2 terms (8 years total)",
+    "how_elected": "Elected on the same ticket as the President every 4 years.",
+    "who_they_answer_to": "American voters. Subject to the same impeachment process as the President.",
+    "summary": "The Vice President is first in the line of succession to the presidency and serves as President of the Senate, casting tie-breaking votes when the Senate is deadlocked 50-50. The role has grown significantly over time — modern vice presidents are key policy advisers and often lead specific initiatives. Nine vice presidents have become president due to death or resignation.",
+    "responsibilities": [
+      "Presides over the U.S. Senate and casts the deciding vote when senators are tied 50-50.",
+      "Assumes the presidency if the President dies, resigns, or is removed from office.",
+      "Leads specific policy portfolios assigned by the President.",
+      "Serves as a key political surrogate and liaison to Congress.",
+      "Participates in National Security Council meetings and receives classified intelligence briefings."
+    ],
+    "real_world_examples": [
+      "When the Senate is tied 50-50 on a major bill — like a budget or healthcare law — the Vice President casts the deciding vote that determines whether it passes.",
+      "If the President becomes incapacitated or dies, the Vice President immediately becomes President with full executive authority.",
+      "Vice presidents often lead major initiatives — for example, leading climate policy negotiations or overseeing economic recovery programs."
+    ],
+    "daily_life_impact": "Most of the time, the Vice President operates behind the scenes, but their tie-breaking Senate vote can determine whether major legislation affecting healthcare, taxes, and social programs becomes law. Their most consequential role is as the President-in-waiting — the fact that nine VPs have become president makes this office far more important than it might appear.",
+    "related_role_ids": [
+      "president",
+      "us-senator"
+    ],
+    "officials_page_filter": {
+      "level": "federal",
+      "title_keyword": "Vice President"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Vice President"
+    }
+  },
+  {
+    "id": "us-senator",
+    "title": "U.S. Senator",
+    "short_title": "U.S. Senator",
+    "level": "federal",
+    "branch": "legislative",
+    "scope": "All New Yorkers statewide. New York has 2 senators representing all 20 million residents.",
+    "term_years": 6,
+    "term_limit": "No term limits",
+    "how_elected": "Elected statewide by all registered NY voters. Senate terms are staggered — NY's two senators are not on the ballot at the same time.",
+    "who_they_answer_to": "New York voters statewide. Can be expelled by a two-thirds vote of the Senate.",
+    "summary": "New York has two U.S. Senators who represent all 20 million New Yorkers in Washington. Senators write and vote on federal laws, approve presidential appointments to the courts and Cabinet, and ratify treaties. Because each state gets exactly two senators regardless of population, New York's senators punch at the same weight as senators from states with far fewer people.",
+    "responsibilities": [
+      "Votes on all federal legislation, including the federal budget, tax laws, healthcare, and immigration reform.",
+      "Confirms or rejects the President's nominees for federal judges, Cabinet secretaries, and ambassadors.",
+      "Ratifies international treaties negotiated by the President.",
+      "Appropriates federal funding for New York infrastructure, housing, defense, and research.",
+      "Investigates the executive branch through committee hearings and oversight.",
+      "Can filibuster legislation, requiring 60 votes to overcome — giving the minority significant power."
+    ],
+    "real_world_examples": [
+      "New York's senators vote on whether to expand or cut Medicaid, Medicare, and the Affordable Care Act — programs covering millions of New Yorkers.",
+      "When a Supreme Court vacancy opens, senators vote on whether to confirm the President's nominee, shaping the courts for decades.",
+      "Federal transportation dollars for the Gateway Tunnel, MTA capital funding, and airport upgrades all require Senate approval.",
+      "The federal tax code — including deductions for mortgage interest, student loan interest, and state/local taxes — is shaped by Senate votes."
+    ],
+    "daily_life_impact": "Your two U.S. senators vote on the laws that govern federal taxes, healthcare, student loans, immigration, housing subsidies, and environmental rules. They also confirm the judges who interpret those laws for decades. New York's senators have historically been influential in shaping national legislation — Chuck Schumer served as Senate Majority Leader — meaning New York often has outsized influence in what becomes federal law.",
+    "related_role_ids": [
+      "us-representative",
+      "president",
+      "vice-president"
+    ],
+    "officials_page_filter": {
+      "level": "federal",
+      "title_keyword": "Senator"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "U.S. Senate"
+    }
+  },
+  {
+    "id": "us-representative",
+    "title": "U.S. Representative (Member of Congress)",
+    "short_title": "U.S. Rep.",
+    "level": "federal",
+    "branch": "legislative",
+    "scope": "Residents of their congressional district. New York has 26 districts, each with roughly 750,000 people.",
+    "term_years": 2,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters within a specific congressional district every 2 years in even-numbered years.",
+    "who_they_answer_to": "Voters in their district. Can be expelled by a two-thirds House vote.",
+    "summary": "Each of New York's 26 congressional districts elects one Representative to the U.S. House of Representatives. Representatives vote on all federal legislation and serve on committees that shape specific policy areas like agriculture, transportation, or financial services. Because they face voters every two years, they tend to be more closely attuned to local concerns than senators.",
+    "responsibilities": [
+      "Votes on all federal legislation, including the federal budget, tax bills, and major policy changes.",
+      "All federal spending bills must originate in the House, making Representatives central to budget negotiations.",
+      "Serves on committees that write, debate, and amend legislation in specific policy areas.",
+      "Provides constituent services — helping residents with issues like Social Security, veterans' benefits, and visa delays.",
+      "Can introduce articles of impeachment against the President, Vice President, or federal judges.",
+      "Allocates federal earmarks and directs spending to their district."
+    ],
+    "real_world_examples": [
+      "Your representative votes on federal housing vouchers, first-time homebuyer tax credits, and funding for public housing in your area.",
+      "Federal student loan interest rates, Pell Grant amounts, and college affordability programs are all determined by House votes.",
+      "Federal highway and transit dollars flowing to your district — for road repairs, bus lines, and rail upgrades — depend on your representative's committee work.",
+      "Your representative can help you navigate delays with Medicare, Social Security, veterans' benefits, or immigration paperwork through their district office."
+    ],
+    "daily_life_impact": "Your U.S. Representative is often the most accessible federal official — their district office staff actively help constituents resolve problems with federal agencies. They also vote on the federal programs that most directly affect working families: food assistance, childcare subsidies, student loans, and healthcare. In closely divided Congresses, individual House members from competitive New York districts often hold pivotal votes.",
+    "related_role_ids": [
+      "us-senator",
+      "state-assembly-member"
+    ],
+    "officials_page_filter": {
+      "level": "federal",
+      "title_keyword": "Representative"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "U.S. House"
+    }
+  },
+  {
+    "id": "governor",
+    "title": "Governor of New York",
+    "short_title": "Governor",
+    "level": "state",
+    "branch": "executive",
+    "scope": "All 20 million New Yorkers statewide",
+    "term_years": 4,
+    "term_limit": "No term limits in New York State",
+    "how_elected": "Elected statewide by all registered NY voters in even-numbered years not divisible by 4 (e.g., 2022, 2026).",
+    "who_they_answer_to": "New York voters. Can be removed by impeachment by the State Legislature.",
+    "summary": "The Governor is New York's chief executive — the most powerful elected official in state government. They propose and sign the state budget, appoint agency heads, sign or veto legislation, and can issue executive orders with immediate legal force. With a $250+ billion annual budget, New York's governor commands one of the largest state governments in the nation.",
+    "responsibilities": [
+      "Proposes the annual state budget and negotiates final spending with the Legislature — covering schools, hospitals, roads, and public safety.",
+      "Signs or vetoes every bill passed by the State Legislature.",
+      "Appoints heads of major state agencies including the Department of Health, MTA board, and State Police.",
+      "Issues executive orders that carry the force of law without legislative approval.",
+      "Commands the National Guard and can declare a state of emergency during disasters.",
+      "Grants pardons, commutations, and reprieves for state criminal convictions."
+    ],
+    "real_world_examples": [
+      "The Governor's budget proposal determines how much state aid flows to your local school district — directly affecting class sizes, programs, and property taxes.",
+      "The Governor controls MTA board appointments and has used executive power to pause or advance major transit projects like congestion pricing.",
+      "Governor Hochul proposed the Housing Compact to require municipalities to permit more housing — a direct response to the affordability crisis.",
+      "The Governor signs or vetoes climate legislation and sets the pace of New York's transition away from fossil fuels under the Climate Leadership Act."
+    ],
+    "daily_life_impact": "The Governor shapes virtually every aspect of life in New York: the funding your children's school receives, the safety standards at your workplace, whether your rent is regulated, how quickly the state responds to a public health crisis, and whether commuter rail runs on time. In a state as large and diverse as New York, the Governor must balance the needs of New York City, its suburbs, and upstate communities — choices that produce constant political tension.",
+    "related_role_ids": [
+      "lieutenant-governor",
+      "attorney-general",
+      "state-comptroller",
+      "state-senator",
+      "state-assembly-member"
+    ],
+    "officials_page_filter": {
+      "level": "statewide",
+      "title_keyword": "Governor"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Governor"
+    }
+  },
+  {
+    "id": "lieutenant-governor",
+    "title": "Lieutenant Governor of New York",
+    "short_title": "Lt. Governor",
+    "level": "state",
+    "branch": "executive",
+    "scope": "All New Yorkers statewide; becomes Governor if the Governor leaves office",
+    "term_years": 4,
+    "term_limit": "No term limits in New York State",
+    "how_elected": "Elected on the same ticket as the Governor in even-numbered non-presidential years.",
+    "who_they_answer_to": "New York voters. Assumes the governorship automatically if the Governor resigns, dies, or is removed.",
+    "summary": "The Lieutenant Governor is first in the line of succession to the Governor and serves as the ceremonial President of the State Senate. In New York, this role has varied in significance depending on the Governor — some Lt. Governors have led major policy initiatives, while others have played a more behind-the-scenes role. Three of New York's recent Governors — Paterson, Cuomo, and Hochul — all reached the office through succession rather than direct election.",
+    "responsibilities": [
+      "Assumes the office of Governor if the Governor resigns, dies, is impeached, or is otherwise unable to serve.",
+      "Serves as President of the State Senate — presiding over sessions and casting tie-breaking votes.",
+      "Leads specific policy initiatives assigned by the Governor.",
+      "Serves on the State Board of Canvassers, which certifies election results.",
+      "Represents the Governor at official functions and acts as Governor when the Governor is out of state."
+    ],
+    "real_world_examples": [
+      "When Governor Andrew Cuomo resigned in 2021, Lt. Governor Kathy Hochul immediately became Governor — without a new election — demonstrating the real-world stakes of this role.",
+      "In the rare event of a 63-63 Senate tie, the Lt. Governor casts the deciding vote on legislation.",
+      "Lt. governors are often assigned to lead specific initiatives — for example, overseeing economic development programs or coordinating regional infrastructure projects."
+    ],
+    "daily_life_impact": "Most of the time, the Lieutenant Governor works out of the public eye. But the role matters enormously as an insurance policy: if the Governor is unable to serve, the Lt. Governor steps in immediately. Given that multiple recent New York governors left office mid-term, voters are effectively choosing two potential governors when they vote for this ticket.",
+    "related_role_ids": [
+      "governor",
+      "state-senator"
+    ],
+    "officials_page_filter": {
+      "level": "statewide",
+      "title_keyword": "Lieutenant Governor"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Lieutenant Governor"
+    }
+  },
+  {
+    "id": "attorney-general",
+    "title": "Attorney General of New York",
+    "short_title": "Attorney General",
+    "level": "state",
+    "branch": "executive",
+    "scope": "All New Yorkers statewide; serves as the state's top law enforcement officer",
+    "term_years": 4,
+    "term_limit": "No term limits in New York State",
+    "how_elected": "Elected statewide by all registered NY voters in even-numbered non-presidential years.",
+    "who_they_answer_to": "New York voters. Operates independently of the Governor.",
+    "summary": "The Attorney General is New York's top law enforcement officer and chief legal adviser to state government. The AG's office prosecutes fraud, corruption, and consumer protection violations, and can sue corporations, the federal government, or even the Governor. New York's AG has historically been one of the most powerful state attorneys general in the country, often pursuing cases with national implications.",
+    "responsibilities": [
+      "Prosecutes fraud against consumers, including predatory lending, scams, and false advertising.",
+      "Investigates and prosecutes public corruption, including misconduct by elected officials and state employees.",
+      "Enforces state civil rights laws, including housing discrimination and workplace violations.",
+      "Represents the State of New York in lawsuits — including suing the federal government when federal actions harm New York.",
+      "Oversees nonprofit organizations and charities operating in New York.",
+      "Issues legal opinions that guide how state agencies interpret and apply the law."
+    ],
+    "real_world_examples": [
+      "The AG can sue landlords for widespread housing code violations or investigate deed theft schemes targeting homeowners.",
+      "AG Letitia James sued the Trump Organization for financial fraud and the NRA for misuse of charitable funds — both cases had national significance.",
+      "The AG investigates police misconduct and has authority to prosecute cases when local district attorneys have conflicts of interest.",
+      "New York's AG has sued major fossil fuel companies and the federal government over environmental rollbacks — using state law to fill federal enforcement gaps."
+    ],
+    "daily_life_impact": "The Attorney General is your advocate when a corporation defrauds you, when a landlord illegally discriminates against you, or when your employer steals your wages. The AG's consumer protection hotline and lawsuits against major companies often result in refunds and settlements that benefit millions of New Yorkers who never set foot in a courtroom. The AG's independence from the Governor also makes them a check on executive power.",
+    "related_role_ids": [
+      "governor",
+      "district-attorney",
+      "district-attorney-nyc"
+    ],
+    "officials_page_filter": {
+      "level": "statewide",
+      "title_keyword": "Attorney General"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Attorney General"
+    }
+  },
+  {
+    "id": "state-comptroller",
+    "title": "New York State Comptroller",
+    "short_title": "State Comptroller",
+    "level": "state",
+    "branch": "executive",
+    "scope": "All New Yorkers statewide; manages state finances and the pension fund for 1.1 million public employees",
+    "term_years": 4,
+    "term_limit": "No term limits in New York State",
+    "how_elected": "Elected statewide by all registered NY voters in even-numbered non-presidential years.",
+    "who_they_answer_to": "New York voters. Operates independently of the Governor to provide financial oversight.",
+    "summary": "The State Comptroller is New York's chief financial officer and fiscal watchdog. This role is far more powerful than most voters realize: the Comptroller manages the New York State and Local Retirement System — one of the largest pension funds in the world at approximately $280 billion — audits every state agency, and must approve every state contract before it takes effect. The Comptroller's independence from the Governor makes them a critical check on state spending.",
+    "responsibilities": [
+      "Manages the $280+ billion New York State and Local Retirement System, which covers 1.1 million current and retired public employees.",
+      "Audits all state agencies and local governments to detect waste, fraud, and mismanagement.",
+      "Reviews and approves all state contracts above a certain threshold before they take effect — acting as a pre-audit check on government spending.",
+      "Tracks and reports on the state's fiscal condition, issuing public reports on budget gaps and financial risks.",
+      "Administers the state payroll, paying hundreds of thousands of government employees.",
+      "Maintains the state's unclaimed funds program, holding billions in abandoned financial accounts."
+    ],
+    "real_world_examples": [
+      "The Comptroller invests the state pension fund — decisions about which stocks, bonds, and assets to hold affect the retirement security of teachers, police officers, firefighters, and other public workers.",
+      "Before a state agency can sign a major contract — for a construction project, IT system, or consulting service — the Comptroller must approve it, preventing corrupt no-bid deals.",
+      "The Comptroller audits agencies like the MTA, SUNY, and the Department of Health, publicly releasing findings about mismanagement that can force reforms.",
+      "Comptroller DiNapoli led a national movement to divest the pension fund from fossil fuel companies — using New York's financial muscle to influence corporate climate policy."
+    ],
+    "daily_life_impact": "If you are or will be a public school teacher, police officer, firefighter, transit worker, or state employee in New York, the Comptroller manages your retirement. For everyone else, the Comptroller's audit function is a key safeguard against the misuse of your tax dollars — every state contract the Comptroller blocks or flags is a potential scandal prevented. The Comptroller's annual fiscal reports also sound early warnings about budget problems before they become crises.",
+    "related_role_ids": [
+      "governor",
+      "attorney-general",
+      "nyc-comptroller"
+    ],
+    "officials_page_filter": {
+      "level": "statewide",
+      "title_keyword": "Comptroller"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "State Comptroller"
+    }
+  },
+  {
+    "id": "state-senator",
+    "title": "New York State Senator",
+    "short_title": "State Senator",
+    "level": "state",
+    "branch": "legislative",
+    "scope": "Residents of their State Senate district. New York has 63 districts.",
+    "term_years": 2,
+    "term_limit": "No term limits in New York State",
+    "how_elected": "Elected by voters within a specific State Senate district every 2 years.",
+    "who_they_answer_to": "Voters in their district. Can be expelled by a two-thirds Senate vote.",
+    "summary": "New York's 63 State Senators form the upper chamber of the State Legislature. Together with the State Assembly, they write and pass state laws, negotiate the state budget, and confirm certain gubernatorial appointments. The State Senate has historically been more conservative than the Assembly, and the balance of power between the two chambers shapes what legislation reaches the Governor's desk.",
+    "responsibilities": [
+      "Writes, debates, and votes on state laws covering everything from housing and healthcare to criminal justice and education.",
+      "Negotiates and passes the annual state budget, which exceeds $250 billion.",
+      "Confirms gubernatorial appointments to certain boards, commissions, and judgeships.",
+      "Conducts oversight hearings on state agencies and programs.",
+      "Introduces and passes bills to create new state agencies, programs, or regulations.",
+      "Represents constituent concerns to state agencies and helps residents navigate state government."
+    ],
+    "real_world_examples": [
+      "State senators vote on rent stabilization laws, tenant protections, and affordable housing mandates — directly affecting what New Yorkers pay in rent.",
+      "School aid formulas that determine how much state money your local district receives are negotiated and passed by the State Legislature.",
+      "Bail reform, criminal sentencing guidelines, and police accountability laws are all set by the State Legislature through the budget and standalone bills.",
+      "The Climate Leadership and Community Protection Act — New York's landmark climate law — was passed by the State Legislature."
+    ],
+    "daily_life_impact": "Your State Senator votes on the laws that govern your rent, your children's school funding, criminal justice, healthcare regulations, and the minimum wage. Because the State Senate is smaller (63 members vs. 150 in the Assembly), individual senators have more influence over specific bills. In closely divided chambers, a single swing vote can determine whether major legislation passes.",
+    "related_role_ids": [
+      "state-assembly-member",
+      "governor",
+      "lieutenant-governor"
+    ],
+    "officials_page_filter": {
+      "level": "state_legislature",
+      "title_keyword": "Senator"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "State Senate"
+    }
+  },
+  {
+    "id": "state-assembly-member",
+    "title": "New York State Assembly Member",
+    "short_title": "Assembly Member",
+    "level": "state",
+    "branch": "legislative",
+    "scope": "Residents of their Assembly district. New York has 150 Assembly districts.",
+    "term_years": 2,
+    "term_limit": "No term limits in New York State",
+    "how_elected": "Elected by voters within a specific Assembly district every 2 years.",
+    "who_they_answer_to": "Voters in their district. Can be expelled by a two-thirds Assembly vote.",
+    "summary": "New York's 150 Assembly Members form the lower chamber of the State Legislature and historically represent the more progressive voice in state government. Assembly districts are smaller than Senate districts, so Assembly Members represent more concentrated communities and often focus on very local concerns alongside statewide legislation.",
+    "responsibilities": [
+      "Votes on all state legislation, including the annual budget, tax policy, and regulatory changes.",
+      "Participates in budget negotiations as part of the Assembly majority's caucus.",
+      "Serves on committees that specialize in areas like education, health, transportation, or finance.",
+      "Introduces local legislation addressing specific concerns in their district.",
+      "Represents constituents at state agencies and advocates for local funding priorities.",
+      "Can introduce articles of impeachment against state officials."
+    ],
+    "real_world_examples": [
+      "Assembly members vote on the Housing Stability and Tenant Protection Act, which strengthened rent stabilization for millions of New York renters.",
+      "The Assembly passes the state budget, including funding levels for CUNY, SUNY, Medicaid, and local school districts.",
+      "Landmark healthcare legislation like the New York Health Act (single-payer proposal) is introduced and debated in the Assembly.",
+      "Assembly members from coastal districts have pushed for climate resiliency funding after hurricanes Sandy and Ida."
+    ],
+    "daily_life_impact": "Your Assembly Member votes on state laws that touch nearly every aspect of your life in New York — your rent, your workplace rights, your children's school funding, and the environmental regulations that protect your air and water. Because Assembly districts are smaller, your Assembly Member often knows your neighborhood and local concerns intimately, and their office can help you navigate state agencies, benefits, and programs.",
+    "related_role_ids": [
+      "state-senator",
+      "governor",
+      "us-representative"
+    ],
+    "officials_page_filter": {
+      "level": "state_legislature",
+      "title_keyword": "Assembly"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "State Assembly"
+    }
+  },
+  {
+    "id": "court-of-appeals-judge",
+    "title": "Court of Appeals Judge",
+    "short_title": "Court of Appeals Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "All New Yorkers statewide. The Court of Appeals is New York's highest court.",
+    "term_years": 14,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Nominated by a nonpartisan commission, then appointed by the Governor with Senate confirmation. Faces a retention vote after initial term.",
+    "who_they_answer_to": "Voters statewide in retention elections. Subject to removal by the Court on the Judiciary.",
+    "summary": "The Court of Appeals is New York's highest court — the final word on what New York's laws and constitution mean. Seven judges sit on this court, and their decisions are binding on every court in New York State. They primarily hear appeals, not trials, and choose which cases to take. Despite its enormous importance, most New Yorkers have never heard of it.",
+    "responsibilities": [
+      "Issues final, binding interpretations of New York State law and the state constitution.",
+      "Reviews decisions from the Appellate Divisions to ensure consistency and correct legal errors.",
+      "Decides which appeals to hear — typically focusing on cases that involve important legal questions.",
+      "Shapes the legal landscape for criminal justice, property rights, family law, and civil liberties in New York.",
+      "Occasionally issues landmark rulings on voting rights, housing, education funding, and other major issues.",
+      "Establishes legal precedents that all lower courts in New York must follow."
+    ],
+    "real_world_examples": [
+      "The Court of Appeals has ruled on whether rent stabilization laws are constitutional and what rights tenants have under state law.",
+      "Major criminal convictions can be overturned or upheld by the Court of Appeals — its decisions affect who is imprisoned and who goes free.",
+      "The court ruled in the landmark CFE v. State of New York case that the state must adequately fund public schools — leading to billions in additional education spending.",
+      "Environmental regulations and challenges to state agency rules are ultimately resolved by this court."
+    ],
+    "daily_life_impact": "The Court of Appeals shapes the legal rules that govern your life in New York — your rights as a tenant, employee, criminal defendant, or parent are all defined in part by this court's interpretations of state law. Most New Yorkers will never interact directly with this court, but its decisions ripple through every courthouse in the state and affect millions of people.",
+    "related_role_ids": [
+      "appellate-division-justice",
+      "supreme-court-justice"
+    ],
+    "officials_page_filter": {
+      "level": "state",
+      "title_keyword": "Court of Appeals"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Court of Appeals"
+    }
+  },
+  {
+    "id": "supreme-court-justice",
+    "title": "New York Supreme Court Justice",
+    "short_title": "Supreme Court Justice (NY)",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Residents of their judicial district. New York has 13 judicial districts.",
+    "term_years": 14,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Nominated at party judicial conventions, then elected by voters in their judicial district.",
+    "who_they_answer_to": "Voters in their judicial district. Subject to removal by the Court on the Judiciary.",
+    "summary": "Despite the name, New York's Supreme Court is NOT the state's highest court — it is actually a trial court where most major civil and criminal cases are heard first. This confuses many voters. New York's highest court is the Court of Appeals. Supreme Court Justices preside over serious felony trials, major civil lawsuits, and complex business disputes. The name is a historical quirk that New York has never bothered to fix.",
+    "responsibilities": [
+      "Presides over major criminal trials, including felonies and serious offenses.",
+      "Hears large civil lawsuits — personal injury, contract disputes, real estate litigation, and commercial cases.",
+      "Rules on constitutional challenges to state and local laws.",
+      "Manages complex multi-party litigation and class action lawsuits.",
+      "Issues injunctions and restraining orders in urgent legal matters.",
+      "Can be designated to sit on the Appellate Division to hear appeals."
+    ],
+    "real_world_examples": [
+      "High-profile criminal trials — including major fraud cases, organized crime prosecutions, and serious felonies — are tried before Supreme Court Justices.",
+      "Landlord-tenant disputes over large sums, foreclosure proceedings, and major real estate transactions are litigated in Supreme Court.",
+      "Business disputes involving millions of dollars, contract breaches, and corporate litigation are heard in Supreme Court's Commercial Division.",
+      "Challenges to the constitutionality of state laws or government actions are filed in Supreme Court."
+    ],
+    "daily_life_impact": "If you are ever involved in a serious lawsuit — a major injury claim, a business dispute, or a significant criminal matter — it will likely come before a Supreme Court Justice. Despite the confusing name, this is a working trial court, not the state's top authority. The decisions made here can be appealed to the Appellate Division, and then to the Court of Appeals. Knowing this distinction helps you understand why the name on a courthouse doesn't always tell the full story.",
+    "related_role_ids": [
+      "court-of-appeals-judge",
+      "appellate-division-justice",
+      "county-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "state",
+      "title_keyword": "Supreme Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Supreme Court"
+    }
+  },
+  {
+    "id": "appellate-division-justice",
+    "title": "Appellate Division Justice",
+    "short_title": "Appellate Justice",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Cases arising within their Appellate Division department. New York has 4 Appellate Departments.",
+    "term_years": 14,
+    "term_limit": "Mandatory retirement at age 70; serve 5-year terms on the Appellate Division by gubernatorial designation",
+    "how_elected": "Elected as Supreme Court Justices, then designated to serve on the Appellate Division by the Governor.",
+    "who_they_answer_to": "Subject to the Court on the Judiciary. Not directly elected to this specific role.",
+    "summary": "The Appellate Division is the intermediate appeals court between the trial courts and the Court of Appeals. When someone loses a case in Supreme Court and appeals, the Appellate Division reviews whether the trial was conducted correctly and whether the law was applied properly. There are four departments covering different regions of the state, and their decisions are binding on all lower courts in their territory.",
+    "responsibilities": [
+      "Reviews decisions from lower courts — including Supreme Court, County Court, and Family Court — to correct legal errors.",
+      "Interprets state statutes and constitutional provisions, establishing binding precedent for trial courts.",
+      "Hears appeals in both civil and criminal matters.",
+      "Disciplines attorneys — the Appellate Division's Grievance Committee handles lawyer misconduct.",
+      "Reviews decisions by administrative agencies like the Workers' Compensation Board and the Department of Motor Vehicles.",
+      "Issues emergency orders and stays pending full appeal."
+    ],
+    "real_world_examples": [
+      "If you believe a judge made a legal error in your trial — applying the wrong law, admitting improper evidence, or giving the wrong jury instructions — you appeal to the Appellate Division.",
+      "Appellate Division rulings on landlord-tenant law, zoning disputes, and property rights shape how those laws are applied across an entire region of the state.",
+      "Criminal convictions can be overturned by the Appellate Division if they find constitutional violations in how the case was handled.",
+      "Attorneys who commit misconduct — fraud, neglect, or ethical violations — are disciplined by the Appellate Division's attorney discipline committees."
+    ],
+    "daily_life_impact": "Most people never appear before the Appellate Division, but its decisions shape the legal rules that trial courts apply in thousands of cases every year. If you or someone you know believes a court made a mistake in a serious case, the Appellate Division is the first stop on the road to justice. Its rulings on common legal questions — like how to interpret a contract or when police can conduct a search — affect everyday legal outcomes across entire regions of New York.",
+    "related_role_ids": [
+      "court-of-appeals-judge",
+      "supreme-court-justice"
+    ],
+    "officials_page_filter": {
+      "level": "state",
+      "title_keyword": "Appellate"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Appellate"
+    }
+  },
+  {
+    "id": "county-court-judge",
+    "title": "County Court Judge",
+    "short_title": "County Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Residents of their county (outside New York City)",
+    "term_years": 10,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Nominated at party judicial conventions and elected by voters in their county.",
+    "who_they_answer_to": "Voters in their county. Subject to removal by the Court on the Judiciary.",
+    "summary": "County Court Judges preside over serious criminal cases — including felony trials — and certain civil cases outside New York City. They handle the most significant criminal matters in their county and play a central role in local criminal justice. In smaller counties, the County Court Judge may also handle Family Court and Surrogate Court matters.",
+    "responsibilities": [
+      "Presides over felony criminal trials and plea negotiations.",
+      "Handles criminal appeals from lower courts, including Town and Village Justice Courts.",
+      "Hears civil cases involving amounts above local court limits.",
+      "In some counties, also serves as Family Court or Surrogate Court Judge.",
+      "Issues search warrants, arrest warrants, and other pre-trial orders.",
+      "Sentences defendants convicted of felony offenses."
+    ],
+    "real_world_examples": [
+      "A felony drug trafficking case, assault prosecution, or burglary trial in your county will be heard by the County Court Judge.",
+      "If someone receives what they believe is an unjust sentence in a lower court, the County Court Judge reviews those criminal appeals.",
+      "Major local crimes — from DWI manslaughter to financial fraud — are prosecuted in front of the County Court Judge."
+    ],
+    "daily_life_impact": "If you are charged with a felony in New York outside of New York City, the County Court Judge will preside over your case. Their decisions about bail, evidence, and sentencing can alter lives permanently. The County Court Judge also sets the tone for how criminal justice is administered in your county — whether to emphasize rehabilitation or punishment, how to treat drug offenses, and whether to fill jails or divert people to treatment.",
+    "related_role_ids": [
+      "district-attorney",
+      "supreme-court-justice",
+      "family-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "County Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "County Court"
+    }
+  },
+  {
+    "id": "family-court-judge",
+    "title": "Family Court Judge",
+    "short_title": "Family Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Families and children in their county or borough",
+    "term_years": 10,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Elected by voters in their county or, in NYC, appointed by the Mayor.",
+    "who_they_answer_to": "Voters (outside NYC) or the Mayor (inside NYC). Subject to removal by the Court on the Judiciary.",
+    "summary": "Family Court Judges handle some of the most sensitive and consequential cases in the legal system — child custody and visitation, child abuse and neglect, juvenile delinquency, adoption, foster care, orders of protection, and child support. These judges make decisions that directly shape family life, and their rulings can determine whether children remain with parents or enter foster care.",
+    "responsibilities": [
+      "Adjudicates child custody, visitation, and support disputes between parents.",
+      "Hears child abuse and neglect cases and decides whether children should be removed from homes.",
+      "Presides over juvenile delinquency proceedings for minors accused of crimes.",
+      "Issues and enforces orders of protection in domestic violence cases.",
+      "Handles adoption proceedings and termination of parental rights.",
+      "Oversees foster care placements and permanency hearings."
+    ],
+    "real_world_examples": [
+      "When parents divorce and can't agree on who the children live with, a Family Court Judge makes the final custody determination.",
+      "If child protective services believes a child is in danger, a Family Court Judge decides whether to remove the child from the home.",
+      "When a teenager is arrested, their case is handled in Family Court — where the focus is on rehabilitation, not adult criminal punishment.",
+      "Victims of domestic violence seek orders of protection from Family Court Judges, which can legally bar an abuser from contact."
+    ],
+    "daily_life_impact": "Family Court decisions are among the most intimate government actions — they determine who raises children, whether families stay together, and how domestic violence victims are protected. If you are going through a divorce, custody dispute, or protective order, the Family Court Judge assigned to your case will make decisions with lifelong consequences. The quality and approach of your local Family Court matters enormously for families in crisis.",
+    "related_role_ids": [
+      "surrogate-court-judge",
+      "county-court-judge",
+      "district-attorney-nyc"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Family Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Family Court"
+    }
+  },
+  {
+    "id": "surrogate-court-judge",
+    "title": "Surrogate Court Judge",
+    "short_title": "Surrogate Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Residents of their county; handles estates of people who died in or owned property in that county",
+    "term_years": 10,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Nominated at party conventions and elected by voters in their county.",
+    "who_they_answer_to": "Voters in their county. Subject to removal by the Court on the Judiciary.",
+    "summary": "The Surrogate Court is one of the least known but most directly relevant courts for ordinary New Yorkers. This court handles the estates of people who have died — validating wills, overseeing the distribution of assets, and resolving disputes among heirs. It also handles adoptions. Despite touching nearly every family at some point, this court flies almost entirely under the radar and its judges are rarely contested in elections.",
+    "responsibilities": [
+      "Admits wills to probate — formally recognizing a will as valid and authorizing the executor to act.",
+      "Oversees the administration of estates when someone dies without a valid will (intestate estates).",
+      "Resolves disputes among heirs, beneficiaries, and creditors over estate assets.",
+      "Supervises trusts that benefit minors or incapacitated individuals.",
+      "Grants adoptions and finalizes legal parent-child relationships.",
+      "Appoints guardians for minors who inherit property."
+    ],
+    "real_world_examples": [
+      "When a family member dies and leaves a will, the Surrogate Court Judge validates the will and authorizes the executor to distribute the estate.",
+      "If a parent dies without a will and the family disagrees about who inherits the house, the Surrogate Court Judge applies state law to resolve the dispute.",
+      "When a family adopts a child, the Surrogate Court Judge presides over the finalization hearing that makes the adoption legal.",
+      "If an executor is mismanaging an estate — selling assets improperly or failing to pay debts — the Surrogate Court Judge can remove them and appoint a replacement."
+    ],
+    "daily_life_impact": "Most New Yorkers will interact with the Surrogate Court at some of the most significant moments of their lives — when a parent or spouse dies and leaves assets behind, or when welcoming a child through adoption. The judge presiding over your family's estate matters: they determine how efficiently the process moves, how disputes are resolved, and whether the estate is administered fairly. Yet Surrogate Court races are almost always low-turnout, and many voters don't know this office exists.",
+    "related_role_ids": [
+      "family-court-judge",
+      "county-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Surrogate"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Surrogate"
+    }
+  },
+  {
+    "id": "civil-court-judge",
+    "title": "Civil Court Judge (NYC)",
+    "short_title": "Civil Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "New York City residents only. Handles civil claims up to $25,000.",
+    "term_years": 10,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Elected by voters in their borough or district within New York City.",
+    "who_they_answer_to": "Voters in their jurisdiction. Subject to removal by the Court on the Judiciary.",
+    "summary": "The Civil Court in New York City handles civil disputes involving amounts up to $25,000, including housing cases, small business disputes, and consumer claims. This is also where most landlord-tenant cases in New York City are heard — including eviction proceedings — making this court directly relevant to millions of renters. NYC Civil Court judges handle an enormous volume of cases.",
+    "responsibilities": [
+      "Presides over landlord-tenant cases, including eviction proceedings and rent disputes.",
+      "Hears civil lawsuits involving claims up to $25,000.",
+      "Oversees Small Claims Court, where individuals can represent themselves in cases up to $10,000.",
+      "Handles housing code enforcement cases brought by the city against landlords.",
+      "Issues judgments in consumer debt collection cases.",
+      "Hears cases involving personal injury, property damage, and contract disputes below the Supreme Court threshold."
+    ],
+    "real_world_examples": [
+      "When a New York City landlord moves to evict a tenant, the case is heard in Civil Court — this judge decides whether you keep your home.",
+      "If a debt collector sues you for a credit card debt or medical bill, the case typically goes to Civil Court.",
+      "Housing Court cases — where the city sues a landlord for failing to make repairs or maintain heat — are handled by Civil Court judges.",
+      "Small claims disputes — a contractor who didn't finish a job, a security deposit withheld unfairly — are resolved in Civil Court."
+    ],
+    "daily_life_impact": "For New York City renters, the Civil Court judge assigned to housing cases is one of the most consequential local officials in their lives. Eviction cases can determine whether a family loses their home, and how a judge handles those proceedings — granting more or less time, interpreting lease terms strictly or generously — directly affects housing stability. This court handles enormous volumes of cases with high stakes for low-income New Yorkers.",
+    "related_role_ids": [
+      "criminal-court-judge",
+      "supreme-court-justice",
+      "family-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Civil Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Civil Court"
+    }
+  },
+  {
+    "id": "criminal-court-judge",
+    "title": "Criminal Court Judge (NYC)",
+    "short_title": "Criminal Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "New York City only. Handles misdemeanor cases and arraignments.",
+    "term_years": 10,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Appointed by the Mayor of New York City.",
+    "who_they_answer_to": "The Mayor appoints; subject to removal by the Court on the Judiciary.",
+    "summary": "New York City's Criminal Court handles misdemeanor cases and the initial appearance (arraignment) of everyone arrested in the five boroughs — including felony arrests that will eventually move to Supreme Court. This is where bail is first set and where the vast majority of criminal cases in New York City are resolved, often through plea agreements. Criminal Court judges see more defendants than almost any other judges in the state.",
+    "responsibilities": [
+      "Presides over arraignments — the first court appearance after an arrest — where bail is set or the defendant is released.",
+      "Handles all misdemeanor trials and plea negotiations.",
+      "Issues orders of protection in criminal domestic violence cases.",
+      "Oversees specialized courts including drug court, mental health court, and veterans' court.",
+      "Transfers felony cases to Supreme Court after preliminary hearings.",
+      "Issues warrants for arrests and searches."
+    ],
+    "real_world_examples": [
+      "Every person arrested in New York City appears before a Criminal Court judge within 24 hours — this judge sets bail, which determines whether they wait for trial at home or in jail.",
+      "Misdemeanor charges — shoplifting, minor assault, drug possession — are fully tried and resolved in Criminal Court.",
+      "Drug courts and mental health courts, which offer treatment instead of incarceration, are run by Criminal Court judges.",
+      "A criminal order of protection keeping an abuser away from a victim is issued by a Criminal Court judge."
+    ],
+    "daily_life_impact": "For New Yorkers who are arrested — whether guilty or innocent — the Criminal Court judge who handles their arraignment makes one of the most consequential decisions in their case: whether they are detained or released while awaiting trial. Research shows that pretrial detention increases the likelihood of conviction and job loss, even for people later found not guilty. Criminal Court judges also shape how the justice system treats drug offenses, mental illness, and minor violations.",
+    "related_role_ids": [
+      "civil-court-judge",
+      "supreme-court-justice",
+      "district-attorney-nyc"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Criminal Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Criminal Court"
+    }
+  },
+  {
+    "id": "district-court-judge",
+    "title": "District Court Judge",
+    "short_title": "District Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Nassau County and Suffolk County only. Handles civil and criminal matters at the local level.",
+    "term_years": 6,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Elected by voters in Nassau or Suffolk County.",
+    "who_they_answer_to": "Voters in Nassau or Suffolk County.",
+    "summary": "District Courts exist only in Nassau and Suffolk counties on Long Island, serving a similar function to Civil and Criminal Court in New York City. They handle misdemeanor criminal cases, civil disputes up to $15,000, landlord-tenant cases, and small claims. For Long Island residents, the District Court is the most accessible court for everyday legal matters.",
+    "responsibilities": [
+      "Handles misdemeanor criminal trials and arraignments in Nassau and Suffolk counties.",
+      "Presides over civil disputes up to $15,000.",
+      "Adjudicates landlord-tenant cases, including evictions.",
+      "Hears small claims cases up to $5,000.",
+      "Issues orders of protection and other emergency legal orders.",
+      "Handles traffic violations and local ordinance violations."
+    ],
+    "real_world_examples": [
+      "A landlord on Long Island filing to evict a tenant will go to District Court.",
+      "Misdemeanor charges like DWI, petit larceny, or disorderly conduct in Nassau or Suffolk are tried in District Court.",
+      "Small business disputes, consumer protection claims, and minor contract disagreements under $15,000 are heard in District Court.",
+      "Traffic tickets and minor vehicle and traffic violations are adjudicated in District Court."
+    ],
+    "daily_life_impact": "For Nassau and Suffolk County residents, District Court is likely the court they would appear in most often — for a traffic ticket, a small claims dispute, or a housing matter. The judges who preside over these cases shape how justice is administered for hundreds of thousands of Long Islanders in everyday legal matters.",
+    "related_role_ids": [
+      "county-court-judge",
+      "town-village-court-judge",
+      "surrogate-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "District Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "District Court"
+    }
+  },
+  {
+    "id": "city-court-judge",
+    "title": "City Court Judge (Outside NYC)",
+    "short_title": "City Court Judge",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Residents of cities outside New York City (e.g., Buffalo, Rochester, Syracuse, Albany, Yonkers)",
+    "term_years": 10,
+    "term_limit": "Mandatory retirement at age 70",
+    "how_elected": "Elected by voters within the city in partisan elections.",
+    "who_they_answer_to": "Voters in their city. Subject to removal by the Court on the Judiciary.",
+    "summary": "Cities outside New York City have their own City Courts that handle criminal misdemeanors, civil cases up to $15,000, landlord-tenant disputes, and small claims. In cities like Buffalo, Rochester, and Syracuse, the City Court handles the bulk of criminal and civil matters for local residents and is often the most accessible court in the community.",
+    "responsibilities": [
+      "Handles misdemeanor criminal cases and felony arraignments.",
+      "Presides over civil disputes up to $15,000.",
+      "Adjudicates landlord-tenant cases and eviction proceedings.",
+      "Hears small claims cases up to $5,000.",
+      "Issues orders of protection and temporary restraining orders.",
+      "May operate specialized courts such as drug court or mental health court."
+    ],
+    "real_world_examples": [
+      "When someone is arrested in Buffalo or Rochester, their first court appearance is before the City Court Judge, who sets bail.",
+      "Eviction cases against tenants in upstate cities go through City Court.",
+      "Small business disputes and consumer claims under $15,000 are resolved in City Court.",
+      "Many criminal cases in upstate cities — from disorderly conduct to misdemeanor assault — begin and end in City Court."
+    ],
+    "daily_life_impact": "For residents of upstate and mid-state cities, the City Court is the primary place where law intersects with daily life — where traffic tickets are fought, landlord disputes are resolved, and criminal charges are faced. The philosophy and approach of your City Court judges matters enormously for how justice is administered in your community.",
+    "related_role_ids": [
+      "county-court-judge",
+      "town-village-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "City Court"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "City Court"
+    }
+  },
+  {
+    "id": "town-village-court-judge",
+    "title": "Town and Village Court Judge (Justice Court)",
+    "short_title": "Town/Village Justice",
+    "level": "state",
+    "branch": "judicial",
+    "scope": "Residents of the specific town or village",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters in the town or village in partisan elections.",
+    "who_they_answer_to": "Voters in their town or village.",
+    "summary": "Town and Village Courts — also called Justice Courts — are the most local courts in New York and handle the highest volume of cases. They adjudicate traffic violations, local ordinance violations, misdemeanor criminal matters, and small civil claims for residents of towns and villages across the state. Uniquely, these judges are not required to be lawyers — many are ordinary citizens who apply to be trained by the state.",
+    "responsibilities": [
+      "Handles traffic tickets and violations of local ordinances.",
+      "Presides over arraignments for arrests made within the town or village.",
+      "Adjudicates misdemeanor criminal cases and certain violations.",
+      "Handles small claims cases up to $3,000.",
+      "Issues search warrants, arrest warrants, and orders of protection.",
+      "Conducts preliminary hearings before felony cases are sent to County Court."
+    ],
+    "real_world_examples": [
+      "Traffic tickets issued on local roads in a town or village — speeding, stop sign violations, failure to yield — are adjudicated by the Town Justice.",
+      "When someone is arrested in a town, their arraignment and initial bail hearing take place in Town Court, often within hours of the arrest.",
+      "Violations of local ordinances — noise complaints, property code violations, zoning infractions — are enforced in Town and Village Court.",
+      "Domestic disputes resulting in misdemeanor charges or protective order requests are handled in Town Court."
+    ],
+    "daily_life_impact": "For the majority of New Yorkers who live in towns and villages outside cities, the Town Justice is the most accessible judge they'll ever encounter — usually to fight a traffic ticket or resolve a minor local matter. Because these judges don't need to be lawyers, the quality and fairness of local justice can vary significantly from town to town. This is one of the most common judicial offices to appear on a local ballot.",
+    "related_role_ids": [
+      "county-court-judge",
+      "city-court-judge",
+      "town-supervisor"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Justice"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Town Justice"
+    }
+  },
+  {
+    "id": "nyc-mayor",
+    "title": "Mayor of New York City",
+    "short_title": "NYC Mayor",
+    "level": "local",
+    "branch": "executive",
+    "scope": "All 8.3 million New York City residents across the five boroughs",
+    "term_years": 4,
+    "term_limit": "Maximum 2 consecutive terms",
+    "how_elected": "Elected by NYC voters in odd-numbered years (e.g., 2025, 2029). Primary elections are decisive in heavily Democratic NYC.",
+    "who_they_answer_to": "NYC voters. The City Council can override mayoral vetoes. The Governor and State Legislature can preempt city actions.",
+    "summary": "The Mayor of New York City is the chief executive of the most populous city in the United States, overseeing a budget of over $100 billion and a workforce of over 300,000 employees. The Mayor controls the NYPD, FDNY, Department of Education, and most city agencies. Running New York City — with its extraordinary density, diversity, and complexity — is widely considered one of the hardest jobs in American government.",
+    "responsibilities": [
+      "Proposes and signs the annual city budget, allocating over $100 billion across agencies, schools, and services.",
+      "Appoints the Police Commissioner, Fire Commissioner, Schools Chancellor, and heads of all major city agencies.",
+      "Sets policing priorities, including how aggressively the NYPD enforces different laws.",
+      "Manages the city's public school system, the largest in the nation with over 1 million students.",
+      "Responds to emergencies and coordinates city services during crises.",
+      "Sets land use and zoning policies that shape where housing, businesses, and infrastructure are built."
+    ],
+    "real_world_examples": [
+      "The Mayor appoints the Police Commissioner and sets overall policing policy — including decisions about stop-and-frisk, fare evasion enforcement, and protest response.",
+      "The Mayor appoints the Schools Chancellor and controls the budget for New York City's 1,800+ public schools, affecting curricula, staffing, and facilities for over a million students.",
+      "Through the Department of City Planning and ULURP process, the Mayor shapes which neighborhoods see new development and affordable housing.",
+      "The Mayor sets sustainability goals, manages city fleets of vehicles, and determines how aggressively the city pursues climate initiatives like building electrification."
+    ],
+    "daily_life_impact": "The NYC Mayor shapes virtually every aspect of daily life for New Yorkers: the cleanliness of your streets, the quality of your children's school, how quickly police respond to a 911 call, whether the city enforces housing codes on your landlord, and how the city responds to public health emergencies. The Mayor's priorities — and who they appoint to run major agencies — cascade through millions of daily interactions between city government and residents.",
+    "related_role_ids": [
+      "nyc-public-advocate",
+      "nyc-comptroller",
+      "nyc-council-member",
+      "borough-president"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Mayor of New York City"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Mayor"
+    }
+  },
+  {
+    "id": "nyc-public-advocate",
+    "title": "NYC Public Advocate",
+    "short_title": "Public Advocate",
+    "level": "local",
+    "branch": "executive",
+    "scope": "All 8.3 million New York City residents",
+    "term_years": 4,
+    "term_limit": "Maximum 2 consecutive terms",
+    "how_elected": "Elected citywide by NYC voters in odd-numbered years.",
+    "who_they_answer_to": "NYC voters. Acts as an independent ombudsman, not subordinate to the Mayor.",
+    "summary": "The Public Advocate is New York City's official watchdog and independent complaints officer — a citywide elected official whose job is to hold the Mayor and city agencies accountable. The Public Advocate investigates complaints from residents, issues reports on city agency failures, and can introduce legislation in the City Council. The role also serves as the first in the line of succession to the Mayor and has historically been a launching pad for higher office.",
+    "responsibilities": [
+      "Investigates complaints from New Yorkers about city agencies and advocates for resolution.",
+      "Issues public reports and audits on the performance and failures of city government.",
+      "Introduces legislation in the City Council and participates in Council proceedings without voting rights.",
+      "Becomes Mayor if the Mayor is unable to serve.",
+      "Serves on the Board of Education and other city bodies.",
+      "Advocates publicly on behalf of underserved communities and city residents with unresolved grievances."
+    ],
+    "real_world_examples": [
+      "The Public Advocate can investigate systemic failures in Housing Court or the Housing Authority and issue reports demanding reform.",
+      "Reports on which schools are failing to provide legally required services to students with disabilities can pressure the school system to act.",
+      "The Public Advocate can investigate patterns of NYPD misconduct and publish findings that fuel public debate and legislative action.",
+      "Individual New Yorkers who can't get their city agency complaint resolved can contact the Public Advocate's office for help."
+    ],
+    "daily_life_impact": "The Public Advocate is primarily useful to you when city government fails you — when your housing complaint is ignored, when your building violates codes and the city won't enforce them, or when a city agency makes an error that affects your benefits or services. The Office's investigative reports often drive media coverage and legislative action, making it a meaningful check on mayoral power even without direct authority over agencies.",
+    "related_role_ids": [
+      "nyc-mayor",
+      "nyc-comptroller",
+      "nyc-council-member"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Public Advocate"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Public Advocate"
+    }
+  },
+  {
+    "id": "nyc-comptroller",
+    "title": "NYC Comptroller",
+    "short_title": "NYC Comptroller",
+    "level": "local",
+    "branch": "executive",
+    "scope": "All New York City residents; manages city finances and the city pension funds",
+    "term_years": 4,
+    "term_limit": "Maximum 2 consecutive terms",
+    "how_elected": "Elected citywide by NYC voters in odd-numbered years.",
+    "who_they_answer_to": "NYC voters. Operates independently of the Mayor.",
+    "summary": "The NYC Comptroller is the city's chief financial officer and watchdog, managing five city pension funds with over $250 billion in assets, auditing city agencies, and reviewing city contracts. Like the State Comptroller, this role has far more power than most voters realize — the Comptroller's audits can expose mismanagement, and their contract reviews act as a financial check on mayoral spending.",
+    "responsibilities": [
+      "Manages five New York City pension funds covering over 700,000 current and retired city workers.",
+      "Audits city agencies and programs to detect waste, fraud, and mismanagement.",
+      "Reviews and registers city contracts, providing oversight of how public money is spent.",
+      "Tracks and reports on the city's fiscal health, including budget gaps and debt levels.",
+      "Handles claims against the city, including personal injury and civil rights claims.",
+      "Invests city funds and manages the city's cash flow."
+    ],
+    "real_world_examples": [
+      "The Comptroller's audits of the NYPD, Housing Authority, or Department of Education can reveal shocking mismanagement and force change.",
+      "Before a city contract is finalized — for a construction project, tech system, or consulting firm — the Comptroller reviews it for cost-effectiveness and compliance.",
+      "When city workers — teachers, sanitation workers, firefighters — retire, the Comptroller's office ensures their pensions are paid accurately and on time.",
+      "The NYC Comptroller has pushed for pension fund divestment from fossil fuels and firearms manufacturers, using financial leverage for policy goals."
+    ],
+    "daily_life_impact": "If you work for New York City — as a teacher, transit worker, firefighter, or police officer — the Comptroller manages your retirement savings. For everyone else, the Comptroller's audits and contract reviews are a safeguard against the waste and corruption that can plague large city governments. When the Comptroller exposes a failing program or an inflated contract, those findings often lead to reforms that improve city services.",
+    "related_role_ids": [
+      "nyc-mayor",
+      "nyc-public-advocate",
+      "state-comptroller"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "NYC Comptroller"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "NYC Comptroller"
+    }
+  },
+  {
+    "id": "nyc-council-member",
+    "title": "NYC Council Member",
+    "short_title": "Council Member",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "Residents of their City Council district. NYC has 51 districts.",
+    "term_years": 4,
+    "term_limit": "Maximum 2 consecutive terms",
+    "how_elected": "Elected by voters within a specific Council district in odd-numbered years.",
+    "who_they_answer_to": "Voters in their district. The Council collectively can override mayoral vetoes with a two-thirds vote.",
+    "summary": "New York City's 51 Council Members make up the City Council, which is the city's legislature. They pass local laws, approve the city budget, and provide oversight of the Mayor and city agencies. Because Council districts are relatively small — roughly 160,000 residents each — Council Members are among the most accessible elected officials and tend to be closely tied to their specific neighborhoods.",
+    "responsibilities": [
+      "Votes on city legislation, including zoning changes, land use approvals, and local laws.",
+      "Negotiates and approves the annual city budget, including allocating discretionary funds to local projects.",
+      "Oversees city agencies through committee hearings and investigations.",
+      "Introduces legislation addressing local concerns — from street safety to tenant protections.",
+      "Allocates discretionary funds (known as 'member items') to local nonprofits, schools, and community organizations.",
+      "Can override the Mayor's veto with a two-thirds Council vote."
+    ],
+    "real_world_examples": [
+      "A Council Member's vote on a zoning change can determine whether a new apartment building or affordable housing project gets built in your neighborhood.",
+      "The Council has passed landmark legislation on climate, including Local Law 97, requiring large buildings to reduce emissions.",
+      "The Council oversees and sets policy for the NYPD, including rules on surveillance technology, body cameras, and civilian oversight.",
+      "Council members allocate discretionary funds to local parks, libraries, youth programs, and senior centers in their district."
+    ],
+    "daily_life_impact": "Your Council Member is often the most accessible elected official you can reach — their district office is local, their staff knows the neighborhood, and they handle a wide range of constituent services. They vote on the local laws that govern everything from how tall buildings can be to how bars operate late at night. Council Members are often the first elected officials to respond when a community needs a new park, crosswalk, or after-school program.",
+    "related_role_ids": [
+      "nyc-mayor",
+      "nyc-public-advocate",
+      "borough-president"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Council"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "City Council"
+    }
+  },
+  {
+    "id": "borough-president",
+    "title": "Borough President (NYC)",
+    "short_title": "Borough President",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their borough (one of NYC's five boroughs: Manhattan, Brooklyn, Queens, Bronx, Staten Island)",
+    "term_years": 4,
+    "term_limit": "Maximum 2 consecutive terms",
+    "how_elected": "Elected by voters within their borough in odd-numbered years.",
+    "who_they_answer_to": "Voters in their borough. Has advisory but not binding authority over most city decisions.",
+    "summary": "Borough Presidents are elected representatives of New York City's five boroughs, but it's important to understand that this is an advisory role, not a governing executive position. Borough Presidents do not control borough budgets or agencies — that power rests with the Mayor and City Council. They advocate for their borough's interests, make appointments to community boards, provide capital funding recommendations, and serve as a public voice for borough residents.",
+    "responsibilities": [
+      "Advocates for the borough's interests in budget negotiations and land use decisions.",
+      "Appoints members to local Community Boards, which provide input on land use and local issues.",
+      "Provides non-binding recommendations on land use applications under the ULURP process.",
+      "Allocates a small discretionary capital budget to local projects in the borough.",
+      "Serves on the Board of Estimate (a vestigial body) and other city planning bodies.",
+      "Acts as a public platform to raise awareness of borough-specific issues and needs."
+    ],
+    "real_world_examples": [
+      "A Borough President can recommend approval or disapproval of a major rezoning in their borough — their position influences but does not determine the outcome.",
+      "Borough Presidents appoint the members of Community Boards, which are the first step in the land use review process for new developments.",
+      "Borough Presidents have used their platform to advocate for climate resiliency investments in flood-prone neighborhoods.",
+      "A Borough President's capital budget can fund small local projects like playground renovations, library improvements, or community center upgrades."
+    ],
+    "daily_life_impact": "Borough Presidents are primarily advocates and voices rather than executives with direct governing power. Their influence comes from their platform, their appointments to Community Boards, and their recommendations in the land use process — not from controlling budgets or agencies. If you have a concern about a major development project in your neighborhood, your Borough President is one of the officials to contact — but don't expect them to make a binding decision.",
+    "related_role_ids": [
+      "nyc-mayor",
+      "nyc-council-member",
+      "nyc-public-advocate"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Borough President"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Borough President"
+    }
+  },
+  {
+    "id": "district-attorney-nyc",
+    "title": "District Attorney (NYC Boroughs)",
+    "short_title": "District Attorney (NYC)",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents and criminal cases in their borough. Each of NYC's 5 boroughs has a separate DA.",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters within their borough in odd-numbered years.",
+    "who_they_answer_to": "Voters in their borough. Operates independently of the Mayor and Police Commissioner.",
+    "summary": "Each of New York City's five boroughs has its own elected District Attorney who decides which crimes to prosecute, how aggressively to pursue charges, and whether to offer plea deals or seek maximum sentences. The DA's office is independent of the Mayor and NYPD — the DA can choose not to prosecute cases referred by police, or can pursue cases the police have deprioritized. This power to decide who faces criminal consequences makes the DA one of the most consequential local elected officials.",
+    "responsibilities": [
+      "Decides which criminal cases to prosecute and which to decline or divert.",
+      "Sets charging policies — for example, whether to charge low-level drug possession or offer diversion to treatment.",
+      "Negotiates plea agreements with defendants and defense attorneys.",
+      "Prosecutes serious crimes including homicide, sexual assault, domestic violence, and financial fraud.",
+      "Runs conviction integrity units that review potential wrongful convictions.",
+      "Can convene a grand jury to investigate public corruption or criminal enterprises."
+    ],
+    "real_world_examples": [
+      "The DA decides whether to prosecute someone arrested for fare evasion, marijuana possession, or minor theft — or to divert them to a program instead.",
+      "High-profile prosecutions — like the Manhattan DA's cases against Donald Trump or Harvey Weinstein — are entirely within the DA's discretion.",
+      "A DA committed to ending mass incarceration can decline to prosecute low-level offenses and reduce the jail population — without any new legislation.",
+      "Financial fraud, government corruption, and white-collar crime are prosecuted by DA offices, which can target wealthy defendants that might otherwise escape accountability."
+    ],
+    "daily_life_impact": "The District Attorney shapes criminal justice in your borough more directly than almost any other elected official. Their charging policies determine whether minor offenses result in criminal records that follow people for life, or whether people get a second chance. Their priorities determine whether the office focuses resources on violent crime, financial fraud, or low-level offenses. The DA's approach to prosecution directly affects public safety, mass incarceration, and racial equity in the justice system.",
+    "related_role_ids": [
+      "district-attorney",
+      "attorney-general",
+      "criminal-court-judge",
+      "nyc-mayor"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "District Attorney"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "District Attorney"
+    }
+  },
+  {
+    "id": "county-executive",
+    "title": "County Executive",
+    "short_title": "County Executive",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their county (not all NY counties have this position — some use County Manager or Board of Supervisors systems)",
+    "term_years": 4,
+    "term_limit": "Varies by county",
+    "how_elected": "Elected by voters countywide in even or odd-numbered years, depending on the county.",
+    "who_they_answer_to": "County voters. The County Legislature can override the County Executive's veto.",
+    "summary": "In counties that have the position, the County Executive is the chief executive of county government — managing county agencies, proposing the county budget, and signing or vetoing county legislation. Major New York counties like Nassau, Suffolk, Westchester, Erie, and Monroe have County Executives who oversee substantial budgets and workforces. This role is essentially a governor-level job at the county scale.",
+    "responsibilities": [
+      "Proposes the annual county budget, covering roads, social services, public health, and law enforcement.",
+      "Appoints county commissioners and department heads.",
+      "Signs or vetoes legislation passed by the County Legislature.",
+      "Manages county agencies including the Department of Social Services, Department of Public Works, and county police.",
+      "Oversees county contracts and procurement.",
+      "Responds to local emergencies and coordinates county services."
+    ],
+    "real_world_examples": [
+      "The County Executive determines how county roads and bridges are maintained and prioritized for repair.",
+      "County departments of health and social services — managing Medicaid enrollment, child protective services, and public health programs — are run by the County Executive.",
+      "County property tax rates are set through the budget process that the County Executive proposes and the Legislature approves.",
+      "In counties with county police departments, the County Executive appoints the police commissioner and sets public safety priorities."
+    ],
+    "daily_life_impact": "If you live in a suburban county like Nassau, Westchester, or Suffolk, your County Executive may be more relevant to your daily life than any state official. County government runs the roads you drive on, the parks you use, the health department that inspects restaurants, and the social services safety net. County property taxes — often the largest tax bill homeowners face — are set through the process the County Executive leads.",
+    "related_role_ids": [
+      "county-legislature-member",
+      "county-sheriff",
+      "district-attorney"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "County Executive"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "County Executive"
+    }
+  },
+  {
+    "id": "county-legislature-member",
+    "title": "County Legislature / Board of Supervisors Member",
+    "short_title": "County Legislator",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "Residents of their county legislative district",
+    "term_years": 4,
+    "term_limit": "Varies by county; most have no term limits",
+    "how_elected": "Elected by voters within a county legislative district.",
+    "who_they_answer_to": "Voters in their district.",
+    "summary": "County legislators (called County Board of Supervisors in some counties) pass county laws, approve the county budget, and oversee county government. In counties without a County Executive, the Board of Supervisors itself acts as the executive body. County legislatures tend to be less partisan and more focused on local service delivery than state or federal bodies, but they control significant budgets and affect daily life.",
+    "responsibilities": [
+      "Passes county ordinances and local laws.",
+      "Approves the annual county budget, including property tax rates.",
+      "Confirms or rejects county executive appointments.",
+      "Oversees county agencies through hearings and investigations.",
+      "Zones land for residential, commercial, and industrial use in unincorporated parts of the county.",
+      "Negotiates and approves county contracts for services and infrastructure."
+    ],
+    "real_world_examples": [
+      "Your county property tax rate is set when the county legislature approves the annual budget.",
+      "County legislators vote on zoning changes that determine what gets built in unincorporated areas of the county.",
+      "Decisions about which county roads get repaved, which bridges get inspected, and which parks get upgraded are made through the budget process county legislators control.",
+      "County mental health services, public health programs, and social service funding levels are set by the county legislature."
+    ],
+    "daily_life_impact": "County legislators make unglamorous but consequential decisions: how much you pay in property taxes, how your neighborhood is zoned, which services the county funds and at what level. In suburban and rural New York, county government often has more direct impact on daily life than state government — handling roads, health services, social programs, and emergency management.",
+    "related_role_ids": [
+      "county-executive",
+      "town-supervisor",
+      "county-clerk"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "County Legislature"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "County Legislature"
+    }
+  },
+  {
+    "id": "county-clerk",
+    "title": "County Clerk",
+    "short_title": "County Clerk",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their county",
+    "term_years": 4,
+    "term_limit": "No term limits in most counties",
+    "how_elected": "Elected by voters countywide.",
+    "who_they_answer_to": "County voters.",
+    "summary": "The County Clerk is the official keeper of public records for the county — maintaining deeds, mortgages, court records, and other legal documents. In many counties the Clerk also processes driver's license applications and vehicle registrations as a DMV agent. This is a largely administrative but essential office that most residents interact with at practical life moments: buying a home, registering a car, or searching public records.",
+    "responsibilities": [
+      "Records and indexes property deeds, mortgages, and liens — creating the official record of who owns what.",
+      "Maintains court records and filings.",
+      "Issues and processes pistol permit applications in many counties.",
+      "Operates DMV functions in counties where the Clerk serves as DMV agent.",
+      "Certifies copies of public records for legal and official use.",
+      "Files and records business certificates, notary public commissions, and other legal documents."
+    ],
+    "real_world_examples": [
+      "When you buy or sell a home, the deed is recorded with the County Clerk — creating the official public record of ownership.",
+      "In many counties, you renew your driver's license and register your vehicle through the County Clerk's office.",
+      "Pistol permit applications are processed and approved by the County Clerk in most New York counties.",
+      "Searching for a property's title history, locating a court filing, or obtaining a certified document record requires going through the County Clerk."
+    ],
+    "daily_life_impact": "You'll interact with the County Clerk at practical life moments — buying a house, registering a car, or searching property records. Their office keeps the public record infrastructure that property ownership, business filings, and legal proceedings depend on. While the role is administrative, an efficient and accessible County Clerk's office makes a meaningful difference in how smoothly these transactions proceed.",
+    "related_role_ids": [
+      "county-executive",
+      "register-of-deeds"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "County Clerk"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "County Clerk"
+    }
+  },
+  {
+    "id": "county-sheriff",
+    "title": "County Sheriff",
+    "short_title": "County Sheriff",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their county; primary law enforcement in unincorporated county areas and county jail operations",
+    "term_years": 4,
+    "term_limit": "No term limits in most counties",
+    "how_elected": "Elected by voters countywide.",
+    "who_they_answer_to": "County voters. The Sheriff is constitutionally independent from other county government in most states.",
+    "summary": "The County Sheriff is the chief law enforcement officer of the county, responsible for policing unincorporated areas, operating the county jail, and providing court security. In counties without a separate county police department, the Sheriff's office is the primary law enforcement agency. The Sheriff also serves legal papers and executes court orders. Unlike police chiefs, the Sheriff is elected and answers directly to voters — not to the County Executive.",
+    "responsibilities": [
+      "Provides police services in parts of the county not covered by a city or village police department.",
+      "Operates the county jail, managing the pretrial and sentenced population.",
+      "Provides security for county courthouses.",
+      "Serves civil legal papers, executes evictions under court order, and enforces court judgments.",
+      "Operates specialized units including highway patrol, civil enforcement, and emergency response.",
+      "Enforces court orders including evictions and property seizures."
+    ],
+    "real_world_examples": [
+      "In rural and suburban parts of a county, the Sheriff's deputies are the responding officers for 911 calls.",
+      "When a court orders an eviction and the landlord needs the tenant physically removed, the Sheriff's office executes that order.",
+      "The county jail — where people are held before trial or serving sentences under a year — is operated by the Sheriff.",
+      "The Sheriff may be responsible for enforcing gun laws, including processing pistol permits in coordination with the County Clerk."
+    ],
+    "daily_life_impact": "If you live in a suburban or rural area of a county, the Sheriff's office is likely your primary police department. The Sheriff's approach to policing — whether to cooperate with federal immigration enforcement, how to handle mental health crises, whether to enforce low-level drug laws — directly shapes public safety and civil liberties in your community. The Sheriff's jail policies also determine conditions for hundreds of county residents awaiting trial.",
+    "related_role_ids": [
+      "county-executive",
+      "district-attorney",
+      "county-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Sheriff"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Sheriff"
+    }
+  },
+  {
+    "id": "district-attorney",
+    "title": "District Attorney (Outside NYC)",
+    "short_title": "District Attorney",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents and criminal cases in their county",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters countywide.",
+    "who_they_answer_to": "County voters. Operates independently of the County Executive and Sheriff.",
+    "summary": "The District Attorney is the chief prosecutor of their county, deciding which crimes to charge, how aggressively to pursue them, and what sentences to seek. This is one of the most powerful local offices because the DA's choices — which cases to prosecute, which to decline, and what plea deals to offer — determine who faces criminal consequences and who doesn't. The DA's philosophy shapes the entire local criminal justice system.",
+    "responsibilities": [
+      "Decides which criminal cases to prosecute, decline, or divert to alternative programs.",
+      "Sets charging policies for the office, including how to handle drug offenses, domestic violence, and juvenile matters.",
+      "Negotiates plea agreements with defense attorneys.",
+      "Prosecutes felonies before the County Court and Supreme Court.",
+      "Represents the state in criminal appeals.",
+      "Investigates potential crimes and coordinates with law enforcement agencies."
+    ],
+    "real_world_examples": [
+      "The DA decides whether a person arrested for drug possession faces criminal charges or is offered a diversion program — a choice that determines whether they have a criminal record.",
+      "In cases where police use of force raises questions, the DA decides whether to present the case to a grand jury and seek an indictment.",
+      "A DA focused on accountability can investigate local government corruption and prosecute officials regardless of political connections.",
+      "Financial crimes, elder fraud, and business scams are prosecuted by the DA's office, which must prioritize limited resources across many types of crime."
+    ],
+    "daily_life_impact": "The District Attorney's choices affect your community's safety and fairness every day. A DA who prosecutes low-level offenses aggressively creates more criminal records and fills more jails; one who prioritizes diversion and treatment may reduce recidivism but be accused of being soft on crime. The DA also decides whether to hold police accountable when they use excessive force. These decisions reflect deeply held values about justice, and they vary enormously from county to county depending on who voters elect.",
+    "related_role_ids": [
+      "district-attorney-nyc",
+      "attorney-general",
+      "county-sheriff",
+      "county-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "District Attorney"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "District Attorney"
+    }
+  },
+  {
+    "id": "register-of-deeds",
+    "title": "Register of Deeds / County Recorder",
+    "short_title": "Register of Deeds",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents and property owners in their county",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters countywide (in counties where this is a separate office from the County Clerk).",
+    "who_they_answer_to": "County voters.",
+    "summary": "The Register of Deeds (sometimes called the County Recorder) is responsible for recording and maintaining official documents related to real property — deeds, mortgages, liens, and easements. In some New York counties this function is handled by the County Clerk, while in others it is a separate elected office. This is a technical but essential role that underpins the entire system of property ownership.",
+    "responsibilities": [
+      "Records property deeds, mortgages, and liens, creating the official chain of title.",
+      "Maintains a searchable index of all recorded documents for public access.",
+      "Collects recording fees and applicable taxes when documents are filed.",
+      "Certifies copies of recorded documents for legal use.",
+      "Processes foreclosure-related filings and lis pendens notices.",
+      "Maintains records of easements, subdivision maps, and other property-related legal documents."
+    ],
+    "real_world_examples": [
+      "When you close on a home purchase, the deed must be recorded with the Register of Deeds to officially establish your ownership.",
+      "A mortgage lender records their lien with the Register to protect their financial interest in your property.",
+      "If a contractor places a mechanic's lien on your property for unpaid work, that lien is recorded in the Register's office and must be resolved before you can sell.",
+      "Title searchers and real estate attorneys use the Register's records to verify ownership history before any property transaction."
+    ],
+    "daily_life_impact": "You probably won't think about the Register of Deeds until you buy or sell a home — but at that moment, their office is essential. The accuracy and accessibility of property records determines how smoothly real estate transactions proceed and protects homeowners from fraud and title disputes. An efficient Register's office that has digitized and indexed records saves buyers and sellers significant time and money.",
+    "related_role_ids": [
+      "county-clerk",
+      "county-executive"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Register"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Register"
+    }
+  },
+  {
+    "id": "city-mayor",
+    "title": "City Mayor (Outside NYC)",
+    "short_title": "City Mayor",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their city. Applies to New York's other cities: Buffalo, Rochester, Syracuse, Albany, Yonkers, and more.",
+    "term_years": 4,
+    "term_limit": "Varies by city",
+    "how_elected": "Elected by voters within the city, typically in odd-numbered years.",
+    "who_they_answer_to": "City voters. The City Council can override mayoral actions.",
+    "summary": "Mayors of New York's cities outside New York City lead city governments with their own police departments, fire departments, schools, and public works. Cities like Buffalo, Rochester, Syracuse, and Albany face distinct challenges including population loss, aging infrastructure, concentrated poverty, and underfunded schools. The Mayor is the chief executive responsible for managing city services and advocating for state and federal resources.",
+    "responsibilities": [
+      "Proposes and executes the city budget, covering police, fire, sanitation, parks, and infrastructure.",
+      "Appoints department heads and city commissioners.",
+      "Sets priorities for economic development, housing, and public safety.",
+      "Signs or vetoes legislation from the City Council.",
+      "Represents the city in negotiations with the county, state, and federal government for funding.",
+      "Responds to local emergencies and natural disasters."
+    ],
+    "real_world_examples": [
+      "The Mayor appoints the police chief and sets policing priorities for the city — including community policing programs and use-of-force policies.",
+      "The Mayor's economic development office decides which housing projects, commercial developments, and investments to pursue or incentivize.",
+      "City streets, sidewalks, parks, and public facilities are maintained under the Mayor's administration.",
+      "In cities with their own school districts, the Mayor may have significant influence over the school board and superintendent."
+    ],
+    "daily_life_impact": "If you live in one of New York's upstate or mid-state cities, your Mayor is arguably the official with the most direct impact on your daily experience — from pothole repairs and street lighting to the quality of your police department and the appearance of your neighborhood. Upstate cities face particularly acute challenges, and the Mayor's ability to attract investment, manage shrinking budgets, and improve services can determine whether residents stay or leave.",
+    "related_role_ids": [
+      "city-council-member",
+      "county-executive",
+      "district-attorney"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Mayor"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Mayor"
+    }
+  },
+  {
+    "id": "city-council-member",
+    "title": "City Council Member (Outside NYC)",
+    "short_title": "City Council Member",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "Residents of their ward or council district within the city",
+    "term_years": 4,
+    "term_limit": "Varies by city",
+    "how_elected": "Elected by voters within a city ward or council district.",
+    "who_they_answer_to": "Voters in their ward or district.",
+    "summary": "City Council Members in cities outside New York City pass city laws, approve budgets, and oversee the Mayor. These councils are often small — some cities have as few as five members — which means each member has significant influence. Council Members in upstate cities often juggle neighborhood advocacy with citywide budget decisions affecting police, fire, schools, and infrastructure.",
+    "responsibilities": [
+      "Votes on city ordinances, zoning changes, and local laws.",
+      "Approves the annual city budget.",
+      "Oversees city departments through hearings and budget negotiations.",
+      "Advocates for constituent needs within their ward or district.",
+      "Reviews and approves major city contracts.",
+      "Serves on committees covering public safety, public works, finance, and other city functions."
+    ],
+    "real_world_examples": [
+      "City Council votes determine which streets get repaved, which parks get upgraded, and which neighborhoods receive infrastructure investments.",
+      "Council Members vote on the police department budget and can push for or against new police technologies like surveillance cameras.",
+      "Zoning changes that allow new housing development or protect existing neighborhoods from unwanted development require Council approval.",
+      "Property tax rates within the city are set through the budget process the Council approves."
+    ],
+    "daily_life_impact": "In smaller cities, your City Council Member often knows your block and your neighbors. They handle constituent calls about potholes, trash pickup, and noise complaints while also making the budget decisions that determine the quality of city services for years. In cities facing fiscal stress, council decisions about cuts and investments can be acutely consequential for residents.",
+    "related_role_ids": [
+      "city-mayor",
+      "county-legislature-member"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "City Council"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "City Council"
+    }
+  },
+  {
+    "id": "town-supervisor",
+    "title": "Town Supervisor",
+    "short_title": "Town Supervisor",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their town. New York has about 932 towns, covering most suburban and rural areas.",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters within the town in even or odd-numbered years, depending on the town.",
+    "who_they_answer_to": "Town voters. The Town Board can override the Supervisor through majority vote.",
+    "summary": "The Town Supervisor is the chief executive of a New York town government — a level of government that many suburban and rural New Yorkers interact with more than any other. Towns handle local roads, parks, garbage collection, zoning, building permits, and in some cases their own police departments. New York's town structure means that most of the state's land area and a significant portion of its population are governed at the town level.",
+    "responsibilities": [
+      "Leads the Town Board as its presiding officer and chief executive.",
+      "Proposes the annual town budget, covering highway maintenance, parks, public works, and town services.",
+      "Oversees town employees including the highway department, parks department, and town court.",
+      "Enforces local zoning laws and oversees the planning and zoning boards.",
+      "Manages town-owned facilities including parks, recreation centers, and municipal buildings.",
+      "Represents the town in dealings with the county, state, and neighboring municipalities."
+    ],
+    "real_world_examples": [
+      "The Town Supervisor's highway department maintains the local roads and streets you drive on every day in suburban and rural areas.",
+      "Building permits, zoning variances, and subdivision approvals that determine what gets built in your neighborhood go through town government led by the Supervisor.",
+      "Your town property tax rate is set through the budget process the Supervisor proposes and the Town Board approves.",
+      "Town parks, recreation programs, and sports leagues are managed by departments under the Supervisor's oversight."
+    ],
+    "daily_life_impact": "If you live outside a city or village in New York, your Town Supervisor is arguably the government official who most directly affects your daily life. They determine whether your road gets plowed in winter, whether your neighborhood stays residential or gets rezoned for commercial development, how quickly building permits are approved, and what recreational facilities are available to your family. Town government often operates close to the ground — budget meetings are in the town hall, and the Supervisor may be your neighbor.",
+    "related_role_ids": [
+      "town-council-member",
+      "county-executive",
+      "town-village-court-judge"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Town Supervisor"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Town Supervisor"
+    }
+  },
+  {
+    "id": "town-council-member",
+    "title": "Town Council Member / Town Board Member",
+    "short_title": "Town Board Member",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "All residents of the town",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by all town voters (town-at-large elections in most NY towns).",
+    "who_they_answer_to": "Town voters.",
+    "summary": "Town Board Members work alongside the Town Supervisor to govern town government. Unlike city or county councils, most New York Town Boards are elected at-large — meaning all town voters elect all members rather than individual districts. Town Boards pass local laws, approve budgets, and make zoning decisions that directly affect how communities look and develop.",
+    "responsibilities": [
+      "Votes on the town budget, including property tax rates and spending on town services.",
+      "Passes local laws and ordinances governing noise, property use, and local conduct.",
+      "Approves or rejects zoning changes, rezoning applications, and comprehensive plan updates.",
+      "Oversees town departments and programs.",
+      "Acts on special use permits, variances, and land use applications.",
+      "Appoints members to town boards and committees."
+    ],
+    "real_world_examples": [
+      "When a developer wants to build a large housing complex in your town, the Town Board votes on whether to approve the necessary zoning change.",
+      "Your town tax rate is set when the Board approves the annual budget.",
+      "Town environmental ordinances — protecting wetlands, limiting clearing, or regulating pesticide use — are passed by the Town Board.",
+      "Decisions about expanding town road maintenance, adding street lighting, or upgrading water systems go through the Town Board."
+    ],
+    "daily_life_impact": "Town Board members are some of the closest government officials to everyday life — their decisions about zoning, budgets, and local ordinances shape the physical and fiscal landscape of your community. Because most towns hold at-large elections, all voters in the town have a say in who sits on the board, giving residents more direct influence than in district-based systems.",
+    "related_role_ids": [
+      "town-supervisor",
+      "county-legislature-member"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Town Board"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Town Board"
+    }
+  },
+  {
+    "id": "village-mayor",
+    "title": "Village Mayor",
+    "short_title": "Village Mayor",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents of their village. New York has about 551 incorporated villages.",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by village voters, typically in March of odd-numbered years.",
+    "who_they_answer_to": "Village voters. The Village Board of Trustees can override the Mayor.",
+    "summary": "Village Mayors lead the government of incorporated villages — smaller, denser communities within towns that have chosen to incorporate for more local control. Villages have their own governments that can provide services like water, sewer, street lighting, and sometimes police that are supplemental to what the surrounding town provides. Village government is the most intimate level of elected government in New York.",
+    "responsibilities": [
+      "Leads the Village Board of Trustees as its presiding officer.",
+      "Proposes and oversees the village budget.",
+      "Enforces village local laws and ordinances.",
+      "Oversees village-owned utilities, including water and sewer systems in some villages.",
+      "Manages village employees and contracts.",
+      "Represents the village in relations with the town, county, and state."
+    ],
+    "real_world_examples": [
+      "Village street lighting, sidewalk maintenance, and local beautification are managed under the Village Mayor's oversight.",
+      "Many villages operate their own water and sewer systems — the Mayor oversees their maintenance and rate-setting.",
+      "Village zoning laws, which can be stricter than the surrounding town's, are enforced by village government led by the Mayor.",
+      "Some villages have their own police departments, which the Mayor oversees."
+    ],
+    "daily_life_impact": "If you live in an incorporated village, your Village Mayor and Board govern the most hyperlocal aspects of your environment: the sidewalks, street trees, local water quality, and zoning rules that determine your neighborhood's character. Village government elections often have very low turnout, meaning a small number of engaged voters can significantly influence who leads their community.",
+    "related_role_ids": [
+      "village-trustee",
+      "town-supervisor"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Village Mayor"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Village Mayor"
+    }
+  },
+  {
+    "id": "village-trustee",
+    "title": "Village Trustee",
+    "short_title": "Village Trustee",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "All residents of the village",
+    "term_years": 4,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by all village voters, typically in March of odd-numbered years.",
+    "who_they_answer_to": "Village voters.",
+    "summary": "Village Trustees serve on the Village Board of Trustees alongside the Village Mayor, collectively governing the village. Most Village Boards have four trustees who vote alongside the Mayor on budgets, local laws, and zoning. This is one of the most accessible entry points into elected office in New York — many local officials begin their political careers as Village Trustees.",
+    "responsibilities": [
+      "Votes on the village budget and property tax rates.",
+      "Passes village local laws and ordinances.",
+      "Approves or rejects zoning changes and variance requests.",
+      "Oversees village services and contracts.",
+      "Participates in village planning and community development decisions.",
+      "Serves on village committees addressing specific issues like parks, water, or public safety."
+    ],
+    "real_world_examples": [
+      "Trustees vote on whether to cut down a historic village tree, change a local parking ordinance, or install new benches in the village park.",
+      "Village taxes are set when Trustees approve the annual budget.",
+      "A homeowner seeking a variance to build an addition that exceeds zoning limits must appear before the Village Board for approval.",
+      "Trustees vote on water rate increases and infrastructure upgrades for village-owned utilities."
+    ],
+    "daily_life_impact": "Village Trustees make hyper-local decisions that directly affect the look and feel of the most immediate community around you. Their meetings are typically open and accessible, often held in the village hall, where residents can speak directly to elected officials about local concerns. For people interested in community engagement, running for Village Trustee is one of the most achievable paths into elected office.",
+    "related_role_ids": [
+      "village-mayor",
+      "town-council-member"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Village Trustee"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Village Trustee"
+    }
+  },
+  {
+    "id": "school-board-member",
+    "title": "School Board Member",
+    "short_title": "School Board Member",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "Students and families within the school district",
+    "term_years": 3,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters in the school district, typically in May of each year. Voter turnout is among the lowest of any election in New York.",
+    "who_they_answer_to": "District voters. Subject to recall in some districts.",
+    "summary": "School Board Members govern the local school district — one of the most directly impactful elected positions for families, yet one of the least-voted-on offices in New York. The Board sets the school budget (which voters must also approve), hires and evaluates the superintendent, sets educational policies, and determines priorities like school hours, curriculum frameworks, and discipline codes. Despite their enormous influence over children's education, school board elections routinely see turnout in the single digits.",
+    "responsibilities": [
+      "Adopts the annual school district budget, which voters must approve in May — determining staffing, programs, supplies, and facilities.",
+      "Hires, evaluates, and if necessary fires the district superintendent.",
+      "Sets district educational policies including curriculum frameworks, graduation requirements, and discipline codes.",
+      "Negotiates and approves collective bargaining agreements with teacher and staff unions.",
+      "Approves major capital projects like school renovations and new construction.",
+      "Ensures the district complies with state and federal education laws."
+    ],
+    "real_world_examples": [
+      "The School Board approves the annual budget that determines class sizes, whether art and music programs exist, how many aides support students with disabilities, and whether the school can afford new textbooks.",
+      "When it's time to hire a new superintendent, the School Board conducts the search and makes the final selection — choosing the person who will run the district day-to-day.",
+      "School Board debates over curriculum — what books are on reading lists, how history is taught, whether comprehensive sex education is offered — happen at the local level.",
+      "A decision to renovate an aging school building, build a new facility, or close a school is made by the Board after community input."
+    ],
+    "daily_life_impact": "If you have children in the public school system, few elected officials will affect their daily experience more directly than your School Board members. They set the budget that determines whether your child's class has 20 or 35 students, whether the school library is staffed, and whether the building is safe and well-maintained. They hire the superintendent who sets the educational culture of the entire district. Yet school board elections are almost always decided by a tiny fraction of eligible voters — often just parents with children currently enrolled. Your vote in a school board election carries far more weight than in almost any other race.",
+    "related_role_ids": [
+      "town-supervisor",
+      "county-legislature-member",
+      "state-assembly-member"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "School Board"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "School Board"
+    }
+  },
+  {
+    "id": "fire-district-commissioner",
+    "title": "Fire District Commissioner",
+    "short_title": "Fire Commissioner",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Residents within the fire district's boundaries",
+    "term_years": 5,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters in the fire district, typically in December of each year.",
+    "who_they_answer_to": "Fire district voters.",
+    "summary": "Fire District Commissioners govern independent fire districts — special taxing districts that exist to provide fire protection in areas served by volunteer or paid fire departments. Commissioners set the fire district budget, levy a property tax to fund operations, hire staff, purchase equipment, and oversee the district's fire department. Most of New York's fire protection outside of cities is provided through these independent districts.",
+    "responsibilities": [
+      "Sets and adopts the annual fire district budget, levying a property tax to fund it.",
+      "Oversees the purchase and maintenance of fire trucks, equipment, and apparatus.",
+      "Hires paid fire department staff and works with volunteer leadership.",
+      "Manages district-owned facilities including the firehouse.",
+      "Ensures the department meets state training and certification requirements.",
+      "Makes decisions about mutual aid agreements with neighboring departments."
+    ],
+    "real_world_examples": [
+      "When an aging fire truck needs to be replaced, the Fire District Commission decides whether to purchase new apparatus and how to fund it.",
+      "Your fire district property tax rate is set when Commissioners adopt the annual budget.",
+      "Decisions about building or renovating a firehouse — major capital expenditures — are made by the Commission.",
+      "In districts with paid staff, Commissioners handle employment decisions including hiring, discipline, and retirement benefits."
+    ],
+    "daily_life_impact": "Fire District Commissioners control whether your local fire department has adequate staffing and equipment. In suburban and rural areas where response times for emergencies depend on volunteer departments, the quality of equipment and training — funded by the Commission's budget decisions — can be a matter of life and death. Your fire district tax appears on your property tax bill, and the Commissioners who set it are elected by your community.",
+    "related_role_ids": [
+      "town-supervisor",
+      "water-district-commissioner"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Fire District"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Fire District"
+    }
+  },
+  {
+    "id": "water-district-commissioner",
+    "title": "Water District Commissioner",
+    "short_title": "Water Commissioner",
+    "level": "local",
+    "branch": "executive",
+    "scope": "Property owners and residents within the water district's boundaries",
+    "term_years": 3,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters in the water district.",
+    "who_they_answer_to": "Water district voters.",
+    "summary": "Water District Commissioners oversee special districts that provide public water supply to areas not served by a city or village water system. They manage the district's water infrastructure — wells, treatment facilities, and distribution pipes — set water rates, and ensure compliance with state and federal water quality standards. Safe drinking water is fundamental, and these commissioners are responsible for it in thousands of communities across New York.",
+    "responsibilities": [
+      "Oversees the district's water supply infrastructure including wells, treatment facilities, and distribution mains.",
+      "Sets water rates and adopts the district budget.",
+      "Ensures the water system meets state and federal Safe Drinking Water Act requirements.",
+      "Approves capital improvement projects for aging infrastructure.",
+      "Manages district employees and service contracts.",
+      "Addresses emergency situations including water main breaks and contamination events."
+    ],
+    "real_world_examples": [
+      "When a water main needs replacement or a well needs testing, the Water District Commissioners approve the project and funding.",
+      "Your water bill and the property tax for the district are determined by the Commissioners' budget decisions.",
+      "If water quality tests show contamination, Commissioners must respond — notifying residents, taking corrective action, and funding remediation.",
+      "Extending water service to a new development requires Commission approval of infrastructure upgrades."
+    ],
+    "daily_life_impact": "Clean drinking water is fundamental, and for many New Yorkers outside cities and villages, the Water District Commission is the body responsible for it. Their decisions about infrastructure maintenance, capital investment, and rate-setting directly determine whether you have reliable, safe water service. Many of New York's water systems face aging infrastructure challenges, and Commissioner decisions about when and how to invest in upgrades will shape water quality for decades.",
+    "related_role_ids": [
+      "town-supervisor",
+      "fire-district-commissioner"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Water District"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Water District"
+    }
+  },
+  {
+    "id": "library-board-trustee",
+    "title": "Library Board Trustee",
+    "short_title": "Library Trustee",
+    "level": "local",
+    "branch": "legislative",
+    "scope": "Residents within the library district's service area",
+    "term_years": 5,
+    "term_limit": "No term limits",
+    "how_elected": "Elected by voters in the library district, often on the same ballot as the library budget vote.",
+    "who_they_answer_to": "Library district voters.",
+    "summary": "Library Board Trustees govern the public library district, setting the library's budget, hiring the director, establishing policies, and ensuring the library serves its community. Public libraries have evolved far beyond books — they provide internet access, job search resources, community meeting space, early literacy programs, and services for seniors and immigrants. Library board elections see among the lowest turnout of any election, yet Trustees make consequential decisions about one of the community's most democratic institutions.",
+    "responsibilities": [
+      "Adopts the annual library budget, which voters must approve.",
+      "Hires and evaluates the library director.",
+      "Sets library policies including hours, collection development, and service priorities.",
+      "Ensures the library complies with New York State Library requirements.",
+      "Approves major capital projects and facility decisions.",
+      "Represents the community's interests in shaping library programs and services."
+    ],
+    "real_world_examples": [
+      "Trustees vote on the library budget that determines how many hours the library is open, how many staff are employed, and how much money is spent on new books, digital resources, and programs.",
+      "When a library director retires or is replaced, the Board conducts the search and makes the final hiring decision.",
+      "Decisions about expanding internet access, adding 3D printers, or offering digital literacy classes are made by the Board.",
+      "A major renovation or expansion of the library building requires Board approval and often a separate voter referendum."
+    ],
+    "daily_life_impact": "Public libraries are among the most democratizing institutions in a community — providing free access to information, technology, and programs for residents of all ages and income levels. Library Trustees determine the quality and scope of those services. Whether your library is open evenings and weekends, whether it offers robust children's programming, and whether it has up-to-date technology are all shaped by Trustee decisions. Library elections typically see very low turnout, meaning a small group of engaged voters wields significant influence over this community resource.",
+    "related_role_ids": [
+      "school-board-member",
+      "town-supervisor"
+    ],
+    "officials_page_filter": {
+      "level": "local",
+      "title_keyword": "Library"
+    },
+    "candidates_page_filter": {
+      "race_keyword": "Library"
+    }
+  }
+]

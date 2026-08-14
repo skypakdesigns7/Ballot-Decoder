@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "kathy-hochul-gov",
+    "name": "Kathy Hochul",
+    "party": "Democrat",
+    "race": "Governor",
+    "level": "statewide",
+    "county": null,
+    "district": null,
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Kathy Hochul became New York's 57th Governor in August 2021 following Andrew Cuomo's resignation, and won a full term in 2022. A Buffalo native, she previously served as Lieutenant Governor, U.S. Representative for NY-26, and Erie County Clerk. Her running mate for 2026 is NYC Council Speaker Adrienne Adams.",
+    "photo_url": "/photos/kathy-hochul-gov.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Hochul has pushed for large-scale housing production, proposing a 'Housing Compact' requiring municipalities to meet growth targets. She has faced resistance in the legislature but continues to prioritize zoning reform and new construction to address the affordability crisis."
+      },
+      {
+        "issue": "climate",
+        "stance": "Hochul supports the Climate Leadership and Community Protection Act (CLCPA) and has invested billions in offshore wind and clean energy. She controversially halted a major offshore wind project in 2023, citing costs, but remains committed to the state's 2040 clean energy goals."
+      },
+      {
+        "issue": "economy",
+        "stance": "Hochul has focused on workforce development, semiconductor investment, and upstate economic revitalization. She championed the CHIPS Act-related investments to bring semiconductor manufacturing to Central New York."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Hochul signed legislation modifying New York's bail reform laws in 2022 and 2023, allowing judges more discretion in setting bail for certain crimes. She has positioned herself as supporting both reform and public safety."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Hochul has championed the reconstruction of Penn Station and Gateway Tunnel project. She also supported congestion pricing before controversially pausing the MTA program in June 2024, citing economic concerns."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Hochul has supported Medicaid expansion and mental health investment. She has not backed the NY Health Act (single-payer) but has supported incremental expansions of coverage."
+      }
+    ],
+    "website": "https://kathyhochul.com",
+    "endorsements": [
+      "New York Times Editorial Board (2022)",
+      "SEIU 1199",
+      "United Federation of Teachers",
+      "Working Families Party (2022)"
+    ]
+  },
+  {
+    "id": "bruce-blakeman-gov",
+    "name": "Bruce Blakeman",
+    "party": "Republican",
+    "race": "Governor",
+    "level": "statewide",
+    "county": "Nassau",
+    "district": null,
+    "incumbent": false,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Bruce Blakeman is the Nassau County Executive, elected in 2021 and re-elected in 2025. A Republican running on both the Republican and Conservative party lines, he chose Todd Hood as his running mate. He has been one of the most outspoken Republican county executives in New York.",
+    "photo_url": "/photos/bruce-blakeman-gov.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Blakeman has been a vocal critic of NY's bail reform laws and has pushed for stricter sentencing. As Nassau County Executive, he has increased police resources and opposed what he calls soft-on-crime policies in Albany."
+      },
+      {
+        "issue": "economy",
+        "stance": "Blakeman advocates for tax cuts, reduced regulation, and a more business-friendly environment. He has criticized Hochul's economic policies as driving residents and businesses out of New York State."
+      },
+      {
+        "issue": "housing",
+        "stance": "Blakeman opposes state-mandated housing targets that he says override local zoning authority. He argues municipalities should control their own development decisions without Albany interference."
+      },
+      {
+        "issue": "immigration",
+        "stance": "Blakeman has been a vocal opponent of New York City's sanctuary policies and the migrant shelter system. He has criticized the use of Nassau County resources to address what he views as a state and federal failure."
+      },
+      {
+        "issue": "education",
+        "stance": "Blakeman supports school choice and parental rights in education. He has opposed progressive curriculum changes and supports local control over education policy."
+      }
+    ],
+    "website": "https://nassaucountyny.gov",
+    "endorsements": [
+      "Conservative Party of New York",
+      "Nassau County Republican Committee",
+      "Todd Hood (running mate)"
+    ]
+  },
+  {
+    "id": "larry-sharpe-gov",
+    "name": "Larry Sharpe",
+    "party": "Libertarian",
+    "race": "Governor",
+    "level": "statewide",
+    "county": null,
+    "district": null,
+    "incumbent": false,
+    "election_year": 2026,
+    "primary_date": null,
+    "general_date": "2026-11-03",
+    "bio": "Larry Sharpe is a two-time Libertarian candidate for New York Governor, having run in 2018 and 2022. A Marine veteran and business consultant, he secured enough votes in 2018 to earn the Libertarian Party official ballot status in New York. He emphasizes personal freedom, smaller government, and decentralization.",
+    "photo_url": "/photos/larry-sharpe-gov.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Sharpe advocates for drastically reducing New York's tax burden and government spending. He supports eliminating the state income tax and reducing regulations that he argues harm small businesses and entrepreneurs."
+      },
+      {
+        "issue": "education",
+        "stance": "Sharpe is a strong advocate for school choice and ending the public school monopoly. He supports education savings accounts and allowing parents to direct their children's education funding."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Sharpe opposes mandatory minimum sentences and supports criminal justice reform. He advocates for ending the war on drugs and focusing law enforcement on violent crime."
+      },
+      {
+        "issue": "housing",
+        "stance": "Sharpe believes the housing crisis is caused by excessive regulation and zoning restrictions. He supports deregulation of the housing market to allow market forces to increase supply and reduce costs."
+      }
+    ],
+    "website": "https://larrysharpe.com",
+    "endorsements": [
+      "Libertarian Party of New York"
+    ]
+  },
+  {
+    "id": "letitia-james-ag",
+    "name": "Letitia James",
+    "party": "Democrat",
+    "race": "Attorney General",
+    "level": "statewide",
+    "county": null,
+    "district": null,
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Letitia James has served as New York Attorney General since 2019, becoming the first Black woman elected to statewide office in New York. Previously NYC Public Advocate, she has pursued high-profile cases against the NRA, opioid manufacturers, and the Trump Organization. She briefly ran for Governor in 2021 before withdrawing.",
+    "photo_url": "/photos/letitia-james-ag.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "James has focused on consumer protection, pursuing cases against predatory lenders, wage theft, and corporate fraud. She secured over $1 billion in opioid settlements for New York communities."
+      },
+      {
+        "issue": "housing",
+        "stance": "James has investigated landlord harassment of rent-stabilized tenants and pursued cases of housing discrimination. She has been a strong advocate for tenant rights through enforcement actions."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "James has pursued police accountability cases and supported criminal justice reform. She investigated the NYPD's response to 2020 protests and has advocated for greater transparency in law enforcement."
+      },
+      {
+        "issue": "climate",
+        "stance": "James has participated in multi-state legal actions against major fossil fuel companies. She has supported legal strategies to hold polluters accountable for climate damages."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "James has fought against healthcare mergers that she argues reduce competition and raise prices. She has also taken action against health insurance companies over denied claims."
+      }
+    ],
+    "website": "https://ag.ny.gov",
+    "endorsements": [
+      "New York Times Editorial Board (2022)",
+      "SEIU 1199",
+      "New York State AFL-CIO",
+      "Human Rights Campaign"
+    ]
+  },
+  {
+    "id": "tom-dinapoli-comptroller",
+    "name": "Thomas DiNapoli",
+    "party": "Democrat",
+    "race": "State Comptroller",
+    "level": "statewide",
+    "county": null,
+    "district": null,
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Thomas DiNapoli has served as New York State Comptroller since 2007, appointed by the legislature after Alan Hevesi's resignation and subsequently elected in his own right multiple times. He oversees the state's pension fund, audits state agencies, and approves state contracts. He is a Long Island native and former state assemblyman.",
+    "photo_url": "/photos/tom-dinapoli-comptroller.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "DiNapoli has focused on fiscal responsibility, auditing state spending, and growing the New York State Common Retirement Fund. He has warned about the long-term costs of state debt and unfunded pension liabilities."
+      },
+      {
+        "issue": "climate",
+        "stance": "DiNapoli has been a national leader in divesting the state pension fund from fossil fuels, committing to full divestment. He argues this protects long-term returns while addressing climate risk."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "DiNapoli has audited MTA finances and raised concerns about the authority's financial management. He supports transparency in how transit funds are spent."
+      },
+      {
+        "issue": "housing",
+        "stance": "DiNapoli has audited state housing programs and flagged concerns about oversight of affordable housing subsidies. He supports greater accountability in how housing funds are deployed."
+      }
+    ],
+    "website": "https://www.osc.ny.gov",
+    "endorsements": [
+      "New York State AFL-CIO",
+      "CSEA",
+      "PEF",
+      "District Council 37"
+    ]
+  },
+  {
+    "id": "adem-bunkeddeko-comptroller",
+    "name": "Adem Bunkeddeko",
+    "party": "Democrat",
+    "race": "State Comptroller (Primary Challenger)",
+    "level": "statewide",
+    "county": "Kings",
+    "district": null,
+    "incumbent": false,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Adem Bunkeddeko is a Brooklyn-based attorney and Democratic activist who previously ran for Congress in NY-09. A Ugandan-American, he has been a vocal advocate for progressive causes and community organizing. He is challenging incumbent Tom DiNapoli in the 2026 Democratic primary for State Comptroller.",
+    "photo_url": null,
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Bunkeddeko wants to use the state pension fund more aggressively to support affordable housing and community development. He argues the Comptroller's office should be a more active force for economic justice."
+      },
+      {
+        "issue": "housing",
+        "stance": "Bunkeddeko supports using state pension investments to fund affordable housing construction. He has been critical of what he sees as insufficient action on the housing crisis."
+      },
+      {
+        "issue": "climate",
+        "stance": "Bunkeddeko supports accelerating fossil fuel divestment from the state pension fund. He wants more aggressive use of shareholder power to push corporations on climate action."
+      }
+    ],
+    "website": "",
+    "endorsements": []
+  },
+  {
+    "id": "chuck-schumer-senate",
+    "name": "Chuck Schumer",
+    "party": "Democrat",
+    "race": "U.S. Senate",
+    "level": "federal",
+    "county": null,
+    "district": null,
+    "incumbent": true,
+    "election_year": 2028,
+    "primary_date": null,
+    "general_date": null,
+    "bio": "Chuck Schumer has represented New York in the U.S. Senate since 1999 and currently serves as Senate Minority Leader. A Brooklyn native, he is known for his tenacious constituent services and media presence. He previously served nine terms in the House of Representatives. His next election is 2028.",
+    "photo_url": "/photos/chuck-schumer-senate.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Schumer was the lead Senate champion of the CHIPS and Science Act and Inflation Reduction Act, which he argues will create manufacturing jobs and reduce costs. He supports progressive taxation and has opposed Republican tax cuts for the wealthy."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Schumer has been the primary advocate in Congress for the Gateway Tunnel project connecting New York and New Jersey. He secured billions in federal infrastructure funding for New York."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Schumer supports the ACA and has opposed Republican efforts to repeal it. He has backed drug price negotiation and expansion of Medicare."
+      },
+      {
+        "issue": "climate",
+        "stance": "Schumer was instrumental in passing the Inflation Reduction Act, which includes the largest climate investment in U.S. history. He supports aggressive federal action on climate change."
+      }
+    ],
+    "website": "https://www.schumer.senate.gov",
+    "endorsements": []
+  },
+  {
+    "id": "kirsten-gillibrand-senate",
+    "name": "Kirsten Gillibrand",
+    "party": "Democrat",
+    "race": "U.S. Senate",
+    "level": "federal",
+    "county": null,
+    "district": null,
+    "incumbent": true,
+    "election_year": 2030,
+    "primary_date": null,
+    "general_date": null,
+    "bio": "Kirsten Gillibrand has represented New York in the U.S. Senate since 2009, appointed to fill Hillary Clinton's seat and subsequently elected. She chairs the Senate Armed Services Committee's subcommittee on personnel and has been a leading voice on military sexual assault reform. She ran briefly for president in 2019. Her next election is 2030.",
+    "photo_url": "/photos/kirsten-gillibrand-senate.jpg",
+    "key_issues": [
+      {
+        "issue": "healthcare",
+        "stance": "Gillibrand is a co-sponsor of the Medicare for All Act. She supports universal healthcare coverage and has been a consistent advocate for expanding access to affordable care."
+      },
+      {
+        "issue": "housing",
+        "stance": "Gillibrand has supported federal affordable housing legislation and tax credits for affordable housing construction. She has backed tenant protection legislation."
+      },
+      {
+        "issue": "climate",
+        "stance": "Gillibrand supported the Inflation Reduction Act and has backed ambitious federal climate legislation. She supports transitioning to clean energy and rejoining international climate agreements."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Gillibrand has been a leading voice on criminal justice reform. She has backed police accountability legislation and reforming mandatory minimum sentencing."
+      }
+    ],
+    "website": "https://www.gillibrand.senate.gov",
+    "endorsements": []
+  },
+  {
+    "id": "nick-lalota-ny01",
+    "name": "Nick LaLota",
+    "party": "Republican",
+    "race": "U.S. House – NY-01",
+    "level": "federal",
+    "county": "Suffolk",
+    "district": "NY-01",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Nick LaLota represents New York's 1st Congressional District, covering the eastern portion of Long Island including most of the North and South Forks. A Navy veteran and former chief of staff to the Suffolk County Legislature, he was first elected in 2022.",
+    "photo_url": "/photos/nick-lalota-ny01.jpg",
+    "key_issues": [
+      {
+        "issue": "immigration",
+        "stance": "LaLota supports stronger border security and has voted for legislation increasing resources for border enforcement. He has been critical of the Biden administration's immigration policies."
+      },
+      {
+        "issue": "economy",
+        "stance": "LaLota supports tax cuts for businesses and middle-class families. He has been a moderate Republican on some fiscal issues while opposing large federal spending packages."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "LaLota opposes bail reform and supports increased funding for law enforcement. He has been vocal about crime on Long Island, particularly gang activity."
+      }
+    ],
+    "website": "https://lalota.house.gov",
+    "endorsements": [
+      "National Republican Congressional Committee"
+    ]
+  },
+  {
+    "id": "tom-suozzi-ny03",
+    "name": "Tom Suozzi",
+    "party": "Democrat",
+    "race": "U.S. House – NY-03",
+    "level": "federal",
+    "county": "Nassau",
+    "district": "NY-03",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Tom Suozzi represents New York's 3rd Congressional District, won in a February 2024 special election to reclaim the seat vacated by George Santos's expulsion. He previously served in the seat from 2017-2023 before running for Governor. A former Nassau County Executive, he is known as a moderate Democrat.",
+    "photo_url": "/photos/tom-suozzi-ny03.jpg",
+    "key_issues": [
+      {
+        "issue": "immigration",
+        "stance": "Suozzi has been a moderate Democratic voice calling for compromise immigration reform. He helped negotiate a bipartisan Senate border security bill and made border security a centerpiece of his special election campaign."
+      },
+      {
+        "issue": "economy",
+        "stance": "Suozzi has been a persistent advocate for restoring the State and Local Tax (SALT) deduction cap, which he argues unfairly hurts New York taxpayers. He has positioned himself as a fiscal moderate."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Suozzi has called for modifications to New York's bail reform laws and increased investment in law enforcement. He has positioned himself as a moderate on crime and public safety."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Suozzi supports federal investment in Long Island infrastructure including roads, bridges, and broadband expansion."
+      }
+    ],
+    "website": "https://suozzi.house.gov",
+    "endorsements": [
+      "Democratic Congressional Campaign Committee",
+      "New York Times Editorial Board (2024 special election)"
+    ]
+  },
+  {
+    "id": "laura-gillen-ny04",
+    "name": "Laura Gillen",
+    "party": "Democrat",
+    "race": "U.S. House – NY-04",
+    "level": "federal",
+    "county": "Nassau",
+    "district": "NY-04",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Laura Gillen represents New York's 4th Congressional District, which covers southwestern Nassau County. A former town supervisor of Hempstead, she flipped this suburban seat in 2024. She is a moderate Democrat focused on constituent services and local issues.",
+    "photo_url": "/photos/laura-gillen-ny04.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Gillen supports SALT deduction restoration and has focused on economic issues affecting suburban Long Island families. She supports small business investment and workforce development."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Gillen has taken a moderate stance on public safety, supporting increased resources for law enforcement while also backing some criminal justice reforms."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Gillen supports federal infrastructure investment for Long Island roads, bridges, and public transportation improvements."
+      }
+    ],
+    "website": "https://gillen.house.gov",
+    "endorsements": [
+      "Democratic Congressional Campaign Committee"
+    ]
+  },
+  {
+    "id": "gregory-meeks-ny05",
+    "name": "Gregory Meeks",
+    "party": "Democrat",
+    "race": "U.S. House – NY-05",
+    "level": "federal",
+    "county": "Queens",
+    "district": "NY-05",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Gregory Meeks has represented New York's 5th Congressional District since 1998. He is the ranking member of the House Foreign Affairs Committee and a prominent member of the Congressional Black Caucus. His district covers southeastern Queens including Jamaica, Rockaway, and parts of Long Island.",
+    "photo_url": "/photos/gregory-meeks-ny05.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Meeks has focused on international trade and economic development in his Queens district. He supports free trade agreements and has worked on developing the Rockaway peninsula and other underserved areas."
+      },
+      {
+        "issue": "housing",
+        "stance": "Meeks has been an advocate for affordable housing development in his district, supporting federal housing vouchers and construction subsidies."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Meeks has been a strong advocate for rebuilding the Rockaway community, especially following Hurricane Sandy damage. He supports federal investment in coastal infrastructure."
+      }
+    ],
+    "website": "https://meeks.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "grace-meng-ny06",
+    "name": "Grace Meng",
+    "party": "Democrat",
+    "race": "U.S. House – NY-06",
+    "level": "federal",
+    "county": "Queens",
+    "district": "NY-06",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Grace Meng has represented New York's 6th Congressional District since 2013. She is the first Asian American elected to Congress from New York. Her district covers much of central Queens including Flushing, Forest Hills, and Rego Park.",
+    "photo_url": "/photos/grace-meng-ny06.jpg",
+    "key_issues": [
+      {
+        "issue": "healthcare",
+        "stance": "Meng has been a strong advocate for healthcare access, particularly for immigrant and Asian-American communities. She has supported Medicaid expansion and the ACA."
+      },
+      {
+        "issue": "immigration",
+        "stance": "Meng is a vocal defender of immigrants' rights and has opposed restrictive immigration policies. She represents one of the most diverse districts in the country with large immigrant populations."
+      },
+      {
+        "issue": "education",
+        "stance": "Meng has championed education funding and support for English Language Learners. She has worked on legislation to support immigrant students."
+      }
+    ],
+    "website": "https://meng.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "nydia-velazquez-ny07",
+    "name": "Nydia Velázquez",
+    "party": "Democrat",
+    "race": "U.S. House – NY-07",
+    "level": "federal",
+    "county": "Kings",
+    "district": "NY-07",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Nydia Velázquez has represented New York's 7th Congressional District since 1993. She is the ranking member of the House Small Business Committee and was the first Puerto Rican woman elected to Congress. Her district covers parts of Brooklyn, Manhattan, and Queens.",
+    "photo_url": "/photos/nydia-velazquez-ny07.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Velázquez has focused extensively on small business development, particularly in Puerto Rican and Latino communities. She has championed microloans, small business grants, and disaster recovery funds for small businesses."
+      },
+      {
+        "issue": "housing",
+        "stance": "Velázquez has been a strong advocate for rent stabilization and tenant protections. She opposes luxury development that displaces long-term residents in her district."
+      },
+      {
+        "issue": "immigration",
+        "stance": "Velázquez strongly supports comprehensive immigration reform and a path to citizenship. She has been an advocate for Puerto Rican rights and disaster relief following Hurricane Maria."
+      }
+    ],
+    "website": "https://velazquez.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "hakeem-jeffries-ny08",
+    "name": "Hakeem Jeffries",
+    "party": "Democrat",
+    "race": "U.S. House – NY-08",
+    "level": "federal",
+    "county": "Kings",
+    "district": "NY-08",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Hakeem Jeffries has represented New York's 8th Congressional District since 2013 and is the House Minority Leader, the first Black American to lead a party in Congress. A Brooklyn native, he previously served in the New York State Assembly. His district covers central Brooklyn and parts of Queens.",
+    "photo_url": "/photos/hakeem-jeffries-ny08.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Jeffries has championed the middle class and working families, supporting the American Rescue Plan and infrastructure investments. He has focused on job creation and economic opportunity in his Brooklyn district."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Jeffries has supported a balanced approach to public safety, backing both community investment and law enforcement resources. He has been a voice for criminal justice reform while opposing defunding the police."
+      },
+      {
+        "issue": "education",
+        "stance": "Jeffries has been a strong advocate for fully funding public education and has worked on legislation supporting historically Black colleges and universities."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Jeffries supports expanding healthcare access and has backed ACA improvements. He has been a consistent vote against Republican efforts to repeal the ACA."
+      }
+    ],
+    "website": "https://jeffries.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "yvette-clarke-ny09",
+    "name": "Yvette Clarke",
+    "party": "Democrat",
+    "race": "U.S. House – NY-09",
+    "level": "federal",
+    "county": "Kings",
+    "district": "NY-09",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Yvette Clarke has represented New York's 9th Congressional District since 2007. She serves on the House Energy and Commerce Committee and is a senior member of the Congressional Black Caucus. Her district covers parts of central Brooklyn including Crown Heights, Flatbush, and parts of East New York.",
+    "photo_url": "/photos/yvette-clarke-ny09.jpg",
+    "key_issues": [
+      {
+        "issue": "climate",
+        "stance": "Clarke has been a strong advocate for climate action and environmental justice. She has focused on ensuring that clean energy transition benefits frontline communities in her district."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Clarke has supported Medicare for All and expansions of healthcare coverage. She has been an advocate for mental health parity and substance abuse treatment."
+      },
+      {
+        "issue": "immigration",
+        "stance": "Clarke has been a consistent supporter of immigrant rights and comprehensive immigration reform. Her Brooklyn district has large Caribbean immigrant communities she actively represents."
+      }
+    ],
+    "website": "https://clarke.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "dan-goldman-ny10",
+    "name": "Dan Goldman",
+    "party": "Democrat",
+    "race": "U.S. House – NY-10",
+    "level": "federal",
+    "county": "New York",
+    "district": "NY-10",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Dan Goldman has represented New York's 10th Congressional District since 2023. A former federal prosecutor, he gained national attention as the lead counsel in Donald Trump's first impeachment. His district covers lower Manhattan and parts of Brooklyn.",
+    "photo_url": "/photos/dan-goldman-ny10.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Goldman has focused on rule of law and holding powerful individuals accountable. He supports criminal justice reform while also emphasizing the importance of prosecuting white-collar crime and corruption."
+      },
+      {
+        "issue": "economy",
+        "stance": "Goldman supports progressive economic policies and has backed corporate accountability legislation. He has focused on economic equity in his diverse lower Manhattan and Brooklyn district."
+      },
+      {
+        "issue": "housing",
+        "stance": "Goldman supports aggressive action on the housing affordability crisis. He has backed federal investment in affordable housing construction and tenant protections."
+      }
+    ],
+    "website": "https://goldman.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "nicole-malliotakis-ny11",
+    "name": "Nicole Malliotakis",
+    "party": "Republican",
+    "race": "U.S. House – NY-11",
+    "level": "federal",
+    "county": "Richmond",
+    "district": "NY-11",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Nicole Malliotakis represents New York's 11th Congressional District covering Staten Island and a small part of Brooklyn. A former state assemblywoman, she was elected to Congress in 2020 and re-elected in 2022 and 2024. She is one of the few Republicans representing a New York City district.",
+    "photo_url": "/photos/nicole-malliotakis-ny11.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Malliotakis has been a strong advocate for restoring the SALT deduction, making it a signature issue. She has supported tax cuts for middle-class families and small businesses."
+      },
+      {
+        "issue": "immigration",
+        "stance": "Malliotakis supports strong border security and has been critical of NYC's sanctuary city policies. She has been vocal about the impact of the migrant crisis on Staten Island and NYC resources."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Malliotakis has been one of the most vocal critics of NYC and NY State's bail reform laws. She supports increased funding for law enforcement and opposes criminal justice reforms she views as too lenient."
+      }
+    ],
+    "website": "https://malliotakis.house.gov",
+    "endorsements": [
+      "National Republican Congressional Committee"
+    ]
+  },
+  {
+    "id": "justin-brannan-ny11",
+    "name": "Justin Brannan",
+    "party": "Democrat",
+    "race": "U.S. House – NY-11",
+    "level": "federal",
+    "county": "Richmond",
+    "district": "NY-11",
+    "incumbent": false,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Justin Brannan is a Brooklyn-based Democrat and former NYC Council member who represented Bay Ridge and Dyker Heights. He previously chaired the NYC Council Finance Committee and ran for Brooklyn Borough President in 2021. He is running to unseat Republican incumbent Nicole Malliotakis in NY-11.",
+    "photo_url": "/photos/justin-brannan-ny11.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Brannan has focused on working-class economic issues and has advocated for SALT deduction restoration for middle-class homeowners. He supports progressive taxation on the wealthy."
+      },
+      {
+        "issue": "housing",
+        "stance": "Brannan has been an advocate for tenant protections and affordable housing. He has experience with neighborhood-level housing policy from his time on the City Council."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Brannan supports investment in public transportation and community infrastructure for Brooklyn and Staten Island."
+      }
+    ],
+    "website": "https://brannanny11.com",
+    "endorsements": []
+  },
+  {
+    "id": "george-conway-ny12",
+    "name": "George Conway",
+    "party": "Democrat",
+    "race": "U.S. House – NY-12 (Primary)",
+    "level": "federal",
+    "county": "New York",
+    "district": "NY-12",
+    "incumbent": false,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "George Conway is a prominent Republican attorney turned Trump critic who has announced a Democratic primary run for NY-12, the Manhattan seat being vacated by retiring Rep. Jerry Nadler. He is known for his role as a co-founder of the Lincoln Project and his public opposition to Donald Trump.",
+    "photo_url": "/photos/george-conway-ny12.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Conway has been focused on rule of law and democratic accountability. His candidacy centers heavily on anti-Trump themes and protecting democratic institutions."
+      },
+      {
+        "issue": "economy",
+        "stance": "Conway comes from a conservative economic background but has moved toward Democratic positions on various issues. He opposes tariffs and trade protectionism."
+      },
+      {
+        "issue": "housing",
+        "stance": "Conway has expressed support for increasing housing supply in New York City to address the affordability crisis."
+      }
+    ],
+    "website": "",
+    "endorsements": []
+  },
+  {
+    "id": "andrew-cuomo-ny12",
+    "name": "Andrew Cuomo",
+    "party": "Democrat",
+    "race": "U.S. House – NY-12 (Primary)",
+    "level": "federal",
+    "county": "New York",
+    "district": "NY-12",
+    "incumbent": false,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Andrew Cuomo served as New York's 56th Governor from 2011 to 2021, when he resigned amid sexual harassment allegations and a nursing home COVID data controversy. Before that, he served as state Attorney General and HUD Secretary under President Clinton. He is now running for the NY-12 congressional seat.",
+    "photo_url": "/photos/andrew-cuomo-ny12.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Cuomo oversaw major infrastructure and affordable housing investments as Governor. He has pointed to his record of building affordable housing and supporting the NY DREAM Act as evidence of his commitment to housing equity."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Cuomo championed major infrastructure projects including the new Tappan Zee (Governor Mario M. Cuomo) Bridge, the redevelopment of LaGuardia Airport, and the expansion of Penn Station plans."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Cuomo expanded Medicaid under his tenure as Governor and championed the NY Health Act in his early terms. He has supported aggressive public health policies."
+      },
+      {
+        "issue": "climate",
+        "stance": "Cuomo signed the Climate Leadership and Community Protection Act in 2019, one of the most ambitious climate laws in the country. He championed offshore wind development."
+      }
+    ],
+    "website": "",
+    "endorsements": []
+  },
+  {
+    "id": "adriano-espaillat-ny13",
+    "name": "Adriano Espaillat",
+    "party": "Democrat",
+    "race": "U.S. House – NY-13",
+    "level": "federal",
+    "county": "New York",
+    "district": "NY-13",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Adriano Espaillat has represented New York's 13th Congressional District since 2017. He is the first Dominican American elected to Congress. His district covers upper Manhattan including Harlem, Washington Heights, and Inwood.",
+    "photo_url": "/photos/adriano-espaillat-ny13.jpg",
+    "key_issues": [
+      {
+        "issue": "immigration",
+        "stance": "Espaillat has been one of Congress's most vocal immigration advocates, supporting a path to citizenship and opposing deportations. He represents communities deeply affected by immigration enforcement."
+      },
+      {
+        "issue": "housing",
+        "stance": "Espaillat has fought for affordable housing preservation in upper Manhattan, opposing the displacement of long-term residents. He supports rent stabilization and community land trusts."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Espaillat supports Medicare for All and has been an advocate for community health centers serving uninsured and immigrant populations."
+      }
+    ],
+    "website": "https://espaillat.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "alexandria-ocasio-cortez-ny14",
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "Democrat",
+    "race": "U.S. House – NY-14",
+    "level": "federal",
+    "county": "Bronx",
+    "district": "NY-14",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Alexandria Ocasio-Cortez has represented New York's 14th Congressional District since 2019. She is the youngest woman ever elected to Congress. A Democratic Socialist, she is known for championing the Green New Deal, Medicare for All, and progressive economic policies. Her district covers parts of the Bronx and Queens.",
+    "photo_url": "/photos/alexandria-ocasio-cortez-ny14.jpg",
+    "key_issues": [
+      {
+        "issue": "climate",
+        "stance": "AOC is the lead champion of the Green New Deal, which calls for massive federal investment in clean energy and economic transition. She argues climate change requires a transformational response, not incremental reform."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "AOC is a strong supporter of Medicare for All, arguing that healthcare is a human right. She has been critical of the for-profit insurance system and supports eliminating private insurance."
+      },
+      {
+        "issue": "economy",
+        "stance": "AOC supports a federal jobs guarantee, free public college, student debt cancellation, and higher taxes on the wealthy. She has been a leading voice for progressive economic policies."
+      },
+      {
+        "issue": "housing",
+        "stance": "AOC supports aggressive rent control, public housing investment, and community land trusts. She has been critical of luxury development that displaces low-income residents."
+      },
+      {
+        "issue": "immigration",
+        "stance": "AOC has been one of the most vocal critics of immigration detention and deportation. She advocates for a welcoming immigration system and has been deeply critical of border enforcement policies."
+      }
+    ],
+    "website": "https://ocasio-cortez.house.gov",
+    "endorsements": [
+      "Democratic Socialists of America",
+      "Working Families Party",
+      "Justice Democrats"
+    ]
+  },
+  {
+    "id": "ritchie-torres-ny15",
+    "name": "Ritchie Torres",
+    "party": "Democrat",
+    "race": "U.S. House – NY-15",
+    "level": "federal",
+    "county": "Bronx",
+    "district": "NY-15",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Ritchie Torres has represented New York's 15th Congressional District since 2021. He is the first openly gay Afro-Latino person elected to Congress. A former NYC Council member from the Bronx, he represents one of the poorest congressional districts in the country.",
+    "photo_url": "/photos/ritchie-torres-ny15.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Torres has been an advocate for public housing residents, particularly NYCHA tenants in his district. He has pushed for federal investment in public housing repairs and vouchers."
+      },
+      {
+        "issue": "economy",
+        "stance": "Torres has focused on economic development and poverty reduction in the South Bronx. He supports workforce development and anti-poverty programs."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Torres has supported Medicaid expansion and healthcare access for his constituents, many of whom are uninsured or underinsured."
+      }
+    ],
+    "website": "https://ritchietorres.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "george-latimer-ny16",
+    "name": "George Latimer",
+    "party": "Democrat",
+    "race": "U.S. House – NY-16",
+    "level": "federal",
+    "county": "Westchester",
+    "district": "NY-16",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "George Latimer represents New York's 16th Congressional District, which covers most of Westchester County. A former Westchester County Executive and state senator, he defeated progressive incumbent Jamaal Bowman in the 2024 Democratic primary. He is known as a moderate Democrat.",
+    "photo_url": "/photos/george-latimer-ny16.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Latimer has focused on fiscal responsibility and economic development in Westchester. He supports SALT deduction restoration for suburban homeowners."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Latimer has taken moderate positions on public safety, supporting law enforcement investment while also backing some criminal justice reforms."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Latimer has been an advocate for Metro-North investment and commuter rail improvements to connect Westchester to New York City."
+      }
+    ],
+    "website": "https://latimer.house.gov",
+    "endorsements": [
+      "AIPAC",
+      "Democratic Congressional Campaign Committee"
+    ]
+  },
+  {
+    "id": "pat-ryan-ny17",
+    "name": "Pat Ryan",
+    "party": "Democrat",
+    "race": "U.S. House – NY-17",
+    "level": "federal",
+    "county": "Ulster",
+    "district": "NY-17",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Pat Ryan represents New York's 17th Congressional District, which covers the Hudson Valley including Ulster, Dutchess, and parts of Orange and Putnam counties. An Army veteran and former Ulster County Executive, he first won the seat in a 2022 special election.",
+    "photo_url": "/photos/pat-ryan-ny17.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Ryan has emphasized his military and law enforcement background. He supports increased investments in community safety while also backing some criminal justice reform measures."
+      },
+      {
+        "issue": "economy",
+        "stance": "Ryan has focused on Hudson Valley economic development, supporting small businesses, agriculture, and clean energy jobs."
+      },
+      {
+        "issue": "climate",
+        "stance": "Ryan has been a supporter of clean energy investment in the Hudson Valley, backing offshore wind and solar projects that create local jobs."
+      }
+    ],
+    "website": "https://patryan.house.gov",
+    "endorsements": [
+      "Democratic Congressional Campaign Committee"
+    ]
+  },
+  {
+    "id": "josh-riley-ny18",
+    "name": "Josh Riley",
+    "party": "Democrat",
+    "race": "U.S. House – NY-18",
+    "level": "federal",
+    "county": "Dutchess",
+    "district": "NY-18",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Josh Riley represents New York's 18th Congressional District, a competitive Hudson Valley seat covering parts of Dutchess, Ulster, Greene, Schoharie, and Delaware counties. He flipped the seat from Republican incumbent Marc Molinaro in 2024.",
+    "photo_url": "/photos/josh-riley-ny18.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Riley has focused on rural economic development and healthcare access in his upstate district. He supports manufacturing investment and agricultural support programs."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Riley has championed rural healthcare access, which is a critical issue in his district where hospitals and clinics are sparse."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Riley supports infrastructure investment for rural upstate New York, including broadband expansion and road improvements."
+      }
+    ],
+    "website": "https://joshriley.house.gov",
+    "endorsements": [
+      "Democratic Congressional Campaign Committee"
+    ]
+  },
+  {
+    "id": "paul-tonko-ny20",
+    "name": "Paul Tonko",
+    "party": "Democrat",
+    "race": "U.S. House – NY-20",
+    "level": "federal",
+    "county": "Albany",
+    "district": "NY-20",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Paul Tonko has represented New York's 20th Congressional District since 2009. He serves on the Energy and Commerce Committee and is known for his focus on energy policy and environmental issues. His district covers Albany, Schenectady, and surrounding areas.",
+    "photo_url": "/photos/paul-tonko-ny20.jpg",
+    "key_issues": [
+      {
+        "issue": "climate",
+        "stance": "Tonko has been one of Congress's most consistent climate champions. He has led legislation on clean energy, pollution reduction, and transitioning away from fossil fuels."
+      },
+      {
+        "issue": "economy",
+        "stance": "Tonko has focused on clean energy job creation and high-tech investment in the Capital Region. He championed the CHIPS Act and semiconductor manufacturing investment."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Tonko has focused particularly on mental health and substance abuse treatment, co-chairing the House Mental Health Caucus."
+      }
+    ],
+    "website": "https://tonko.house.gov",
+    "endorsements": [
+      "Sierra Club",
+      "League of Conservation Voters"
+    ]
+  },
+  {
+    "id": "john-mannion-ny22",
+    "name": "John Mannion",
+    "party": "Democrat",
+    "race": "U.S. House – NY-22",
+    "level": "federal",
+    "county": "Onondaga",
+    "district": "NY-22",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "John Mannion represents New York's 22nd Congressional District covering Syracuse and surrounding counties. A former state senator and high school teacher, he flipped the seat from Republican incumbent Brandon Williams in 2024. He is a moderate Democrat from a competitive Central New York district.",
+    "photo_url": "/photos/john-mannion-ny22.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Mannion has focused on manufacturing investment and the semiconductor boom in Central New York, building on the CHIPS Act investments bringing Micron Technology to Syracuse."
+      },
+      {
+        "issue": "education",
+        "stance": "As a former teacher, Mannion has been an advocate for public education funding and teacher support programs."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Mannion has focused on rural and suburban healthcare access in Central New York, supporting hospital funding and expanded coverage."
+      }
+    ],
+    "website": "https://mannion.house.gov",
+    "endorsements": [
+      "Democratic Congressional Campaign Committee",
+      "New York State United Teachers"
+    ]
+  },
+  {
+    "id": "joe-morelle-ny25",
+    "name": "Joe Morelle",
+    "party": "Democrat",
+    "race": "U.S. House – NY-25",
+    "level": "federal",
+    "county": "Monroe",
+    "district": "NY-25",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Joe Morelle has represented New York's 25th Congressional District since 2018, winning a special election following the death of Louise Slaughter. He serves on the House Administration Committee and Rules Committee. His district covers Rochester and surrounding Monroe County.",
+    "photo_url": "/photos/joe-morelle-ny25.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Morelle has focused on economic revitalization in Rochester, supporting manufacturing investment and workforce development programs."
+      },
+      {
+        "issue": "education",
+        "stance": "Morelle has been a strong advocate for education funding and has championed the University of Rochester and Rochester Institute of Technology as economic anchors."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Morelle has supported expanded healthcare access and has backed prescription drug pricing reform."
+      }
+    ],
+    "website": "https://morelle.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "tim-kennedy-ny26",
+    "name": "Tim Kennedy",
+    "party": "Democrat",
+    "race": "U.S. House – NY-26",
+    "level": "federal",
+    "county": "Erie",
+    "district": "NY-26",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Tim Kennedy represents New York's 26th Congressional District, which covers Buffalo and Erie County. A former state senator, he won the seat in a 2024 special election following Brian Higgins's retirement. He is focused on Western New York economic development.",
+    "photo_url": "/photos/tim-kennedy-ny26.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Kennedy has focused on Buffalo's economic revitalization, supporting manufacturing, clean energy, and the Buffalo Bills stadium project. He has championed investment in Western New York."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Kennedy has been an advocate for Buffalo infrastructure including roads, bridges, and the NFTA transit system."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Kennedy has supported healthcare access for Western New York, including rural healthcare in Erie County."
+      }
+    ],
+    "website": "https://kennedy.house.gov",
+    "endorsements": []
+  },
+  {
+    "id": "andrea-stewart-cousins-sd35",
+    "name": "Andrea Stewart-Cousins",
+    "party": "Democrat",
+    "race": "NY State Senate – District 35",
+    "level": "state_legislature",
+    "county": "Westchester",
+    "district": "SD-35",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Andrea Stewart-Cousins has served as a State Senator since 2007 and has been the Senate Majority Leader since 2019. She is the first woman and first Black woman to lead a legislative chamber in New York State history. Her district covers parts of Yonkers and Westchester County.",
+    "photo_url": "/photos/andrea-stewart-cousins-sd35.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Stewart-Cousins led the passage of the Housing Stability and Tenant Protection Act of 2019. She has continued to push for tenant protections and affordable housing development."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Stewart-Cousins supported bail reform and has worked to balance criminal justice reform with public safety concerns, backing modifications to the original reform law."
+      },
+      {
+        "issue": "climate",
+        "stance": "Stewart-Cousins championed the Climate Leadership and Community Protection Act. She remains committed to the state's ambitious climate targets."
+      },
+      {
+        "issue": "education",
+        "stance": "Stewart-Cousins has been a strong advocate for education funding equity and has pushed for increased state aid to under-resourced school districts."
+      }
+    ],
+    "website": "https://www.nysenate.gov/senators/andrea-stewart-cousins",
+    "endorsements": [
+      "New York State AFL-CIO",
+      "SEIU 1199",
+      "United Federation of Teachers"
+    ]
+  },
+  {
+    "id": "liz-krueger-sd28",
+    "name": "Liz Krueger",
+    "party": "Democrat",
+    "race": "NY State Senate – District 28",
+    "level": "state_legislature",
+    "county": "New York",
+    "district": "SD-28",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Liz Krueger has represented State Senate District 28 on Manhattan's East Side since 2002. She chairs the Senate Finance Committee and is one of the most progressive members of the Senate. She championed the legalization of recreational marijuana in New York.",
+    "photo_url": "/photos/liz-krueger-sd28.jpg",
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Krueger has been a leading advocate for progressive taxation and closing tax loopholes. She supports using the tax code to fund public services and reduce inequality."
+      },
+      {
+        "issue": "housing",
+        "stance": "Krueger has been a longtime champion of rent stabilization and tenant rights. She opposes policies that she believes would weaken rent protections for millions of New Yorkers."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Krueger is a leading sponsor of the NY Health Act, which would create a single-payer healthcare system for New York State. She argues it would cover everyone while saving money."
+      },
+      {
+        "issue": "climate",
+        "stance": "Krueger has been a strong supporter of the CLCPA and clean energy transition. She has pushed for faster implementation of the state's climate goals."
+      }
+    ],
+    "website": "https://www.nysenate.gov/senators/liz-krueger",
+    "endorsements": [
+      "Working Families Party",
+      "VOCAL-NY",
+      "Drug Policy Alliance"
+    ]
+  },
+  {
+    "id": "jamaal-bailey-sd36",
+    "name": "Jamaal Bailey",
+    "party": "Democrat",
+    "race": "NY State Senate – District 36",
+    "level": "state_legislature",
+    "county": "Bronx",
+    "district": "SD-36",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Jamaal Bailey has represented State Senate District 36 in the Bronx since 2018. He chairs the Senate Codes Committee, which handles criminal justice legislation. He is a rising progressive leader and represents communities in the northern Bronx.",
+    "photo_url": "/photos/jamaal-bailey-sd36.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Bailey has been a leading voice for criminal justice reform, shepherding bail reform and discovery reform through the legislature. He believes the system needs to be fair to defendants while protecting communities."
+      },
+      {
+        "issue": "housing",
+        "stance": "Bailey has championed affordable housing investment in the Bronx. He supports rent stabilization and increased funding for public housing repairs."
+      },
+      {
+        "issue": "education",
+        "stance": "Bailey has focused on education equity and investment in Bronx schools. He supports fully funding Foundation Aid and reducing class sizes."
+      }
+    ],
+    "website": "https://www.nysenate.gov/senators/jamaal-bailey",
+    "endorsements": []
+  },
+  {
+    "id": "erik-bottcher-sd47",
+    "name": "Erik Bottcher",
+    "party": "Democrat",
+    "race": "NY State Senate – District 47",
+    "level": "state_legislature",
+    "county": "New York",
+    "district": "SD-47",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Erik Bottcher won a February 2026 special election to represent State Senate District 47, covering the West Village, Chelsea, Hell's Kitchen, and parts of Greenwich Village in Manhattan. A former NYC Council member for the same neighborhood, he is known for his work on LGBTQ rights and community issues.",
+    "photo_url": "/photos/erik-bottcher-sd47.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Bottcher has been a strong advocate for tenant protections in his district, which faces significant gentrification pressure. He supports rent stabilization and affordable housing preservation."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Bottcher supports community-based approaches to public safety. He has focused on addressing root causes of crime including housing instability and mental health crises."
+      },
+      {
+        "issue": "climate",
+        "stance": "Bottcher supports the CLCPA and has focused on local climate resilience measures. He backs green infrastructure and building electrification requirements."
+      }
+    ],
+    "website": "https://www.nysenate.gov/senators/erik-bottcher",
+    "endorsements": [
+      "Working Families Party"
+    ]
+  },
+  {
+    "id": "jeremy-zellner-sd61",
+    "name": "Jeremy Zellner",
+    "party": "Democrat",
+    "race": "NY State Senate – District 61",
+    "level": "state_legislature",
+    "county": "Erie",
+    "district": "SD-61",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Jeremy Zellner won a February 2026 special election to represent State Senate District 61, covering parts of Erie County in Western New York. He is the Erie County Democratic Committee chair and has been a key figure in Western New York Democratic politics.",
+    "photo_url": null,
+    "key_issues": [
+      {
+        "issue": "economy",
+        "stance": "Zellner has focused on Western New York economic development, supporting manufacturing investment and good-paying union jobs in Erie County."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Zellner supports investment in Buffalo and Erie County infrastructure, including roads, bridges, and public transit."
+      }
+    ],
+    "website": "https://www.nysenate.gov/senators/jeremy-zellner",
+    "endorsements": []
+  },
+  {
+    "id": "carl-heastie-ad83",
+    "name": "Carl Heastie",
+    "party": "Democrat",
+    "race": "NY State Assembly – District 83",
+    "level": "state_legislature",
+    "county": "Bronx",
+    "district": "AD-83",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Carl Heastie has served as Speaker of the New York State Assembly since 2015, the first Black Speaker in New York history. He has represented Assembly District 83 in the Bronx since 2001. As Speaker, he has championed progressive legislation including the CLCPA, bail reform, and expanded worker protections.",
+    "photo_url": "/photos/carl-heastie-ad83.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Heastie has supported the Assembly's version of bail reform and has pushed back against what he views as excessive modifications that undermine the reform's intent."
+      },
+      {
+        "issue": "housing",
+        "stance": "Heastie has championed tenant protection legislation and has been a consistent vote for rent stabilization. He has pushed for increased funding for affordable housing."
+      },
+      {
+        "issue": "climate",
+        "stance": "Heastie was instrumental in passing the CLCPA and has continued to push for implementation funding and environmental justice provisions."
+      },
+      {
+        "issue": "education",
+        "stance": "Heastie has been a leading voice for full implementation of Foundation Aid to ensure equitable school funding across New York State."
+      }
+    ],
+    "website": "https://www.nyassembly.gov/mem/Carl-E-Heastie",
+    "endorsements": []
+  },
+  {
+    "id": "deborah-glick-ad66",
+    "name": "Deborah Glick",
+    "party": "Democrat",
+    "race": "NY State Assembly – District 66",
+    "level": "state_legislature",
+    "county": "New York",
+    "district": "AD-66",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Deborah Glick has represented Assembly District 66 in Greenwich Village and SoHo since 1991, making her the longest-serving member of the State Assembly. She was the first openly gay member elected to the New York State Legislature. She chairs the Assembly Higher Education Committee.",
+    "photo_url": "/photos/deborah-glick-ad66.jpg",
+    "key_issues": [
+      {
+        "issue": "education",
+        "stance": "Glick has been a champion for higher education funding and access. She has fought for SUNY and CUNY funding and has championed financial aid programs."
+      },
+      {
+        "issue": "housing",
+        "stance": "Glick has been a consistent advocate for tenant protections in Greenwich Village. She has opposed luxury development that threatens the character of her neighborhood."
+      },
+      {
+        "issue": "climate",
+        "stance": "Glick has been a long-time environmental advocate, supporting green building standards and climate legislation."
+      }
+    ],
+    "website": "https://www.nyassembly.gov/mem/Deborah-J-Glick",
+    "endorsements": []
+  },
+  {
+    "id": "keith-powers-ad74",
+    "name": "Keith Powers",
+    "party": "Democrat",
+    "race": "NY State Assembly – District 74",
+    "level": "state_legislature",
+    "county": "New York",
+    "district": "AD-74",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Keith Powers won a February 2026 special election to represent Assembly District 74 on Manhattan's east side. He previously served as a NYC Council member representing Midtown East. He is known for his work on housing, street safety, and good government reform.",
+    "photo_url": "/photos/keith-powers-ad74.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Powers has been a consistent advocate for increased housing production and tenant protections. He supports zoning reforms that create more affordable housing while protecting existing tenants."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Powers supports community-based public safety approaches and has focused on street safety improvements in his district."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Powers has been an advocate for better transit and street safety infrastructure in Midtown Manhattan."
+      }
+    ],
+    "website": "https://www.nyassembly.gov/mem/Keith-Powers",
+    "endorsements": []
+  },
+  {
+    "id": "diana-moreno-ad36",
+    "name": "Diana Moreno",
+    "party": "Democrat",
+    "race": "NY State Assembly – District 36",
+    "level": "state_legislature",
+    "county": "Queens",
+    "district": "AD-36",
+    "incumbent": true,
+    "election_year": 2026,
+    "primary_date": "2026-06-23",
+    "general_date": "2026-11-03",
+    "bio": "Diana Moreno won a February 2026 special election to represent Assembly District 36 in Jackson Heights and Elmhurst, Queens. She is a community organizer and immigrant rights advocate who has worked extensively in the diverse Queens immigrant communities she now represents.",
+    "photo_url": null,
+    "key_issues": [
+      {
+        "issue": "immigration",
+        "stance": "Moreno is a strong advocate for immigrant rights and has focused on protecting immigrant communities in Jackson Heights and Elmhurst from deportation. She supports comprehensive immigration reform."
+      },
+      {
+        "issue": "housing",
+        "stance": "Moreno supports tenant protections and affordable housing development in Queens. Her district faces significant gentrification pressure."
+      },
+      {
+        "issue": "education",
+        "stance": "Moreno has prioritized bilingual education and support for English Language Learners in her diverse Queens district."
+      }
+    ],
+    "website": "https://www.nyassembly.gov/mem/Diana-Moreno",
+    "endorsements": [
+      "Working Families Party"
+    ]
+  },
+  {
+    "id": "zohran-mamdani-mayor",
+    "name": "Zohran Mamdani",
+    "party": "Democrat",
+    "race": "Mayor of New York City",
+    "level": "local",
+    "county": "New York",
+    "district": null,
+    "incumbent": true,
+    "election_year": 2029,
+    "primary_date": null,
+    "general_date": null,
+    "bio": "Zohran Mamdani was elected Mayor of New York City in November 2025 and took office in January 2026. A Democratic Socialist and former state assemblyman from Astoria, Queens, he defeated a crowded Democratic field. He is the first Muslim mayor of New York City and a housing and climate advocate.",
+    "photo_url": "/photos/zohran-mamdani-mayor.jpg",
+    "key_issues": [
+      {
+        "issue": "housing",
+        "stance": "Mamdani has made housing the centerpiece of his mayoral agenda, proposing to build 200,000+ new affordable units, strengthen rent stabilization, and expand the city's public housing portfolio."
+      },
+      {
+        "issue": "economy",
+        "stance": "Mamdani supports a 'social economy' vision for NYC, advocating for higher wages, city-owned utilities, and using public procurement to support worker-owned businesses."
+      },
+      {
+        "issue": "climate",
+        "stance": "Mamdani supports aggressive building electrification and clean energy transition. He has proposed making NYC's public housing the most climate-resilient in the country."
+      },
+      {
+        "issue": "public-safety",
+        "stance": "Mamdani supports community-centered public safety and has backed mental health crisis response alternatives to police. He opposes expanding the NYPD and supports redirecting resources to social services."
+      },
+      {
+        "issue": "infrastructure",
+        "stance": "Mamdani is a strong advocate for public transit and active transportation. He supports expanding bus rapid transit and making the subway free."
+      }
+    ],
+    "website": "https://www.nyc.gov/office-of-the-mayor",
+    "endorsements": [
+      "Democratic Socialists of America",
+      "Working Families Party",
+      "32BJ SEIU",
+      "UFT"
+    ]
+  },
+  {
+    "id": "jumaane-williams-advocate",
+    "name": "Jumaane Williams",
+    "party": "Democrat",
+    "race": "NYC Public Advocate",
+    "level": "local",
+    "county": "New York",
+    "district": null,
+    "incumbent": true,
+    "election_year": 2025,
+    "primary_date": null,
+    "general_date": null,
+    "bio": "Jumaane Williams has served as New York City Public Advocate since 2019. A Brooklyn native and former City Council member, he has been a vocal progressive on police accountability, housing, and tenant rights. He ran for Governor in 2022 on the Working Families Party line.",
+    "photo_url": "/photos/jumaane-williams-advocate.jpg",
+    "key_issues": [
+      {
+        "issue": "public-safety",
+        "stance": "Williams has been one of the most vocal critics of NYPD misconduct and has championed police accountability legislation. He has called for reforms to discipline procedures and greater civilian oversight."
+      },
+      {
+        "issue": "housing",
+        "stance": "Williams has been a strong advocate for tenant rights and affordable housing. He has used the Public Advocate's bully pulpit to highlight landlord harassment and housing court issues."
+      },
+      {
+        "issue": "healthcare",
+        "stance": "Williams has focused on mental health crisis response and has advocated for expanding CAHOOTS-style mental health emergency teams as alternatives to armed police response."
+      }
+    ],
+    "website": "https://www.pubadvocate.nyc.gov",
+    "endorsements": [
+      "Working Families Party"
+    ]
+  }
+]

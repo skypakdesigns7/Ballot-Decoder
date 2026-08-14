@@ -1,0 +1,374 @@
+[
+  {
+    "id": "2025-prop-1",
+    "year": 2025,
+    "election_date": "November 4, 2025",
+    "status": "passed",
+    "scope": "statewide",
+    "number": "Proposal 1",
+    "title": "Adirondack Land Swap for Olympic Venue",
+    "official_title": "Amendment to Allow Land Swap Involving State Forest Preserve Land at Mount Van Hoevenberg",
+    "summary": "This constitutional amendment authorized a one-time land swap that allows the state to exchange a small parcel of protected Adirondack Forest Preserve land for privately held land of equal or greater value and environmental quality. The swap was needed to allow upgrades to the Mount Van Hoevenberg Olympic sports complex in Lake Placid in preparation for potential future Olympic events. The swapped land stays fully protected — only its official classification changes.",
+    "plain_english_explanation": "New York's constitution protects the Adirondack and Catskill Forest Preserves as 'forever wild,' which generally prohibits any land from being removed from those protected classifications. The Olympic bobsled and luge venue at Mount Van Hoevenberg, which dates to the 1932 Lake Placid Olympics, needed infrastructure upgrades that technically required reclassifying a small piece of Forest Preserve land. This proposal allowed a carefully defined land swap: the state exchanged roughly 200 acres near the venue for privately held land of at least equal acreage and ecological value elsewhere in the Adirondacks. The net result is that the total protected land in the Forest Preserve does not decrease — and the Olympic venue can be modernized for continued use.",
+    "implications": "With the amendment passed, the state can proceed with Olympic venue improvements at Lake Placid, supporting the regional tourism economy and keeping the complex viable for competition. Environmental advocates had differing views: the Adirondack Council supported the swap as a reasonable trade that maintains overall Forest Preserve acreage, while some conservationists worried about setting a precedent of any land reclassification in the 'forever wild' preserve. The mechanism requires the replacement land to be of equal or greater ecological value, a safeguard written into the constitutional language.",
+    "affected_groups": {
+      "tags": ["Upstate Residents", "Taxpayers", "Local Government"],
+      "detail": "Residents and businesses in the Lake Placid and North Country region benefit most directly from continued Olympic venue operation, which drives tourism and local jobs. New York taxpayers broadly funded the venue improvements. Environmental groups with an interest in Adirondack conservation were the most engaged statewide stakeholders."
+    },
+    "vote_result": {
+      "outcome": "passed",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Passed statewide. Official certified results available at elections.ny.gov."
+    },
+    "supporters": [
+      {
+        "name": "NY Olympic Regional Development Authority (ORDA)",
+        "type": "nonprofit",
+        "reason": "ORDA operates the venue and needed the reclassification to proceed with federally required upgrades to the bobsled and luge track."
+      },
+      {
+        "name": "Adirondack Council",
+        "type": "advocacy",
+        "reason": "Supported the swap as a well-designed exchange that maintains the total acreage and ecological integrity of the Forest Preserve."
+      },
+      {
+        "name": "NY State Legislature",
+        "type": "elected_official",
+        "reason": "The amendment was twice approved by successive legislatures — the constitutional prerequisite before it could go to voters — with broad bipartisan support."
+      },
+      {
+        "name": "Governor Kathy Hochul",
+        "type": "elected_official",
+        "reason": "Championed the amendment as essential for preserving Lake Placid's Olympic legacy and supporting North Country economic development."
+      }
+    ],
+    "opponents": [
+      {
+        "name": "Adirondack Mountain Club",
+        "type": "advocacy",
+        "reason": "Raised concerns that any constitutional land reclassification, even a swap, weakens the 'forever wild' precedent that has protected the Forest Preserve for over a century."
+      }
+    ],
+    "learn_more_url": "https://ballotpedia.org/New_York_Proposal_1,_Mount_Van_Hoevenberg_Land_Swap_Amendment_(2025)"
+  },
+  {
+    "id": "2025-prop-2",
+    "year": 2025,
+    "election_date": "November 4, 2025",
+    "status": "passed",
+    "scope": "nyc_only",
+    "number": "Proposal 2",
+    "title": "Expedited Environmental Review for Affordable Housing",
+    "official_title": "City Charter Amendment to Streamline Environmental Review for Affordable Housing Projects",
+    "summary": "This NYC charter amendment created a faster environmental review track for affordable housing projects. Under existing law, many housing developments — even those that are overwhelmingly affordable — must go through the same lengthy environmental review as large commercial projects. This amendment allowed qualifying affordable housing projects to use a simplified, faster process, cutting months off the timeline from proposal to groundbreaking.",
+    "plain_english_explanation": "Before any significant construction project in New York City can begin, it typically must undergo environmental review under the City Environmental Quality Review (CEQR) process, which examines potential impacts on traffic, air quality, noise, and other factors. This process can add 12–18 months or more to a project timeline, raising costs significantly. Proposal 2 amended the city charter to create an expedited review track for projects where a large majority of units are permanently affordable. Projects that qualify must still complete environmental review — they just do so on a faster schedule with fewer procedural hurdles. The goal is to reduce the time and cost of building affordable housing, which supporters argue is critical given New York City's severe housing shortage.",
+    "implications": "If effective, the streamlined process should lower the cost and timeline for building affordable housing, potentially enabling more units to be built each year. Critics argued that environmental review exists for a reason — to protect communities from projects that generate harmful traffic, pollution, or displacement — and that fast-tracking even affordable projects could harm neighborhoods that bear a disproportionate share of new development. Labor unions also opposed the measure, arguing it was part of a broader package designed to weaken worker protections on construction sites.",
+    "affected_groups": {
+      "tags": ["Renters", "NYC Residents", "Developers", "Union Workers"],
+      "detail": "Low- and moderate-income renters seeking affordable housing benefit if the streamlined process results in more units being built faster. Construction workers and labor unions were opposed, fearing that the broader housing package this was part of would reduce prevailing wage requirements. Community groups in neighborhoods targeted for development raised concerns about losing environmental protections."
+    },
+    "vote_result": {
+      "outcome": "passed",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Passed citywide. Official certified results available at vote.nyc."
+    },
+    "supporters": [
+      {
+        "name": "Mayor Eric Adams",
+        "type": "elected_official",
+        "reason": "Championed all three housing proposals as essential to his 'Get Stuff Built' housing agenda and addressing NYC's affordability crisis."
+      },
+      {
+        "name": "Partnership for New York City",
+        "type": "business_group",
+        "reason": "Supported as a pro-growth measure that removes bureaucratic barriers to housing construction at a time of acute shortage."
+      },
+      {
+        "name": "Real Estate Board of New York (REBNY)",
+        "type": "business_group",
+        "reason": "Backed the expedited review as a way to reduce development costs and make more affordable projects financially feasible."
+      },
+      {
+        "name": "Yes on Affordable Housing Coalition",
+        "type": "advocacy",
+        "reason": "A coalition of developers, housing advocates, and business groups organized specifically to support Proposals 2, 3, and 4."
+      }
+    ],
+    "opponents": [
+      {
+        "name": "NYC Council Speaker Adrienne Adams",
+        "type": "elected_official",
+        "reason": "Opposed the package, arguing the proposals were rushed onto the ballot and could undermine community oversight of development projects."
+      },
+      {
+        "name": "32BJ SEIU",
+        "type": "union",
+        "reason": "Opposed as part of a broader housing package that the union argued failed to include sufficient worker wage and safety protections."
+      },
+      {
+        "name": "District Council of Carpenters",
+        "type": "union",
+        "reason": "Argued the proposals were designed to weaken prevailing wage requirements for construction workers on city-assisted projects."
+      },
+      {
+        "name": "Hotel and Gaming Trades Council",
+        "type": "union",
+        "reason": "Joined the coalition of unions opposing the package, citing concerns about labor standards in accelerated development."
+      },
+      {
+        "name": "Metropolitan Council on Housing",
+        "type": "advocacy",
+        "reason": "A tenant advocacy organization that argued the proposals favored developers over community needs and lacked sufficient affordability guarantees."
+      }
+    ],
+    "learn_more_url": "https://vote.nyc/page/ballot-proposals"
+  },
+  {
+    "id": "2025-prop-3",
+    "year": 2025,
+    "election_date": "November 4, 2025",
+    "status": "passed",
+    "scope": "nyc_only",
+    "number": "Proposal 3",
+    "title": "90-Day Accelerated Land Use Review",
+    "official_title": "City Charter Amendment to Create Expedited 90-Day Land Use Review Process for Qualifying Affordable Housing",
+    "summary": "This charter amendment created an optional 90-day land use review process for affordable housing projects that meet specific criteria. The standard Uniform Land Use Review Procedure (ULURP) can take 7–12 months or longer. Under this amendment, projects that are majority permanently affordable can elect to use the faster 90-day track, with streamlined community board, borough president, City Planning Commission, and City Council review steps.",
+    "plain_english_explanation": "New York City's Uniform Land Use Review Procedure (ULURP) is the standard process for reviewing major land use changes — rezonings, variances, and special permits — and it involves multiple stages of public review by community boards, borough presidents, the City Planning Commission, and the City Council. The full ULURP process typically takes 7 to 12 months at minimum, and complex projects can take much longer. Proposal 3 amended the city charter to create an optional accelerated 90-day ULURP track. Projects that opt in must still go through every review stage — nothing is skipped — but each stage has a tighter deadline. To qualify, a project must commit to a majority of units being permanently affordable at defined income levels. The 90-day clock creates pressure on reviewing bodies to act quickly but still allows public comment at each step.",
+    "implications": "Supporters argued that compressing the land use review timeline removes a major cost driver in housing development — every month of delay means higher carrying costs, which often make affordable projects financially unfeasible. Opponents, including many City Council members, argued that the tight 90-day window gives communities and elected officials inadequate time to evaluate complex projects, negotiate community benefits, or raise meaningful objections. The tension is between efficiency in addressing the housing shortage and the depth of democratic review in land use decisions.",
+    "affected_groups": {
+      "tags": ["Renters", "NYC Residents", "Developers", "Union Workers", "Local Government"],
+      "detail": "Low-income renters benefit if the faster process yields more affordable units. Community boards and local elected officials lose some leverage in negotiations, as the tight timeline limits their ability to demand project modifications. Developers benefit from reduced carrying costs during the approval process."
+    },
+    "vote_result": {
+      "outcome": "passed",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Passed citywide. Official certified results available at vote.nyc."
+    },
+    "supporters": [
+      {
+        "name": "Mayor Eric Adams",
+        "type": "elected_official",
+        "reason": "Called the faster ULURP track essential to closing NYC's housing gap, arguing that years of delay make affordable projects financially impossible."
+      },
+      {
+        "name": "Partnership for New York City",
+        "type": "business_group",
+        "reason": "Supported as a way to make the land use process predictable and efficient for housing developers."
+      },
+      {
+        "name": "Real Estate Board of New York (REBNY)",
+        "type": "business_group",
+        "reason": "Backed the 90-day track as a practical tool for unlocking housing development that stalls under the current lengthy process."
+      },
+      {
+        "name": "Yes on Affordable Housing Coalition",
+        "type": "advocacy",
+        "reason": "Argued that the 90-day track is still democratic — every review step is preserved — just on a tighter schedule."
+      }
+    ],
+    "opponents": [
+      {
+        "name": "NYC Council Speaker Adrienne Adams",
+        "type": "elected_official",
+        "reason": "Argued the 90-day timeline is unrealistically short for communities to meaningfully engage with complex land use changes."
+      },
+      {
+        "name": "32BJ SEIU",
+        "type": "union",
+        "reason": "Opposed as part of the broader package lacking sufficient labor protections on construction sites."
+      },
+      {
+        "name": "District Council of Carpenters",
+        "type": "union",
+        "reason": "Concerned the faster timeline would reduce opportunities to negotiate prevailing wage and apprenticeship requirements."
+      },
+      {
+        "name": "Metropolitan Council on Housing",
+        "type": "advocacy",
+        "reason": "Argued that compressing review timelines primarily benefits developers while limiting community residents' ability to shape projects."
+      },
+      {
+        "name": "Progressive City Council Members",
+        "type": "elected_official",
+        "reason": "Multiple Council members publicly opposed, arguing the proposals were brought to voters without adequate public deliberation."
+      }
+    ],
+    "learn_more_url": "https://vote.nyc/page/ballot-proposals"
+  },
+  {
+    "id": "2025-prop-4",
+    "year": 2025,
+    "election_date": "November 4, 2025",
+    "status": "passed",
+    "scope": "nyc_only",
+    "number": "Proposal 4",
+    "title": "Affordable Housing Appeals Board",
+    "official_title": "City Charter Amendment to Establish an Affordable Housing Appeals Board",
+    "summary": "This charter amendment created a new Affordable Housing Appeals Board with the authority to override local denials of qualifying affordable housing projects. If a project meeting the affordability criteria is rejected by a community board, borough president, or City Planning Commission, the developer can appeal to this new board, which can approve the project over local objections. The board is designed to prevent individual communities from blocking housing that the city as a whole needs.",
+    "plain_english_explanation": "New York City's land use process gives communities significant power to shape — and sometimes block — development in their neighborhoods. Critics have long argued that this system enables 'not in my backyard' (NIMBY) opposition to block affordable housing even in neighborhoods that could accommodate more residents. Proposal 4 created a new five-member Affordable Housing Appeals Board appointed by the mayor. When an affordable housing project that meets specific income-targeting requirements is denied through the normal review process, the developer can bring an appeal to this board. The board can approve projects that were previously rejected, effectively overriding the local review decision. Supporters called this a necessary check on exclusionary zoning; opponents called it an undemocratic override of community voice.",
+    "implications": "The Appeals Board shifts power toward citywide housing goals and away from neighborhood-level veto points. In practice, it creates a pathway for developers to get approved even after local rejection, which could increase affordable housing output in areas that have historically resisted development. However, critics argue it strips communities — especially communities of color that fought hard for land use power — of their ability to protect neighborhood character, negotiate community benefits, and resist gentrification. The composition and independence of the board from the mayor's office was also a concern.",
+    "affected_groups": {
+      "tags": ["Renters", "NYC Residents", "Developers", "Local Government"],
+      "detail": "Low-income renters seeking affordable housing may benefit if the board enables more units to be approved. Existing residents in affected neighborhoods lose some ability to block or shape projects through the local review process. Developers gain a new avenue to get projects approved even after local denial."
+    },
+    "vote_result": {
+      "outcome": "passed",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Passed citywide. Official certified results available at vote.nyc."
+    },
+    "supporters": [
+      {
+        "name": "Mayor Eric Adams",
+        "type": "elected_official",
+        "reason": "Argued the Appeals Board is a necessary counterweight to exclusionary local opposition that has blocked housing for decades."
+      },
+      {
+        "name": "Partnership for New York City",
+        "type": "business_group",
+        "reason": "Supported as a mechanism to get more housing built in neighborhoods with excess office space and under-utilized land."
+      },
+      {
+        "name": "Real Estate Board of New York (REBNY)",
+        "type": "business_group",
+        "reason": "Backed the board as a way to reduce the risk that projects will be killed by local opposition after years of planning and investment."
+      },
+      {
+        "name": "Yes on Affordable Housing Coalition",
+        "type": "advocacy",
+        "reason": "Argued the board is needed to override the NIMBY dynamics that have contributed to NYC's housing shortage."
+      }
+    ],
+    "opponents": [
+      {
+        "name": "NYC Council Speaker Adrienne Adams",
+        "type": "elected_official",
+        "reason": "Called the Appeals Board an anti-democratic override mechanism that removes community power over neighborhood development decisions."
+      },
+      {
+        "name": "32BJ SEIU",
+        "type": "union",
+        "reason": "Opposed as part of a package that prioritizes developer interests over worker wages and community input."
+      },
+      {
+        "name": "Hotel and Gaming Trades Council",
+        "type": "union",
+        "reason": "Argued the board would enable developers to bypass labor standards that communities often negotiate as conditions of approval."
+      },
+      {
+        "name": "Metropolitan Council on Housing",
+        "type": "advocacy",
+        "reason": "Raised concerns that the board would be used to override communities of color who have historically fought for land use power."
+      },
+      {
+        "name": "District Council of Carpenters",
+        "type": "union",
+        "reason": "Opposed as part of a broader housing package that the union argued undermined construction worker protections and wages."
+      }
+    ],
+    "learn_more_url": "https://vote.nyc/page/ballot-proposals"
+  },
+  {
+    "id": "2025-prop-5",
+    "year": 2025,
+    "election_date": "November 4, 2025",
+    "status": "passed",
+    "scope": "nyc_only",
+    "number": "Proposal 5",
+    "title": "Digitize the Official City Map",
+    "official_title": "City Charter Amendment to Allow the City Map to Be Maintained in Digital Form",
+    "summary": "This technical charter amendment modernized how New York City maintains its official city map — the legal document that defines all streets, parks, and public spaces in the five boroughs. Under existing law, the official map must be maintained as a physical document. This amendment authorized the city to maintain it digitally, making it more accessible, easier to update, and cheaper to administer.",
+    "plain_english_explanation": "New York City's official city map is a legal document that has existed since the 19th century and defines the exact location and width of every street, park, and public place in the city. Under city charter provisions written before the digital age, this map had to be maintained as a physical, hand-drawn document stored at the Department of City Planning. Any time a street was renamed, a park was added, or a public space was modified, an official amendment had to be physically recorded. Proposal 5 simply updated the charter to allow the city to maintain this map digitally — which the Department of City Planning has effectively been doing informally for years. The digital map can be searched, updated, and accessed by the public far more easily than a paper archive.",
+    "implications": "This is a largely procedural modernization with no significant policy implications or tradeoffs. A digital official map is more accessible to the public, easier for city agencies to update and use in planning, and eliminates the risk of damage or loss of physical documents. The amendment received broad support and very little organized opposition. The main practical benefit is making accurate, up-to-date city map information freely available online.",
+    "affected_groups": {
+      "tags": ["NYC Residents", "Local Government", "Developers"],
+      "detail": "All NYC residents benefit from easier public access to official city map data. City planners, architects, developers, and legal professionals who rely on the map in their work benefit from a more accessible and accurate digital version. Local government agencies benefit from easier interoperability between the official map and modern GIS systems."
+    },
+    "vote_result": {
+      "outcome": "passed",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Passed citywide with broad support. Official certified results available at vote.nyc."
+    },
+    "supporters": [
+      {
+        "name": "NYC Department of City Planning",
+        "type": "elected_official",
+        "reason": "Championed the change as a long-overdue modernization that aligns the legal requirement with what the agency already does in practice."
+      },
+      {
+        "name": "Mayor Eric Adams",
+        "type": "elected_official",
+        "reason": "Supported as part of a broader effort to modernize city government operations and improve public access to civic data."
+      },
+      {
+        "name": "Citizens Union",
+        "type": "advocacy",
+        "reason": "Supported as a straightforward good-government modernization with no significant downsides."
+      }
+    ],
+    "opponents": [],
+    "learn_more_url": "https://vote.nyc/page/ballot-proposals"
+  },
+  {
+    "id": "2025-prop-6",
+    "year": 2025,
+    "election_date": "November 4, 2025",
+    "status": "failed",
+    "scope": "nyc_only",
+    "number": "Proposal 6",
+    "title": "Move NYC Local Elections to Even Years",
+    "official_title": "City Charter Amendment to Move Mayoral and City Council Elections to Even-Numbered Years Aligned with Presidential Elections",
+    "summary": "This charter amendment would have moved New York City's local elections — for mayor, city council, comptroller, public advocate, and borough presidents — from odd-numbered years (2021, 2025, 2029) to even-numbered years aligned with presidential elections (2024, 2028). Supporters argued it would dramatically increase voter turnout. Opponents argued it would drown local candidates in national politics, reduce local accountability, and harm community engagement. Voters rejected it.",
+    "plain_english_explanation": "Currently, New York City holds its mayoral and city council elections in odd-numbered years — the last one was 2021, and the next was 2025. These are off-cycle elections that typically see much lower turnout than presidential or congressional elections. In 2021, only about 24% of registered voters cast ballots in the mayoral election. Proposal 6 would have shifted these elections to even years, placing them on the same ballot as presidential and congressional races. Presidential election years in New York City see 70%+ voter turnout. Supporters argued this would give city government a much larger and more representative mandate. Opponents countered that local issues like housing, policing, and schools would get drowned out by national politics, making it harder for voters to focus on city candidates and for communities to hold local officials accountable.",
+    "implications": "The proposal failed, so New York City's local elections remain on the odd-year cycle. The debate over turnout versus local accountability is unresolved. Advocates for the change argue that the current system allows organized interest groups — with highly motivated voters — to have outsized influence in low-turnout elections, and that a larger electorate would better represent the city as a whole. Opponents, including many current City Council members who understandably prefer the current system, argued that even-year elections would make it harder for local candidates without strong party backing or national name recognition to win.",
+    "affected_groups": {
+      "tags": ["NYC Residents", "Local Government", "Union Workers"],
+      "detail": "All NYC voters are affected by when and how local elections are structured. Current and future City Council candidates are significantly affected — off-cycle elections tend to favor candidates with organized labor and community board backing, while even-year elections might favor candidates with broader name recognition. Community activists who rely on smaller, engaged electorates for local campaigns were among the most vocal opponents."
+    },
+    "vote_result": {
+      "outcome": "failed",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Failed citywide. Opposed by a majority of voters across the five boroughs."
+    },
+    "supporters": [
+      {
+        "name": "Citizens Union",
+        "type": "advocacy",
+        "reason": "A long-standing good-government position: higher turnout elections produce more representative and accountable local government."
+      },
+      {
+        "name": "Reinvent Albany",
+        "type": "advocacy",
+        "reason": "Supported as a structural reform that would bring NYC's election calendar in line with broader democratic participation goals."
+      }
+    ],
+    "opponents": [
+      {
+        "name": "NYC Council Members (majority)",
+        "type": "elected_official",
+        "reason": "Many Council members opposed, arguing local issues would be overwhelmed by national politics and local voter engagement would diminish."
+      },
+      {
+        "name": "Community Voices Heard",
+        "type": "advocacy",
+        "reason": "Argued that odd-year elections give communities of color more focused power in local races without competition from national partisan dynamics."
+      },
+      {
+        "name": "32BJ SEIU",
+        "type": "union",
+        "reason": "Opposed, arguing that consolidating local elections with national ones reduces organized labor's ability to run targeted, issue-focused local campaigns."
+      },
+      {
+        "name": "Metropolitan Council on Housing",
+        "type": "advocacy",
+        "reason": "Raised concerns that even-year elections would reduce the influence of tenant and housing advocates in local races."
+      }
+    ],
+    "learn_more_url": "https://ballotpedia.org/New_York_City_Proposal_6,_Move_Local_Elections_to_Even-Numbered_Years_Measure_(2025)"
+  }
+]

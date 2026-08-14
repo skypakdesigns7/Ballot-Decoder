@@ -1,0 +1,78 @@
+{
+  "election_year": 2026,
+  "primary": {
+    "date": "June 23, 2026",
+    "registration_deadline_in_person": "June 13, 2026",
+    "registration_deadline_mail": "June 13, 2026",
+    "registration_deadline_online": "June 13, 2026"
+  },
+  "general": {
+    "date": "November 3, 2026",
+    "registration_deadline_in_person": "October 9, 2026",
+    "registration_deadline_mail": "October 9, 2026",
+    "registration_deadline_online": "October 9, 2026"
+  },
+  "filing_deadlines": {
+    "major_parties": "April 6, 2026",
+    "independents": "May 26, 2026",
+    "other_parties": "July 2026"
+  },
+  "registration": {
+    "same_day_registration": true,
+    "same_day_note": "Available during early voting and on Election Day at your poll site",
+    "how_to_register": [
+      { "method": "Online", "url": "https://elections.ny.gov/register-to-vote", "description": "Register online at the NY State Board of Elections website." },
+      { "method": "By Mail", "url": "https://elections.ny.gov/register-to-vote", "description": "Download a voter registration form, fill it out, and mail it to your county Board of Elections." },
+      { "method": "In Person", "url": "https://elections.ny.gov/county-boards-elections", "description": "Visit your county Board of Elections office or any state agency that offers voter registration (DMV, etc.)." },
+      { "method": "Same-Day Registration", "url": "https://elections.ny.gov/register-to-vote", "description": "Register in person at your poll site during early voting or on Election Day." }
+    ],
+    "eligibility": [
+      "U.S. citizen",
+      "18 years old by Election Day",
+      "NYS resident for at least 30 days before the election",
+      "Not currently incarcerated for a felony conviction"
+    ]
+  },
+  "early_voting": {
+    "general_dates": "October 24 – November 1, 2026",
+    "hours": "Varies by county — check your county Board of Elections",
+    "how_to_find_site": "Visit elections.ny.gov or your county Board of Elections website"
+  },
+  "absentee": {
+    "request_deadline": "October 27, 2026",
+    "return_deadline": "November 3, 2026 by 9:00 PM",
+    "eligibility_reasons": [
+      "Absent from county on Election Day",
+      "Temporary or permanent illness or disability",
+      "Caretaker of ill/disabled person",
+      "Detention in jail awaiting trial (not yet convicted)"
+    ]
+  },
+  "id_requirements": {
+    "note": "Most registered voters in NY do not need to show ID at the polls",
+    "first_time_note": "First-time voters who registered by mail may need to show ID",
+    "acceptable_id": [
+      "NY Driver's License or Non-driver ID",
+      "Utility bill or bank statement",
+      "Government document with name and address",
+      "Last 4 digits of Social Security Number"
+    ]
+  },
+  "resources": [
+    { "label": "NY State Board of Elections", "url": "https://elections.ny.gov" },
+    { "label": "Check your registration", "url": "https://elections.ny.gov/registerstatus" },
+    { "label": "Find your polling place", "url": "https://elections.ny.gov/pollingplace" },
+    { "label": "Apply for absentee ballot", "url": "https://elections.ny.gov/applyabsentee" },
+    { "label": "Find your county Board of Elections", "url": "https://elections.ny.gov/county-boards-elections" }
+  ],
+  "deadlines": [
+    { "label": "Major Party Filing Deadline", "date": "2026-04-06", "type": "filing" },
+    { "label": "Independent Petition Deadline", "date": "2026-05-26", "type": "filing" },
+    { "label": "Primary Registration Deadline", "date": "2026-06-13", "type": "registration" },
+    { "label": "Primary Election Day", "date": "2026-06-23", "type": "primary" },
+    { "label": "Early Voting Begins", "date": "2026-10-24", "type": "early_voting" },
+    { "label": "General Registration Deadline", "date": "2026-10-09", "type": "registration" },
+    { "label": "Absentee Ballot Request Deadline", "date": "2026-10-27", "type": "absentee" },
+    { "label": "General Election Day", "date": "2026-11-03", "type": "general" }
+  ]
+}

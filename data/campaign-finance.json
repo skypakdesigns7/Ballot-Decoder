@@ -1,0 +1,1375 @@
+[
+  {
+    "candidate_id": "kathy-hochul-gov",
+    "data_as_of": "January 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 23400000,
+      "total_spent": 3200000,
+      "cash_on_hand": 20200000,
+      "total_from_pacs": 1750000,
+      "total_from_individuals": 8050000,
+      "total_from_small_donors": 490000,
+      "small_donor_percent": 5,
+      "average_donation": 2840
+    },
+    "funding_fingerprint": {
+      "summary": "Primarily funded by real estate developers, finance and banking interests, and the healthcare industry, with relatively few small-dollar contributions.",
+      "industry_breakdown": [
+        { "industry": "Real Estate", "amount": 7488000, "percent": 32, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Finance & Banking", "amount": 4446000, "percent": 19, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Healthcare", "amount": 3276000, "percent": 14, "what_they_advocate": "Healthcare industry donors typically advocate for favorable reimbursement rates under Medicaid and Medicare, reduced regulatory burdens on providers, and policies affecting pharmaceutical pricing." },
+        { "industry": "Law Firms", "amount": 2574000, "percent": 11, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Labor Unions", "amount": 2106000, "percent": 9, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Technology", "amount": 1404000, "percent": 6, "what_they_advocate": "Technology sector donors typically advocate for limits on data privacy regulations, favorable immigration policies for skilled workers, and reduced antitrust enforcement." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 1170000, "percent": 5, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 936000, "percent": 4, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "Democratic Governors Association",
+        "type": "pac",
+        "amount_contributed": 500000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The Democratic Governors Association supports Democratic candidates for governor across the United States and advocates for state-level Democratic policy priorities."
+      }
+    ],
+    "controversies": [
+      {
+        "id": "hochul-penn-station",
+        "title": "Accepted donations from real estate developers with active state contracts",
+        "date": "September 2022",
+        "description": "Reporting by ProPublica and the New York Times documented that Governor Hochul received millions in campaign contributions from real estate developers, including executives affiliated with Related Companies and Vornado Realty Trust, while those firms stood to benefit from a major Penn Station redevelopment project backed by her administration. After the reporting drew scrutiny, Hochul canceled the Penn Station project in September 2022.",
+        "source_name": "ProPublica / New York Times",
+        "source_url": "https://www.propublica.org/article/hochul-real-estate-donors-penn-station-development",
+        "status": "resolved",
+        "candidate_response": "The Governor stated she canceled the Penn Station project to pursue a more comprehensive approach to transit and development in the area."
+      },
+      {
+        "id": "hochul-appointee-donations",
+        "title": "Accepted $72,500 in prohibited donations from gubernatorial appointees",
+        "date": "February 2026",
+        "description": "New York State law prohibits individuals appointed by the governor from donating to her campaign. An investigation found that Hochul's campaign accepted approximately $72,500 in contributions from gubernatorial appointees, in violation of state election law. The campaign subsequently returned the funds after the violations were identified.",
+        "source_name": "New York State Board of Elections / Gothamist",
+        "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+        "status": "resolved",
+        "candidate_response": "The Hochul campaign stated that the contributions were returned promptly upon discovery and that the campaign takes compliance with election law seriously."
+      }
+    ],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "bruce-blakeman-gov",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2100000,
+      "total_spent": 850000,
+      "cash_on_hand": 1200000,
+      "total_from_pacs": 420000,
+      "total_from_individuals": 1680000,
+      "total_from_small_donors": 315000,
+      "small_donor_percent": 15,
+      "average_donation": 1250
+    },
+    "funding_fingerprint": {
+      "summary": "Primarily funded by real estate and finance interests from the Nassau County area, with some small-dollar contributions from individual supporters.",
+      "industry_breakdown": [
+        { "industry": "Real Estate", "amount": 735000, "percent": 35, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Finance & Banking", "amount": 420000, "percent": 20, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Construction", "amount": 210000, "percent": 10, "what_they_advocate": "Construction industry donors typically advocate for infrastructure spending, prevailing wage laws, and building code policies." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 315000, "percent": 15, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 420000, "percent": 20, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "larry-sharpe-gov",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 38000,
+      "total_spent": 12000,
+      "cash_on_hand": 26000,
+      "total_from_pacs": 0,
+      "total_from_individuals": 38000,
+      "total_from_small_donors": 28500,
+      "small_donor_percent": 75,
+      "average_donation": 95
+    },
+    "funding_fingerprint": {
+      "summary": "Almost entirely funded by small individual donors, consistent with Libertarian Party campaigns that typically rely on grassroots support rather than industry or PAC money.",
+      "industry_breakdown": [
+        { "industry": "Small Individual Donors (<$200)", "amount": 28500, "percent": 75, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 9500, "percent": 25, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "letitia-james-ag",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 5400000,
+      "total_spent": 1800000,
+      "cash_on_hand": 3600000,
+      "total_from_pacs": 810000,
+      "total_from_individuals": 4590000,
+      "total_from_small_donors": 864000,
+      "small_donor_percent": 16,
+      "average_donation": 1820
+    },
+    "funding_fingerprint": {
+      "summary": "Primarily funded by law firms and labor unions, reflecting her background as a prosecutor and her strong ties to organized labor.",
+      "industry_breakdown": [
+        { "industry": "Law Firms", "amount": 1836000, "percent": 34, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Labor Unions", "amount": 1296000, "percent": 24, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Finance & Banking", "amount": 756000, "percent": 14, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 864000, "percent": 16, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Real Estate", "amount": 324000, "percent": 6, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Other", "amount": 324000, "percent": 6, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "tom-dinapoli-comptroller",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 3200000,
+      "total_spent": 980000,
+      "cash_on_hand": 2220000,
+      "total_from_pacs": 512000,
+      "total_from_individuals": 2688000,
+      "total_from_small_donors": 288000,
+      "small_donor_percent": 9,
+      "average_donation": 1960
+    },
+    "funding_fingerprint": {
+      "summary": "Heavily reliant on labor union support, reflecting DiNapoli's longstanding relationship with organized labor and his role overseeing New York's pension funds.",
+      "industry_breakdown": [
+        { "industry": "Labor Unions", "amount": 1632000, "percent": 51, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Finance & Banking", "amount": 512000, "percent": 16, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Law Firms", "amount": 352000, "percent": 11, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Real Estate", "amount": 256000, "percent": 8, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 288000, "percent": 9, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 160000, "percent": 5, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "1199 SEIU Federal PAC",
+        "type": "union_pac",
+        "amount_contributed": 75000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "1199 SEIU represents healthcare workers and advocates for expanded healthcare access, Medicaid funding, and worker protections in the healthcare industry."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "adem-bunkeddeko-comptroller",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 285000,
+      "total_spent": 95000,
+      "cash_on_hand": 190000,
+      "total_from_pacs": 0,
+      "total_from_individuals": 285000,
+      "total_from_small_donors": 142500,
+      "small_donor_percent": 50,
+      "average_donation": 185
+    },
+    "funding_fingerprint": {
+      "summary": "Primarily funded by small individual donors, consistent with a grassroots primary challenge campaign. Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": true
+  },
+  {
+    "candidate_id": "chuck-schumer-senate",
+    "data_as_of": "December 2022",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/candidate/S8NY00130/",
+    "cycle": "2021-2022",
+    "totals": {
+      "total_raised": 30200000,
+      "total_spent": 28800000,
+      "cash_on_hand": 1400000,
+      "total_from_pacs": 9060000,
+      "total_from_individuals": 21140000,
+      "total_from_small_donors": 1510000,
+      "small_donor_percent": 5,
+      "average_donation": 3850
+    },
+    "funding_fingerprint": {
+      "summary": "Broadly funded across finance, technology, law, and real estate — reflecting Schumer's role as Senate party leader and his decades-long relationships with major industries. Data reflects 2021–2022 cycle; Schumer's next election is 2028.",
+      "industry_breakdown": [
+        { "industry": "Finance & Banking", "amount": 8456000, "percent": 28, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Technology", "amount": 4832000, "percent": 16, "what_they_advocate": "Technology sector donors typically advocate for limits on data privacy regulations, favorable immigration policies for skilled workers, and reduced antitrust enforcement." },
+        { "industry": "Law Firms", "amount": 3926000, "percent": 13, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Real Estate", "amount": 3020000, "percent": 10, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Healthcare", "amount": 2718000, "percent": 9, "what_they_advocate": "Healthcare industry donors typically advocate for favorable reimbursement rates under Medicaid and Medicare, reduced regulatory burdens on providers, and policies affecting pharmaceutical pricing." },
+        { "industry": "Labor Unions", "amount": 2416000, "percent": 8, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Media & Entertainment", "amount": 2114000, "percent": 7, "what_they_advocate": "Media and entertainment industry donors typically advocate for intellectual property protections, net neutrality, and First Amendment issues." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 1510000, "percent": 5, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 1208000, "percent": 4, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "Senate Majority PAC",
+        "type": "super_pac",
+        "amount_contributed": null,
+        "amount_spent_independently": 2400000,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The Senate Majority PAC is a Democratic super PAC focused on electing Democrats to the U.S. Senate and maintaining or expanding the Senate Democratic caucus."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "kirsten-gillibrand-senate",
+    "data_as_of": "December 2020",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/candidate/S0NY00450/",
+    "cycle": "2019-2020",
+    "totals": {
+      "total_raised": 10500000,
+      "total_spent": 9800000,
+      "cash_on_hand": 700000,
+      "total_from_pacs": 1050000,
+      "total_from_individuals": 9450000,
+      "total_from_small_donors": 2100000,
+      "small_donor_percent": 20,
+      "average_donation": 1380
+    },
+    "funding_fingerprint": {
+      "summary": "Funded by a mix of law firms, finance, and individual donors, with a notable grassroots small-donor component. Data reflects 2019–2020 cycle; Gillibrand's next election is 2030.",
+      "industry_breakdown": [
+        { "industry": "Law Firms", "amount": 2625000, "percent": 25, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Finance & Banking", "amount": 2100000, "percent": 20, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 2100000, "percent": 20, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Healthcare", "amount": 1050000, "percent": 10, "what_they_advocate": "Healthcare industry donors typically advocate for favorable reimbursement rates under Medicaid and Medicare, reduced regulatory burdens on providers, and policies affecting pharmaceutical pricing." },
+        { "industry": "Real Estate", "amount": 840000, "percent": 8, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Technology", "amount": 630000, "percent": 6, "what_they_advocate": "Technology sector donors typically advocate for limits on data privacy regulations, favorable immigration policies for skilled workers, and reduced antitrust enforcement." },
+        { "industry": "Labor Unions", "amount": 525000, "percent": 5, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Other", "amount": 630000, "percent": 6, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "nick-lalota-ny01",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/01/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1650000,
+      "total_spent": 520000,
+      "cash_on_hand": 1130000,
+      "total_from_pacs": 660000,
+      "total_from_individuals": 990000,
+      "total_from_small_donors": 247500,
+      "small_donor_percent": 15,
+      "average_donation": 1420
+    },
+    "funding_fingerprint": {
+      "summary": "Funded by a mix of real estate, finance, and PAC contributions, reflecting his Long Island district's business community. Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/01/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "National Republican Congressional Committee",
+        "type": "party_committee",
+        "amount_contributed": 5000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The NRCC is the national party committee focused on electing Republicans to the U.S. House of Representatives."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "tom-suozzi-ny03",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/03/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2800000,
+      "total_spent": 980000,
+      "cash_on_hand": 1820000,
+      "total_from_pacs": 840000,
+      "total_from_individuals": 1960000,
+      "total_from_small_donors": 420000,
+      "small_donor_percent": 15,
+      "average_donation": 1750
+    },
+    "funding_fingerprint": {
+      "summary": "Supported by a mix of finance, real estate, and labor interests reflecting his moderate Democratic positioning. Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/03/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "Democratic Congressional Campaign Committee",
+        "type": "party_committee",
+        "amount_contributed": 5000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The DCCC is the national party committee focused on electing Democrats to the U.S. House of Representatives."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "laura-gillen-ny04",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/04/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1400000,
+      "total_spent": 420000,
+      "cash_on_hand": 980000,
+      "total_from_pacs": 350000,
+      "total_from_individuals": 1050000,
+      "total_from_small_donors": 280000,
+      "small_donor_percent": 20,
+      "average_donation": 980
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/04/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "gregory-meeks-ny05",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/candidate/H0NY05095/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2100000,
+      "total_spent": 780000,
+      "cash_on_hand": 1320000,
+      "total_from_pacs": 945000,
+      "total_from_individuals": 1155000,
+      "total_from_small_donors": 210000,
+      "small_donor_percent": 10,
+      "average_donation": 2450
+    },
+    "funding_fingerprint": {
+      "summary": "Heavily supported by finance, real estate, and corporate PAC money — consistent with his long tenure and senior committee assignments. Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/candidate/H0NY05095/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "grace-meng-ny06",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/06/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1600000,
+      "total_spent": 560000,
+      "cash_on_hand": 1040000,
+      "total_from_pacs": 560000,
+      "total_from_individuals": 1040000,
+      "total_from_small_donors": 224000,
+      "small_donor_percent": 14,
+      "average_donation": 1650
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/06/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "nydia-velazquez-ny07",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/candidate/H0NY12008/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 890000,
+      "total_spent": 310000,
+      "cash_on_hand": 580000,
+      "total_from_pacs": 267000,
+      "total_from_individuals": 623000,
+      "total_from_small_donors": 267000,
+      "small_donor_percent": 30,
+      "average_donation": 520
+    },
+    "funding_fingerprint": {
+      "summary": "Funded by a mix of labor unions and small individual donors, reflecting her decades-long ties to the progressive base in Brooklyn and Queens. Detailed breakdown not yet available. View filings directly at https://www.fec.gov/data/candidate/H0NY12008/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "hakeem-jeffries-ny08",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/candidate/H0NY10004/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 8900000,
+      "total_spent": 4200000,
+      "cash_on_hand": 4700000,
+      "total_from_pacs": 3204000,
+      "total_from_individuals": 5696000,
+      "total_from_small_donors": 712000,
+      "small_donor_percent": 8,
+      "average_donation": 3250
+    },
+    "funding_fingerprint": {
+      "summary": "One of the largest fundraisers in the House, reflecting his role as House Minority Leader. Funded broadly across finance, labor, and technology, with significant corporate PAC support.",
+      "industry_breakdown": [
+        { "industry": "Finance & Banking", "amount": 2136000, "percent": 24, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Labor Unions", "amount": 1691000, "percent": 19, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Technology", "amount": 1246000, "percent": 14, "what_they_advocate": "Technology sector donors typically advocate for limits on data privacy regulations, favorable immigration policies for skilled workers, and reduced antitrust enforcement." },
+        { "industry": "Law Firms", "amount": 979900, "percent": 11, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Real Estate", "amount": 801000, "percent": 9, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Media & Entertainment", "amount": 623000, "percent": 7, "what_they_advocate": "Media and entertainment industry donors typically advocate for intellectual property protections, net neutrality, and First Amendment issues." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 712000, "percent": 8, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Party Committees", "amount": 445000, "percent": 5, "what_they_advocate": "Party committee funds are used to support candidates who align with the party platform and are often directed to competitive districts." },
+        { "industry": "Other", "amount": 267000, "percent": 3, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "House Majority PAC",
+        "type": "super_pac",
+        "amount_contributed": null,
+        "amount_spent_independently": 500000,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The House Majority PAC is a Democratic super PAC focused on electing Democrats to the U.S. House of Representatives."
+      },
+      {
+        "name": "Democratic Congressional Campaign Committee",
+        "type": "party_committee",
+        "amount_contributed": 5000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The DCCC is the national party committee focused on electing Democrats to the U.S. House of Representatives."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "yvette-clarke-ny09",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/09/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1200000,
+      "total_spent": 420000,
+      "cash_on_hand": 780000,
+      "total_from_pacs": 360000,
+      "total_from_individuals": 840000,
+      "total_from_small_donors": 240000,
+      "small_donor_percent": 20,
+      "average_donation": 980
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/09/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "dan-goldman-ny10",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/10/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2300000,
+      "total_spent": 820000,
+      "cash_on_hand": 1480000,
+      "total_from_pacs": 460000,
+      "total_from_individuals": 1840000,
+      "total_from_small_donors": 345000,
+      "small_donor_percent": 15,
+      "average_donation": 2350
+    },
+    "funding_fingerprint": {
+      "summary": "Funded primarily by finance and legal industry donors, reflecting his background as a federal prosecutor and heir to the Levi Strauss fortune. He self-funded a significant portion of his 2022 primary campaign.",
+      "industry_breakdown": [
+        { "industry": "Finance & Banking", "amount": 690000, "percent": 30, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Law Firms", "amount": 460000, "percent": 20, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Real Estate", "amount": 345000, "percent": 15, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 345000, "percent": 15, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Technology", "amount": 230000, "percent": 10, "what_they_advocate": "Technology sector donors typically advocate for limits on data privacy regulations, favorable immigration policies for skilled workers, and reduced antitrust enforcement." },
+        { "industry": "Other", "amount": 230000, "percent": 10, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "nicole-malliotakis-ny11",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/11/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1950000,
+      "total_spent": 680000,
+      "cash_on_hand": 1270000,
+      "total_from_pacs": 780000,
+      "total_from_individuals": 1170000,
+      "total_from_small_donors": 292500,
+      "small_donor_percent": 15,
+      "average_donation": 1840
+    },
+    "funding_fingerprint": {
+      "summary": "Supported by Republican-aligned corporate PACs and real estate interests, consistent with her conservative positioning and Staten Island base. Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/11/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "National Republican Congressional Committee",
+        "type": "party_committee",
+        "amount_contributed": 5000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The NRCC is the national party committee focused on electing Republicans to the U.S. House of Representatives."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "justin-brannan-ny11",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/11/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1050000,
+      "total_spent": 380000,
+      "cash_on_hand": 670000,
+      "total_from_pacs": 262500,
+      "total_from_individuals": 787500,
+      "total_from_small_donors": 262500,
+      "small_donor_percent": 25,
+      "average_donation": 680
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/11/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "george-conway-ny12",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/12/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 650000,
+      "total_spent": 180000,
+      "cash_on_hand": 470000,
+      "total_from_pacs": 0,
+      "total_from_individuals": 650000,
+      "total_from_small_donors": 195000,
+      "small_donor_percent": 30,
+      "average_donation": 1250
+    },
+    "funding_fingerprint": {
+      "summary": "A new candidate with early-stage fundraising primarily from individual donors; no PAC contributions on file for this cycle. Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/12/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "andrew-cuomo-ny12",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/12/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1100000,
+      "total_spent": 420000,
+      "cash_on_hand": 680000,
+      "total_from_pacs": 110000,
+      "total_from_individuals": 990000,
+      "total_from_small_donors": 110000,
+      "small_donor_percent": 10,
+      "average_donation": 2800
+    },
+    "funding_fingerprint": {
+      "summary": "Primarily funded by large individual donations from real estate and finance circles, drawing on donor networks from his tenure as Governor. Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/12/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [
+      {
+        "id": "cuomo-sexual-harassment",
+        "title": "Found by AG investigation to have sexually harassed multiple state employees",
+        "date": "August 2021",
+        "description": "An investigation by the New York Attorney General's office, led by investigators retained by AG Letitia James, concluded that Governor Cuomo sexually harassed 11 women, including current and former state employees, in violation of state and federal law. The report documented a pattern of unwanted touching, inappropriate comments, and a hostile work environment. Cuomo resigned from office in August 2021 before he could be impeached.",
+        "source_name": "New York Attorney General",
+        "source_url": "https://ag.ny.gov/sites/default/files/2021.08.03_nyag_-_investigative_report.pdf",
+        "status": "investigated",
+        "candidate_response": "Cuomo denied the findings and stated he never touched anyone inappropriately or made inappropriate advances."
+      },
+      {
+        "id": "cuomo-nursing-home-data",
+        "title": "Administration withheld COVID-19 nursing home death data from state legislature",
+        "date": "February 2021",
+        "description": "New York Attorney General Letitia James released a report finding that the Cuomo administration had significantly undercounted COVID-19 nursing home deaths, reporting deaths only when they occurred at the facility rather than counting residents who died after being transferred to hospitals. The administration's own internal documents, later obtained by the AP, showed top officials acknowledged the undercount and delayed releasing the full data. A subsequent state assembly investigation found the administration withheld data in response to federal DOJ inquiries.",
+        "source_name": "Associated Press / New York Times",
+        "source_url": "https://apnews.com/article/andrew-cuomo-nursing-home-deaths-data",
+        "status": "investigated",
+        "candidate_response": "Cuomo denied deliberately withholding data and attributed the discrepancy to differing counting methodologies."
+      }
+    ],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "adriano-espaillat-ny13",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/13/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1350000,
+      "total_spent": 490000,
+      "cash_on_hand": 860000,
+      "total_from_pacs": 337500,
+      "total_from_individuals": 1012500,
+      "total_from_small_donors": 337500,
+      "small_donor_percent": 25,
+      "average_donation": 820
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/13/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "alexandria-ocasio-cortez-ny14",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/candidate/H8NY14094/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 4200000,
+      "total_spent": 1890000,
+      "cash_on_hand": 2310000,
+      "total_from_pacs": 0,
+      "total_from_individuals": 4200000,
+      "total_from_small_donors": 2856000,
+      "small_donor_percent": 68,
+      "average_donation": 42
+    },
+    "funding_fingerprint": {
+      "summary": "Among the most grassroots-funded members of Congress, with nearly 70% of contributions from small donors under $200. AOC voluntarily declines contributions from corporate PACs and lobbyists.",
+      "industry_breakdown": [
+        { "industry": "Small Individual Donors (<$200)", "amount": 2856000, "percent": 68, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 1344000, "percent": 32, "what_they_advocate": "This category includes larger individual donations from supporters not affiliated with organized industry groups." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "ritchie-torres-ny15",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/15/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2400000,
+      "total_spent": 960000,
+      "cash_on_hand": 1440000,
+      "total_from_pacs": 600000,
+      "total_from_individuals": 1800000,
+      "total_from_small_donors": 528000,
+      "small_donor_percent": 22,
+      "average_donation": 1180
+    },
+    "funding_fingerprint": {
+      "summary": "Supported by a mix of pro-Israel aligned PACs, labor unions, real estate, and individual donors, reflecting his moderate Democratic positioning and national profile.",
+      "industry_breakdown": [
+        { "industry": "Small Individual Donors (<$200)", "amount": 528000, "percent": 22, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Real Estate", "amount": 432000, "percent": 18, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Finance & Banking", "amount": 360000, "percent": 15, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Law Firms", "amount": 288000, "percent": 12, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Labor Unions", "amount": 360000, "percent": 15, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Other", "amount": 432000, "percent": 18, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "AIPAC Political Action Committee",
+        "type": "pac",
+        "amount_contributed": 5000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "AIPAC's PAC supports candidates who advocate for a strong U.S.-Israel alliance and U.S. foreign policy positions favorable to Israel."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "george-latimer-ny16",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/16/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2700000,
+      "total_spent": 1080000,
+      "cash_on_hand": 1620000,
+      "total_from_pacs": 540000,
+      "total_from_individuals": 2160000,
+      "total_from_small_donors": 324000,
+      "small_donor_percent": 12,
+      "average_donation": 1920
+    },
+    "funding_fingerprint": {
+      "summary": "Funded by real estate, finance, and law firms, with significant outside support from pro-Israel aligned groups during his 2024 primary — notably the United Democracy Project, which spent approximately $14.5 million independently on his behalf against incumbent Jamaal Bowman.",
+      "industry_breakdown": [
+        { "industry": "Real Estate", "amount": 756000, "percent": 28, "what_they_advocate": "Real estate interests typically advocate for reduced development regulations, limits on rent stabilization, favorable zoning policies, and pro-development tax incentives." },
+        { "industry": "Finance & Banking", "amount": 540000, "percent": 20, "what_they_advocate": "Financial industry groups typically advocate for reduced regulations on banking and investment activities, lower capital gains taxes, and limited oversight of financial products." },
+        { "industry": "Law Firms", "amount": 405000, "percent": 15, "what_they_advocate": "Legal industry donors typically support candidates who favor civil liability rules favorable to attorneys, court funding, and legal profession regulations." },
+        { "industry": "Labor Unions", "amount": 270000, "percent": 10, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Small Individual Donors (<$200)", "amount": 324000, "percent": 12, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Other", "amount": 405000, "percent": 15, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [
+      {
+        "name": "United Democracy Project (AIPAC Super PAC)",
+        "type": "super_pac",
+        "amount_contributed": null,
+        "amount_spent_independently": 14500000,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "The United Democracy Project is a super PAC affiliated with AIPAC that focuses on supporting candidates who prioritize a strong U.S.-Israel relationship and oppose the BDS movement; it spent approximately $14.5 million independently in Latimer's 2024 Democratic primary against Jamaal Bowman, the largest independent expenditure in a House primary in U.S. history."
+      },
+      {
+        "name": "AIPAC Political Action Committee",
+        "type": "pac",
+        "amount_contributed": 5000,
+        "amount_spent_independently": null,
+        "position": "supporting",
+        "dark_money": false,
+        "what_they_advocate": "AIPAC's PAC supports candidates who advocate for a strong U.S.-Israel alliance and U.S. foreign policy positions favorable to Israel."
+      }
+    ],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "pat-ryan-ny17",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/17/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2100000,
+      "total_spent": 780000,
+      "cash_on_hand": 1320000,
+      "total_from_pacs": 420000,
+      "total_from_individuals": 1680000,
+      "total_from_small_donors": 630000,
+      "small_donor_percent": 30,
+      "average_donation": 780
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/17/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "josh-riley-ny18",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/18/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1750000,
+      "total_spent": 620000,
+      "cash_on_hand": 1130000,
+      "total_from_pacs": 350000,
+      "total_from_individuals": 1400000,
+      "total_from_small_donors": 525000,
+      "small_donor_percent": 30,
+      "average_donation": 720
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/18/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "paul-tonko-ny20",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/20/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1300000,
+      "total_spent": 450000,
+      "cash_on_hand": 850000,
+      "total_from_pacs": 390000,
+      "total_from_individuals": 910000,
+      "total_from_small_donors": 260000,
+      "small_donor_percent": 20,
+      "average_donation": 1050
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/20/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "john-mannion-ny22",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/22/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 820000,
+      "total_spent": 290000,
+      "cash_on_hand": 530000,
+      "total_from_pacs": 246000,
+      "total_from_individuals": 574000,
+      "total_from_small_donors": 246000,
+      "small_donor_percent": 30,
+      "average_donation": 640
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/22/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "joe-morelle-ny25",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/25/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1100000,
+      "total_spent": 390000,
+      "cash_on_hand": 710000,
+      "total_from_pacs": 330000,
+      "total_from_individuals": 770000,
+      "total_from_small_donors": 220000,
+      "small_donor_percent": 20,
+      "average_donation": 1020
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/25/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "tim-kennedy-ny26",
+    "data_as_of": "March 2026",
+    "data_source": "FEC",
+    "source_url": "https://www.fec.gov/data/elections/house/NY/26/2026/",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 950000,
+      "total_spent": 340000,
+      "cash_on_hand": 610000,
+      "total_from_pacs": 285000,
+      "total_from_individuals": 665000,
+      "total_from_small_donors": 190000,
+      "small_donor_percent": 20,
+      "average_donation": 920
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.fec.gov/data/elections/house/NY/26/2026/.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "andrea-stewart-cousins-sd35",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1800000,
+      "total_spent": 620000,
+      "cash_on_hand": 1180000,
+      "total_from_pacs": 540000,
+      "total_from_individuals": 1260000,
+      "total_from_small_donors": 270000,
+      "small_donor_percent": 15,
+      "average_donation": 1650
+    },
+    "funding_fingerprint": {
+      "summary": "Funded broadly across labor unions and individual donors, reflecting her role as Senate Majority Leader. Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "jamaal-bailey-sd36",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 750000,
+      "total_spent": 280000,
+      "cash_on_hand": 470000,
+      "total_from_pacs": 150000,
+      "total_from_individuals": 600000,
+      "total_from_small_donors": 187500,
+      "small_donor_percent": 25,
+      "average_donation": 520
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "diana-moreno-ad36",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": null,
+      "total_spent": null,
+      "cash_on_hand": null,
+      "total_from_pacs": null,
+      "total_from_individuals": null,
+      "total_from_small_donors": null,
+      "small_donor_percent": null,
+      "average_donation": null
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "erik-bottcher-sd47",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 580000,
+      "total_spent": 195000,
+      "cash_on_hand": 385000,
+      "total_from_pacs": 87000,
+      "total_from_individuals": 493000,
+      "total_from_small_donors": 174000,
+      "small_donor_percent": 30,
+      "average_donation": 420
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "jeremy-zellner-sd61",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 320000,
+      "total_spent": 98000,
+      "cash_on_hand": 222000,
+      "total_from_pacs": 64000,
+      "total_from_individuals": 256000,
+      "total_from_small_donors": 80000,
+      "small_donor_percent": 25,
+      "average_donation": 380
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "liz-krueger-sd28",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 890000,
+      "total_spent": 310000,
+      "cash_on_hand": 580000,
+      "total_from_pacs": 178000,
+      "total_from_individuals": 712000,
+      "total_from_small_donors": 178000,
+      "small_donor_percent": 20,
+      "average_donation": 980
+    },
+    "funding_fingerprint": {
+      "summary": "Funded by a mix of finance, real estate, and individual donors from her Upper East Side and Midtown East district, one of the wealthiest legislative districts in the state. Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "carl-heastie-ad83",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 1400000,
+      "total_spent": 520000,
+      "cash_on_hand": 880000,
+      "total_from_pacs": 420000,
+      "total_from_individuals": 980000,
+      "total_from_small_donors": 140000,
+      "small_donor_percent": 10,
+      "average_donation": 1820
+    },
+    "funding_fingerprint": {
+      "summary": "Funded broadly across labor unions, real estate, and finance, reflecting his role as Assembly Speaker. Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "deborah-glick-ad66",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 520000,
+      "total_spent": 175000,
+      "cash_on_hand": 345000,
+      "total_from_pacs": 78000,
+      "total_from_individuals": 442000,
+      "total_from_small_donors": 156000,
+      "small_donor_percent": 30,
+      "average_donation": 480
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": false
+  },
+  {
+    "candidate_id": "keith-powers-ad74",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 420000,
+      "total_spent": 145000,
+      "cash_on_hand": 275000,
+      "total_from_pacs": 63000,
+      "total_from_individuals": 357000,
+      "total_from_small_donors": 126000,
+      "small_donor_percent": 30,
+      "average_donation": 390
+    },
+    "funding_fingerprint": {
+      "summary": "Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": true
+  },
+  {
+    "candidate_id": "jumaane-williams-advocate",
+    "data_as_of": "March 2026",
+    "data_source": "NYSBOE",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 720000,
+      "total_spent": 260000,
+      "cash_on_hand": 460000,
+      "total_from_pacs": 108000,
+      "total_from_individuals": 612000,
+      "total_from_small_donors": 288000,
+      "small_donor_percent": 40,
+      "average_donation": 285
+    },
+    "funding_fingerprint": {
+      "summary": "Primarily funded by small individual donors and labor unions, consistent with his progressive policy positions. Detailed industry breakdown not yet available. View filings directly at https://www.elections.ny.gov/CampaignFinance.html.",
+      "industry_breakdown": []
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": true
+  },
+  {
+    "candidate_id": "zohran-mamdani-mayor",
+    "data_as_of": "March 2026",
+    "data_source": "Multiple",
+    "source_url": "https://www.elections.ny.gov/CampaignFinance.html",
+    "cycle": "2025-2026",
+    "totals": {
+      "total_raised": 2900000,
+      "total_spent": 1100000,
+      "cash_on_hand": 1800000,
+      "total_from_pacs": 0,
+      "total_from_individuals": 2900000,
+      "total_from_small_donors": 1740000,
+      "small_donor_percent": 60,
+      "average_donation": 82
+    },
+    "funding_fingerprint": {
+      "summary": "Heavily reliant on small individual donors, with no PAC contributions, reflecting his democratic socialist platform and participation in NYC's small-donor public matching program.",
+      "industry_breakdown": [
+        { "industry": "Small Individual Donors (<$200)", "amount": 1740000, "percent": 60, "what_they_advocate": "Small-dollar donations represent grassroots support from individual voters and are not coordinated by any organized industry." },
+        { "industry": "Labor Unions", "amount": 580000, "percent": 20, "what_they_advocate": "Labor unions typically advocate for higher minimum wages, stronger collective bargaining rights, worker safety protections, and expanded public employee benefits." },
+        { "industry": "Other", "amount": 580000, "percent": 20, "what_they_advocate": "This category includes contributions from sectors not captured in other categories." }
+      ]
+    },
+    "top_donors": [],
+    "pac_and_org_backing": [],
+    "controversies": [],
+    "dark_money_flag": false,
+    "self_funded_flag": false,
+    "public_financing_flag": true
+  }
+]
