@@ -540,7 +540,7 @@ export default function BallotProposalsPage() {
           ))}
 
           {pastProposals.length > 0 && (
-            <section className="bg-[#52B788] rounded-none p-4 sm:p-6 space-y-6">
+            <section className="bg-[#cae2bf] rounded-none p-4 sm:p-6 space-y-6">
               <h2 className="text-2xl font-extrabold text-[#081f00] leading-tight">
                 2025 Ballot Proposals
               </h2>
