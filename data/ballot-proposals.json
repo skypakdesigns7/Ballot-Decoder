@@ -1,5 +1,156 @@
 [
   {
+    "id": "2026-prop-1",
+    "year": 2026,
+    "election_date": "November 3, 2026",
+    "status": "upcoming",
+    "scope": "nyc_only",
+    "number": "Proposal 1",
+    "title": "Faster Permits to Use Public Space",
+    "official_title": "Simplify process to use public space for uses such as ramps, planters, and cafes, by removing mandatory hearings and Council disapproval of sidewalk cafes, while maintaining community and Council input.",
+    "summary": "This NYC charter amendment would speed up the process for getting the city's permission (called a \"revocable consent\") to put things like ramps, planters, benches, and outdoor cafes on public sidewalks and streets.",
+    "plain_english_explanation": "Today, getting permission to use a piece of public space can take three to eight months. This proposal would combine application steps, remove the mandatory public hearing, end the City Council's power to disapprove sidewalk cafes, and modernize how applications are advertised. Supporters estimate the process would drop to roughly two months. Community boards and the Council would still get to weigh in, but they would no longer have a required hearing or veto over sidewalk cafes.",
+    "implications": "If passed, small businesses and property owners could get approvals for cafes, ramps, and similar uses faster and with less paperwork. If it fails, the current longer process with mandatory hearings stays in place. The trade-off is speed versus formal public input: fewer required hearings means fewer built-in chances for neighbors to object.",
+    "affected_groups": {
+      "tags": [
+        "Businesses",
+        "NYC Residents",
+        "Local Government"
+      ],
+      "detail": "Restaurants, shop owners, and property owners who want to use sidewalk space would benefit most from faster approvals. Neighbors and community boards would keep an advisory role but lose a mandatory hearing, and the City Council would lose its power to disapprove sidewalk cafes."
+    },
+    "vote_result": {
+      "outcome": "pending",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Adopted by the Commission on Government Efficiency on July 23, 2026. Official certification for the ballot has not yet been confirmed — check vote.nyc for the final ballot."
+    },
+    "supporters": [],
+    "opponents": [],
+    "learn_more_url": "https://www.nycvotes.org/whats-on-the-ballot/2026-ballot-proposals/"
+  },
+  {
+    "id": "2026-prop-2",
+    "year": 2026,
+    "election_date": "November 3, 2026",
+    "status": "upcoming",
+    "scope": "nyc_only",
+    "number": "Proposal 2",
+    "title": "Less Paperwork for City Contractors",
+    "official_title": "Reduce paperwork for City's contractors by authorizing Procurement Policy Board to simplify contractor questionnaire. Require quarterly meetings of the Procurement Policy Board. Remove mandatory hearing for required client services report.",
+    "summary": "This NYC charter amendment aims to make it easier to do business with the city by letting the Procurement Policy Board simplify the questionnaire contractors must fill out, requiring that board to meet every quarter, and removing a mandatory hearing on a client services report.",
+    "plain_english_explanation": "When the city buys goods or services, businesses and nonprofits have to complete a long questionnaire and go through a process that takes a median of 387 days. This proposal lets the Procurement Policy Board — the body that writes the city's purchasing rules — simplify that questionnaire, and requires the board to meet at least quarterly. It also removes a required public hearing on an annual report about client services contracts. The commission's report estimates these changes would cut procurement timelines by about 12%, or roughly 30 days.",
+    "implications": "If passed, small businesses and nonprofits that contract with the city could face less paperwork and get paid for work sooner. If it fails, the current questionnaire and hearing requirements remain. Removing a mandatory hearing means one fewer scheduled opportunity for public scrutiny of city contracts.",
+    "affected_groups": {
+      "tags": [
+        "Businesses",
+        "Taxpayers",
+        "Local Government"
+      ],
+      "detail": "Nonprofits and small businesses that provide services to the city — from social services to construction — are most directly affected. Taxpayers have a stake in how efficiently and transparently city money is spent."
+    },
+    "vote_result": {
+      "outcome": "pending",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Adopted by the Commission on Government Efficiency on July 23, 2026. Official certification for the ballot has not yet been confirmed — check vote.nyc for the final ballot."
+    },
+    "supporters": [],
+    "opponents": [],
+    "learn_more_url": "https://www.nycvotes.org/whats-on-the-ballot/2026-ballot-proposals/"
+  },
+  {
+    "id": "2026-prop-3",
+    "year": 2026,
+    "election_date": "November 3, 2026",
+    "status": "upcoming",
+    "scope": "nyc_only",
+    "number": "Proposal 3",
+    "title": "Faster Street Safety Projects, Property Sales, and Office Leases",
+    "official_title": "Simplify review of street safety projects to reduce construction timelines. Fast track disposition of unused City property with approval from City Planning Commission. Expedite leasing offices used for City workforce.",
+    "summary": "This three-part NYC charter amendment would speed up street safety projects such as bike and bus lanes, fast-track the sale or transfer of unused city-owned property, and make it quicker for the city to lease office space for its workers.",
+    "plain_english_explanation": "First, it simplifies the consultations agencies must go through before building street safety projects; the commission estimates this would speed them up by about 33%. Second, it lets the city dispose of unused property more quickly — from about seven months to about 90 days — with approval from the City Planning Commission. Third, it expedites leasing of office space used by city employees, which reporting indicates would remove the City Council's approval step for those leases.",
+    "implications": "If passed, bike lanes, bus lanes, and other safety projects could be built faster, and unused city land could be put to new use sooner. If it fails, the current review steps remain. Critics of this kind of change may argue that less review means less oversight of how city land and money are used.",
+    "affected_groups": {
+      "tags": [
+        "NYC Residents",
+        "Taxpayers",
+        "Local Government"
+      ],
+      "detail": "Pedestrians, cyclists, and bus riders could see safety projects completed sooner. Neighborhoods near unused city property could see it sold or redeveloped faster. The City Council would have less say over office leases."
+    },
+    "vote_result": {
+      "outcome": "pending",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Adopted by the Commission on Government Efficiency on July 23, 2026. Official certification for the ballot has not yet been confirmed — check vote.nyc for the final ballot."
+    },
+    "supporters": [],
+    "opponents": [],
+    "learn_more_url": "https://www.nycvotes.org/whats-on-the-ballot/2026-ballot-proposals/"
+  },
+  {
+    "id": "2026-prop-4",
+    "year": 2026,
+    "election_date": "November 3, 2026",
+    "status": "upcoming",
+    "scope": "nyc_only",
+    "number": "Proposal 4",
+    "title": "Simpler Building Permits",
+    "official_title": "Create centralized construction permits hub to simplify permitting. Move waterfront permitting from Department of Small Business Services to Department of Buildings. Allow construction approval by additional Department of Buildings officials.",
+    "summary": "This NYC charter amendment would create a single central hub for construction permits, move waterfront construction permitting to the Department of Buildings, and allow more Department of Buildings officials to approve construction.",
+    "plain_english_explanation": "Right now, builders often have to deal with several city agencies separately to get a project approved. This proposal creates a centralized permitting hub to bring that process into one place. It also moves permits for waterfront construction — like piers and bulkheads — from the Department of Small Business Services to the Department of Buildings, and lets more Buildings officials sign off on approvals so fewer projects wait on a small number of people.",
+    "implications": "If passed, construction projects, including housing, could get permits faster and with less confusion. If it fails, permitting stays split across agencies as it is today. Spreading approval authority across more officials could speed things up but also raises questions about keeping review consistent.",
+    "affected_groups": {
+      "tags": [
+        "Developers",
+        "Homeowners",
+        "Businesses",
+        "NYC Residents"
+      ],
+      "detail": "Developers, contractors, and homeowners doing renovations would deal with a simpler permitting process. Waterfront property owners and businesses would deal with a different agency than before."
+    },
+    "vote_result": {
+      "outcome": "pending",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Adopted by the Commission on Government Efficiency on July 23, 2026. Official certification for the ballot has not yet been confirmed — check vote.nyc for the final ballot."
+    },
+    "supporters": [],
+    "opponents": [],
+    "learn_more_url": "https://www.nycvotes.org/whats-on-the-ballot/2026-ballot-proposals/"
+  },
+  {
+    "id": "2026-prop-5",
+    "year": 2026,
+    "election_date": "November 3, 2026",
+    "status": "upcoming",
+    "scope": "nyc_only",
+    "number": "Proposal 5",
+    "title": "Rainy Day Fund Savings Targets",
+    "official_title": "Set target amount of money to hold in reserve funds, including rainy day fund, to address unexpected financial hardships in future years, and require development of methodology to calculate contributions.",
+    "summary": "This NYC charter amendment would set a target for how much money the city keeps in reserve — including its rainy day fund — to prepare for future emergencies and economic downturns.",
+    "plain_english_explanation": "New York City has a rainy day fund, but the charter doesn't set a clear goal for how much should be saved. This proposal sets a target of keeping reserves equal to at least 12% of the previous year's tax revenue, requires the city to develop a method for calculating how much to contribute each year, and writes into the charter an existing state rule limiting withdrawals to 50% of the fund.",
+    "implications": "If passed, the city would be expected to build up larger savings, which could protect services during a recession or crisis. If it fails, contributions stay up to each year's budget decisions. The trade-off is that money set aside in reserves isn't available to spend on services or programs that year.",
+    "affected_groups": {
+      "tags": [
+        "Taxpayers",
+        "NYC Residents",
+        "Local Government"
+      ],
+      "detail": "All New Yorkers who rely on city services have a stake, since reserves help avoid deep cuts during hard times. Taxpayers and budget watchers care about how much money is saved versus spent each year."
+    },
+    "vote_result": {
+      "outcome": "pending",
+      "yes_percent": null,
+      "no_percent": null,
+      "note": "Adopted by the Commission on Government Efficiency on July 23, 2026. Official certification for the ballot has not yet been confirmed — check vote.nyc for the final ballot."
+    },
+    "supporters": [],
+    "opponents": [],
+    "learn_more_url": "https://www.nycvotes.org/whats-on-the-ballot/2026-ballot-proposals/"
+  },
+  {
     "id": "2025-prop-1",
     "year": 2025,
     "election_date": "November 4, 2025",
@@ -12,7 +163,11 @@
     "plain_english_explanation": "New York's constitution protects the Adirondack and Catskill Forest Preserves as 'forever wild,' which generally prohibits any land from being removed from those protected classifications. The Olympic bobsled and luge venue at Mount Van Hoevenberg, which dates to the 1932 Lake Placid Olympics, needed infrastructure upgrades that technically required reclassifying a small piece of Forest Preserve land. This proposal allowed a carefully defined land swap: the state exchanged roughly 200 acres near the venue for privately held land of at least equal acreage and ecological value elsewhere in the Adirondacks. The net result is that the total protected land in the Forest Preserve does not decrease — and the Olympic venue can be modernized for continued use.",
     "implications": "With the amendment passed, the state can proceed with Olympic venue improvements at Lake Placid, supporting the regional tourism economy and keeping the complex viable for competition. Environmental advocates had differing views: the Adirondack Council supported the swap as a reasonable trade that maintains overall Forest Preserve acreage, while some conservationists worried about setting a precedent of any land reclassification in the 'forever wild' preserve. The mechanism requires the replacement land to be of equal or greater ecological value, a safeguard written into the constitutional language.",
     "affected_groups": {
-      "tags": ["Upstate Residents", "Taxpayers", "Local Government"],
+      "tags": [
+        "Upstate Residents",
+        "Taxpayers",
+        "Local Government"
+      ],
       "detail": "Residents and businesses in the Lake Placid and North Country region benefit most directly from continued Olympic venue operation, which drives tourism and local jobs. New York taxpayers broadly funded the venue improvements. Environmental groups with an interest in Adirondack conservation were the most engaged statewide stakeholders."
     },
     "vote_result": {
@@ -65,7 +220,12 @@
     "plain_english_explanation": "Before any significant construction project in New York City can begin, it typically must undergo environmental review under the City Environmental Quality Review (CEQR) process, which examines potential impacts on traffic, air quality, noise, and other factors. This process can add 12–18 months or more to a project timeline, raising costs significantly. Proposal 2 amended the city charter to create an expedited review track for projects where a large majority of units are permanently affordable. Projects that qualify must still complete environmental review — they just do so on a faster schedule with fewer procedural hurdles. The goal is to reduce the time and cost of building affordable housing, which supporters argue is critical given New York City's severe housing shortage.",
     "implications": "If effective, the streamlined process should lower the cost and timeline for building affordable housing, potentially enabling more units to be built each year. Critics argued that environmental review exists for a reason — to protect communities from projects that generate harmful traffic, pollution, or displacement — and that fast-tracking even affordable projects could harm neighborhoods that bear a disproportionate share of new development. Labor unions also opposed the measure, arguing it was part of a broader package designed to weaken worker protections on construction sites.",
     "affected_groups": {
-      "tags": ["Renters", "NYC Residents", "Developers", "Union Workers"],
+      "tags": [
+        "Renters",
+        "NYC Residents",
+        "Developers",
+        "Union Workers"
+      ],
       "detail": "Low- and moderate-income renters seeking affordable housing benefit if the streamlined process results in more units being built faster. Construction workers and labor unions were opposed, fearing that the broader housing package this was part of would reduce prevailing wage requirements. Community groups in neighborhoods targeted for development raised concerns about losing environmental protections."
     },
     "vote_result": {
@@ -138,7 +298,13 @@
     "plain_english_explanation": "New York City's Uniform Land Use Review Procedure (ULURP) is the standard process for reviewing major land use changes — rezonings, variances, and special permits — and it involves multiple stages of public review by community boards, borough presidents, the City Planning Commission, and the City Council. The full ULURP process typically takes 7 to 12 months at minimum, and complex projects can take much longer. Proposal 3 amended the city charter to create an optional accelerated 90-day ULURP track. Projects that opt in must still go through every review stage — nothing is skipped — but each stage has a tighter deadline. To qualify, a project must commit to a majority of units being permanently affordable at defined income levels. The 90-day clock creates pressure on reviewing bodies to act quickly but still allows public comment at each step.",
     "implications": "Supporters argued that compressing the land use review timeline removes a major cost driver in housing development — every month of delay means higher carrying costs, which often make affordable projects financially unfeasible. Opponents, including many City Council members, argued that the tight 90-day window gives communities and elected officials inadequate time to evaluate complex projects, negotiate community benefits, or raise meaningful objections. The tension is between efficiency in addressing the housing shortage and the depth of democratic review in land use decisions.",
     "affected_groups": {
-      "tags": ["Renters", "NYC Residents", "Developers", "Union Workers", "Local Government"],
+      "tags": [
+        "Renters",
+        "NYC Residents",
+        "Developers",
+        "Union Workers",
+        "Local Government"
+      ],
       "detail": "Low-income renters benefit if the faster process yields more affordable units. Community boards and local elected officials lose some leverage in negotiations, as the tight timeline limits their ability to demand project modifications. Developers benefit from reduced carrying costs during the approval process."
     },
     "vote_result": {
@@ -211,7 +377,12 @@
     "plain_english_explanation": "New York City's land use process gives communities significant power to shape — and sometimes block — development in their neighborhoods. Critics have long argued that this system enables 'not in my backyard' (NIMBY) opposition to block affordable housing even in neighborhoods that could accommodate more residents. Proposal 4 created a new five-member Affordable Housing Appeals Board appointed by the mayor. When an affordable housing project that meets specific income-targeting requirements is denied through the normal review process, the developer can bring an appeal to this board. The board can approve projects that were previously rejected, effectively overriding the local review decision. Supporters called this a necessary check on exclusionary zoning; opponents called it an undemocratic override of community voice.",
     "implications": "The Appeals Board shifts power toward citywide housing goals and away from neighborhood-level veto points. In practice, it creates a pathway for developers to get approved even after local rejection, which could increase affordable housing output in areas that have historically resisted development. However, critics argue it strips communities — especially communities of color that fought hard for land use power — of their ability to protect neighborhood character, negotiate community benefits, and resist gentrification. The composition and independence of the board from the mayor's office was also a concern.",
     "affected_groups": {
-      "tags": ["Renters", "NYC Residents", "Developers", "Local Government"],
+      "tags": [
+        "Renters",
+        "NYC Residents",
+        "Developers",
+        "Local Government"
+      ],
       "detail": "Low-income renters seeking affordable housing may benefit if the board enables more units to be approved. Existing residents in affected neighborhoods lose some ability to block or shape projects through the local review process. Developers gain a new avenue to get projects approved even after local denial."
     },
     "vote_result": {
@@ -284,7 +455,11 @@
     "plain_english_explanation": "New York City's official city map is a legal document that has existed since the 19th century and defines the exact location and width of every street, park, and public place in the city. Under city charter provisions written before the digital age, this map had to be maintained as a physical, hand-drawn document stored at the Department of City Planning. Any time a street was renamed, a park was added, or a public space was modified, an official amendment had to be physically recorded. Proposal 5 simply updated the charter to allow the city to maintain this map digitally — which the Department of City Planning has effectively been doing informally for years. The digital map can be searched, updated, and accessed by the public far more easily than a paper archive.",
     "implications": "This is a largely procedural modernization with no significant policy implications or tradeoffs. A digital official map is more accessible to the public, easier for city agencies to update and use in planning, and eliminates the risk of damage or loss of physical documents. The amendment received broad support and very little organized opposition. The main practical benefit is making accurate, up-to-date city map information freely available online.",
     "affected_groups": {
-      "tags": ["NYC Residents", "Local Government", "Developers"],
+      "tags": [
+        "NYC Residents",
+        "Local Government",
+        "Developers"
+      ],
       "detail": "All NYC residents benefit from easier public access to official city map data. City planners, architects, developers, and legal professionals who rely on the map in their work benefit from a more accessible and accurate digital version. Local government agencies benefit from easier interoperability between the official map and modern GIS systems."
     },
     "vote_result": {
@@ -326,7 +501,11 @@
     "plain_english_explanation": "Currently, New York City holds its mayoral and city council elections in odd-numbered years — the last one was 2021, and the next was 2025. These are off-cycle elections that typically see much lower turnout than presidential or congressional elections. In 2021, only about 24% of registered voters cast ballots in the mayoral election. Proposal 6 would have shifted these elections to even years, placing them on the same ballot as presidential and congressional races. Presidential election years in New York City see 70%+ voter turnout. Supporters argued this would give city government a much larger and more representative mandate. Opponents countered that local issues like housing, policing, and schools would get drowned out by national politics, making it harder for voters to focus on city candidates and for communities to hold local officials accountable.",
     "implications": "The proposal failed, so New York City's local elections remain on the odd-year cycle. The debate over turnout versus local accountability is unresolved. Advocates for the change argue that the current system allows organized interest groups — with highly motivated voters — to have outsized influence in low-turnout elections, and that a larger electorate would better represent the city as a whole. Opponents, including many current City Council members who understandably prefer the current system, argued that even-year elections would make it harder for local candidates without strong party backing or national name recognition to win.",
     "affected_groups": {
-      "tags": ["NYC Residents", "Local Government", "Union Workers"],
+      "tags": [
+        "NYC Residents",
+        "Local Government",
+        "Union Workers"
+      ],
       "detail": "All NYC voters are affected by when and how local elections are structured. Current and future City Council candidates are significantly affected — off-cycle elections tend to favor candidates with organized labor and community board backing, while even-year elections might favor candidates with broader name recognition. Community activists who rely on smaller, engaged electorates for local campaigns were among the most vocal opponents."
     },
     "vote_result": {

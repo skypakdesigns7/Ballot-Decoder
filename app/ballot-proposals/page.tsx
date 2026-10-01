@@ -235,6 +235,11 @@ function ProposalCard({ proposal }: { proposal: Proposal }) {
             )}
           </div>
         )}
+        {proposal.vote_result.outcome === "pending" && proposal.vote_result.note && (
+          <p className={`mt-4 rounded-none border p-3 text-xs ${cfg.classes}`}>
+            {proposal.vote_result.note}
+          </p>
+        )}
       </div>
 
       {/* ── Expandable detail ── */}
@@ -406,12 +411,13 @@ export default function BallotProposalsPage() {
         <Info size={20} className="text-amber-600 flex-shrink-0 mt-0.5" />
         <div>
           <p className="font-semibold text-amber-800 text-sm">
-            Currently showing 2025 ballot proposals as reference
+            2026 proposals added — certification pending
           </p>
           <p className="text-amber-700 text-sm mt-0.5">
-            These are the six proposals that appeared on the November 4, 2025 ballot in New York.
-            2026 statewide and local proposals will be added here when officially certified by the
-            New York State Board of Elections.
+            The five NYC proposals for the November 3, 2026 ballot were adopted by the Commission on
+            Government Efficiency on July 23, 2026. Official certification has not yet been
+            confirmed, and no 2026 statewide proposals have been identified. The six proposals from
+            the November 4, 2025 ballot are shown below for reference.
           </p>
         </div>
       </div>
