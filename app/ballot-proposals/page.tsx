@@ -376,6 +376,9 @@ export default function BallotProposalsPage() {
     });
   }, [scopeFilter, statusFilter, tagFilters, proposals]);
 
+  const upcomingProposals = filtered.filter((p) => p.status === "upcoming");
+  const pastProposals = filtered.filter((p) => p.status !== "upcoming");
+
   function toggleTag(tag: string) {
     setTagFilters((prev) => {
       const next = new Set(prev);
@@ -532,9 +535,20 @@ export default function BallotProposalsPage() {
         </div>
       ) : (
         <div className="space-y-6">
-          {filtered.map((proposal) => (
+          {upcomingProposals.map((proposal) => (
             <ProposalCard key={proposal.id} proposal={proposal} />
           ))}
+
+          {pastProposals.length > 0 && (
+            <section className="bg-[#52B788] rounded-none p-4 sm:p-6 space-y-6">
+              <h2 className="text-2xl font-extrabold text-[#081f00] leading-tight">
+                2025 Ballot Proposals
+              </h2>
+              {pastProposals.map((proposal) => (
+                <ProposalCard key={proposal.id} proposal={proposal} />
+              ))}
+            </section>
+          )}
         </div>
       )}
 
